@@ -1,0 +1,7338 @@
+[
+  {
+    "shopId": "1",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "葛飾区新小岩1-44-6  ",
+    "name": "○×△□(ラくトス)"
+  },
+  {
+    "shopId": "10",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "品川区東大井5-20-1",
+    "name": "LABI 品川大井町 住まいる家電館"
+  },
+  {
+    "shopId": "100",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "十日町市旭町161",
+    "name": "PALO十日町"
+  },
+  {
+    "shopId": "101",
+    "prefId": 36,
+    "prefName": "徳島県",
+    "area": "四国",
+    "address": "小松島市小松島町領田20",
+    "name": "PALO小松島"
+  },
+  {
+    "shopId": "102",
+    "prefId": 32,
+    "prefName": "島根県",
+    "area": "中国",
+    "address": "松江市東朝日町151",
+    "name": "PALO松江"
+  },
+  {
+    "shopId": "103",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "諏訪市沖田町5-18",
+    "name": "PALO諏訪"
+  },
+  {
+    "shopId": "104",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "多摩市関戸4-72",
+    "name": "PALO聖蹟桜ヶ丘"
+  },
+  {
+    "shopId": "105",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "下野市下古山3362-1",
+    "name": "PALO石橋"
+  },
+  {
+    "shopId": "106",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "足利市朝倉町2-21-16",
+    "name": "PALO足利"
+  },
+  {
+    "shopId": "107",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "滝川市東町2-29-1",
+    "name": "PALO滝川"
+  },
+  {
+    "shopId": "108",
+    "prefId": 31,
+    "prefName": "鳥取県",
+    "area": "中国",
+    "address": "鳥取市天神町1",
+    "name": "PALO鳥取"
+  },
+  {
+    "shopId": "109",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "苫小牧市糸井135-1",
+    "name": "PALO苫小牧"
+  },
+  {
+    "shopId": "11",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市浪速区難波中2-11-35",
+    "name": "LABI1なんば"
+  },
+  {
+    "shopId": "110",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市豊町2-5-25",
+    "name": "PALO柏"
+  },
+  {
+    "shopId": "111",
+    "prefId": 18,
+    "prefName": "福井県",
+    "area": "中部",
+    "address": "越前市横市町28-14-1",
+    "name": "PALO武生"
+  },
+  {
+    "shopId": "112",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "防府市中央町1-3",
+    "name": "PALO防府"
+  },
+  {
+    "shopId": "113",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "網走市駒場北5-83-",
+    "name": "PALO網走"
+  },
+  {
+    "shopId": "114",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "須賀川市古河105番地 ｲｵﾝﾀｳﾝ須賀川B棟内",
+    "name": "SOYU ENTERTAINMENT STUDIO須賀川"
+  },
+  {
+    "shopId": "115",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市中京区西ﾉ京栂尾町107番地",
+    "name": "THE 3RD PLANET BiVi京都二条"
+  },
+  {
+    "shopId": "116",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "沼津市大手町1-1-5",
+    "name": "THE 3RD PLANET BiVi沼津"
+  },
+  {
+    "shopId": "117",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市東区宮竹町322番地の1",
+    "name": "THE 3RD PLANET OZ浜松"
+  },
+  {
+    "shopId": "118",
+    "prefId": 46,
+    "prefName": "鹿児島県",
+    "area": "九州・沖縄",
+    "address": "鹿児島市与次郎1丁目11番1号",
+    "name": "THE 3RD PLANET ジャングルパーク鹿児島"
+  },
+  {
+    "shopId": "119",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "福島市栄町1-1",
+    "name": "THE 3RD PLANET ピボット福島"
+  },
+  {
+    "shopId": "12",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "豊島区東池袋1-5-7",
+    "name": "LABI1日本総本店池袋"
+  },
+  {
+    "shopId": "120",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "八潮市大瀬1-1-3",
+    "name": "THE 3RD PLANET フレスポ八潮"
+  },
+  {
+    "shopId": "121",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市都筑区中川中央1-25-1",
+    "name": "THE 3RD PLANET 横浜本店"
+  },
+  {
+    "shopId": "122",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "熊本市中央区手取本町4-12",
+    "name": "THE 3RD PLANET 下通り"
+  },
+  {
+    "shopId": "123",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "山口市湯田温泉6丁目8番3号",
+    "name": "THE 3RD PLANET 山口"
+  },
+  {
+    "shopId": "124",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "多摩市落合1-41-1",
+    "name": "THE 3RD PLANET 多摩センター"
+  },
+  {
+    "shopId": "125",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "富士市永田町2-99",
+    "name": "THE 3RD PLANET 富士"
+  },
+  {
+    "shopId": "126",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "寝屋川市石津中町25-26",
+    "name": "YAZ寝屋川"
+  },
+  {
+    "shopId": "127",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "柴田郡柴田町西船迫2-1-15ｲｵﾝ船岡2F",
+    "name": "あそびの広場船岡"
+  },
+  {
+    "shopId": "128",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "中野区中野5-52-15",
+    "name": "アドアーズ中野"
+  },
+  {
+    "shopId": "129",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区新砂3-4-31",
+    "name": "アドアーズ南砂町SUNAMO"
+  },
+  {
+    "shopId": "13",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市中区胡町5-22",
+    "name": "LABI広島"
+  },
+  {
+    "shopId": "130",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市南区西九条鳥居口町1番 ",
+    "name": "アニメガ×ソフマップ イオンモールKYOTO店"
+  },
+  {
+    "shopId": "131",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市中央区東川崎町1-7-2 ",
+    "name": "アニメガ×ソフマップ 神戸ハーバーランド店"
+  },
+  {
+    "shopId": "132",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市浪速区日本橋3丁目6−18 6F",
+    "name": "アニメガ×ソフマップなんば店"
+  },
+  {
+    "shopId": "133",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市西区南幸2-15-13 ",
+    "name": "アニメガ×ソフマップ横浜ビブレ店"
+  },
+  {
+    "shopId": "134",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市青葉区中央4-1-1",
+    "name": "アニメガ×ソフマップ仙台駅前店"
+  },
+  {
+    "shopId": "135",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市中央区今泉1-25-1 ",
+    "name": "アニメガ×ソフマップ天神1号館"
+  },
+  {
+    "shopId": "136",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中村区椿町6-9 ",
+    "name": "アニメガ×ソフマップ名古屋店"
+  },
+  {
+    "shopId": "137",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "岩倉市旭町1-25",
+    "name": "アピタプラス岩倉"
+  },
+  {
+    "shopId": "138",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "知多郡阿久比町椋岡字徳吉1-12",
+    "name": "アピタ阿久比"
+  },
+  {
+    "shopId": "139",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "一宮市両郷町1-2",
+    "name": "アピタ一宮店"
+  },
+  {
+    "shopId": "14",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "渋谷区道玄坂2-29-20",
+    "name": "LABI渋谷"
+  },
+  {
+    "shopId": "140",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "稲沢市天池五反田町1",
+    "name": "アピタ稲沢"
+  },
+  {
+    "shopId": "141",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "岡崎市日名北町4-46",
+    "name": "アピタ岡崎北"
+  },
+  {
+    "shopId": "142",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "刈谷市南桜町2-56-1",
+    "name": "アピタ刈谷"
+  },
+  {
+    "shopId": "143",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "桑名市中央町3-21",
+    "name": "アピタ桑名"
+  },
+  {
+    "shopId": "144",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市戸塚区上倉田町769-1",
+    "name": "アピタ戸塚"
+  },
+  {
+    "shopId": "145",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "可児郡御嵩町上恵土1052-1",
+    "name": "アピタ御嵩"
+  },
+  {
+    "shopId": "146",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊橋市向山町字中畑1-1",
+    "name": "アピタ向山"
+  },
+  {
+    "shopId": "147",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市西区小新5-7-21",
+    "name": "アピタ新潟西"
+  },
+  {
+    "shopId": "148",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "足利市朝倉町245",
+    "name": "アピタ足利"
+  },
+  {
+    "shopId": "149",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "愛知郡長久手町戸田谷901-1",
+    "name": "アピタ長久手"
+  },
+  {
+    "shopId": "15",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中村区名駅1-2-5",
+    "name": "LABI名古屋"
+  },
+  {
+    "shopId": "150",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市緑区長津田みなみ台4-7-1",
+    "name": "アピタ長津田"
+  },
+  {
+    "shopId": "151",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "東松山市あずま町4-3",
+    "name": "アピタ東松山"
+  },
+  {
+    "shopId": "152",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "磐田市今之浦3-1-11",
+    "name": "アピタ磐田"
+  },
+  {
+    "shopId": "153",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "富山市上冨居3-8-38",
+    "name": "アピタ富山東"
+  },
+  {
+    "shopId": "154",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "本巣郡北方町平成2-3",
+    "name": "アピタ北方"
+  },
+  {
+    "shopId": "155",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市北区辻町9-1",
+    "name": "アピタ名古屋北"
+  },
+  {
+    "shopId": "156",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "杉並区上荻1-13-10",
+    "name": "アピナ荻窪"
+  },
+  {
+    "shopId": "157",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "吉川市美南3-25-1 ｲｵﾝﾀｳﾝ吉川美南",
+    "name": "アピナ吉川美南"
+  },
+  {
+    "shopId": "158",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "佐久市岩村田北1-13-1",
+    "name": "アピナ佐久インター"
+  },
+  {
+    "shopId": "159",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "松本市双葉19-10",
+    "name": "アピナ松本"
+  },
+  {
+    "shopId": "16",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "西東京市田無町2-1-1",
+    "name": "LIVIN田無"
+  },
+  {
+    "shopId": "160",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "上尾市緑丘3-3-11-2",
+    "name": "アピナ上尾"
+  },
+  {
+    "shopId": "161",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "宮城郡利府町利府字新屋田前22",
+    "name": "アピナ新利府 北館"
+  },
+  {
+    "shopId": "162",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "太田市内ヶ島町907-1",
+    "name": "アピナ太田"
+  },
+  {
+    "shopId": "163",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "長岡市堺東町22",
+    "name": "アピナ長岡"
+  },
+  {
+    "shopId": "164",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "長野市若里7-9-12",
+    "name": "アピナ長野大橋"
+  },
+  {
+    "shopId": "165",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "野々市市白山町4-1",
+    "name": "アピナ野々市"
+  },
+  {
+    "shopId": "166",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "福山市三吉町南2-8-24 ",
+    "name": "あみぱらんど福山"
+  },
+  {
+    "shopId": "167",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "岡山市北区青江1丁目13-8",
+    "name": "アミパラ岡山"
+  },
+  {
+    "shopId": "168",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市西区西観音町3-17",
+    "name": "アミパラ広島"
+  },
+  {
+    "shopId": "169",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "昭島市田中町562-1 ﾓﾘﾀｳﾝ東館2F",
+    "name": "アミュージアムモリタウン昭島"
+  },
+  {
+    "shopId": "17",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "魚住市住吉600番地 MEGAﾄﾞﾝ･ｷﾎｰﾃUNY魚津店2F",
+    "name": "MEGAドン・キホーテUNY魚津店ゲームコーナー"
+  },
+  {
+    "shopId": "170",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "下松市中央町21-3 ゆめﾀｳﾝ下松3F",
+    "name": "アミュージアム周南"
+  },
+  {
+    "shopId": "171",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "新座市東北2-32-12 ｲｵﾝ新座店3F ",
+    "name": "アミュージアム新座"
+  },
+  {
+    "shopId": "172",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "練馬区東大泉2-10-11 LIVINｵｽﾞ大泉5F",
+    "name": "アミュージアム大泉"
+  },
+  {
+    "shopId": "173",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "津島市大字津島字北新開351番地 ﾖｼﾂﾞﾔ津島本店 ｼﾈﾏ館2F",
+    "name": "アミュージアム津島"
+  },
+  {
+    "shopId": "174",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区豊洲2-4-9 ｱｰﾊﾞﾝﾄﾞｯｸららぽｰと豊洲3F",
+    "name": "アミュージアム豊洲"
+  },
+  {
+    "shopId": "175",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "静岡市葵区柚木191",
+    "name": "アミューズメントパーク静岡"
+  },
+  {
+    "shopId": "176",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "高槻市芥川町1-2 C-201",
+    "name": "アル・プラザ高槻"
+  },
+  {
+    "shopId": "177",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "佐久市佐久平駅南11-10 ｲｵﾝﾓｰﾙ佐久平2F",
+    "name": "イオンモール佐久平ゲームコーナー"
+  },
+  {
+    "shopId": "178",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "近江八幡市鷹飼町南3-7",
+    "name": "モーリーファンタジーイオン近江八幡"
+  },
+  {
+    "shopId": "179",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "春日井市柏井町4丁目17番地  ",
+    "name": "イオン春日井 3Fキッズインタイトー"
+  },
+  {
+    "shopId": "18",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "姫路市広畑区夢前町1-1-1",
+    "name": "MEGAドン・キホーテ姫路広畑"
+  },
+  {
+    "shopId": "180",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市麻生区上麻生1-19 ｲｵﾝ新百合ヶ丘店4F",
+    "name": "イオン新百合ヶ丘ファミリーパーク"
+  },
+  {
+    "shopId": "181",
+    "prefId": 3,
+    "prefName": "岩手県",
+    "area": "北海道・東北",
+    "address": "盛岡市本宮7-1-1",
+    "name": "モーリーファンタジーイオン盛岡南"
+  },
+  {
+    "shopId": "182",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "相模原市南区古淵2-10-1",
+    "name": "モーリーファンタジーイオン相模原"
+  },
+  {
+    "shopId": "183",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "鈴鹿市庄野羽山4-1-2",
+    "name": "モーリーファンタジーイオン鈴鹿"
+  },
+  {
+    "shopId": "184",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "葛飾区亀有3-49-3",
+    "name": "イトーヨーカドーアリオ亀有"
+  },
+  {
+    "shopId": "185",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "相模原市緑区大山町1-22",
+    "name": "イトーヨーカドーアリオ橋本"
+  },
+  {
+    "shopId": "186",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市東区北7条東9-2-20",
+    "name": "イトーヨーカドーアリオ札幌"
+  },
+  {
+    "shopId": "187",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "上尾市壱丁目367",
+    "name": "イトーヨーカドーアリオ上尾"
+  },
+  {
+    "shopId": "188",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "深谷市上柴町西4-2-14",
+    "name": "イトーヨーカドーアリオ深谷"
+  },
+  {
+    "shopId": "189",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "足立区西新井栄町1-20-1",
+    "name": "イトーヨーカドーアリオ西新井"
+  },
+  {
+    "shopId": "19",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "白山市横江町土地区画整理事業施行地区内1街区",
+    "name": "MIRAINO イオンモール白山"
+  },
+  {
+    "shopId": "190",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市泉区泉中央1-5-1",
+    "name": "イトーヨーカドーアリオ仙台泉"
+  },
+  {
+    "shopId": "191",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "川口市並木元町1-79",
+    "name": "イトーヨーカドーアリオ川口"
+  },
+  {
+    "shopId": "192",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市中央区川崎町52-7",
+    "name": "イトーヨーカドーアリオ蘇我"
+  },
+  {
+    "shopId": "193",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "八尾市光町2-3",
+    "name": "イトーヨーカドーアリオ八尾"
+  },
+  {
+    "shopId": "194",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "堺市西区鳳南町3-199-12",
+    "name": "イトーヨーカドーアリオ鳳"
+  },
+  {
+    "shopId": "195",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区北砂2-17",
+    "name": "イトーヨーカドーアリオ北砂"
+  },
+  {
+    "shopId": "196",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "久喜市久本寺谷田7-1",
+    "name": "イトーヨーカドーアリオ鷲宮"
+  },
+  {
+    "shopId": "197",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市中原区新丸子東3-1135",
+    "name": "イトーヨーカドーグランツリー武蔵小杉"
+  },
+  {
+    "shopId": "198",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市大島田950-1",
+    "name": "イトーヨーカドーセブンパークアリオ柏"
+  },
+  {
+    "shopId": "199",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "葛飾区東金町1-10-8",
+    "name": "イトーヨーカドーセブンホームセンター金町"
+  },
+  {
+    "shopId": "2",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "つくば市竹園1-9-2",
+    "name": "AMジャムジャムつくば"
+  },
+  {
+    "shopId": "20",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "習志野市谷津1-16-1 ﾓﾘｼｱ津田沼2F",
+    "name": "Morisia AMUSE PARK(モリシア)"
+  },
+  {
+    "shopId": "200",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市青葉区美しが丘1-6-1",
+    "name": "イトーヨーカドーたまプラーザ"
+  },
+  {
+    "shopId": "201",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "伊勢原市桜台1-8-1",
+    "name": "イトーヨーカドー伊勢原"
+  },
+  {
+    "shopId": "202",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市浦和区仲町1-7-1",
+    "name": "イトーヨーカドー浦和"
+  },
+  {
+    "shopId": "203",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "墨田区京島1-2-1",
+    "name": "イトーヨーカドー曳舟"
+  },
+  {
+    "shopId": "204",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "加古川市別府町緑町2",
+    "name": "イトーヨーカドー加古川"
+  },
+  {
+    "shopId": "205",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "我孫子市我孫子4-11-1",
+    "name": "イトーヨーカドー我孫子"
+  },
+  {
+    "shopId": "206",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江戸川区東葛西9-3-3",
+    "name": "イトーヨーカドー葛西"
+  },
+  {
+    "shopId": "207",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "久喜市久喜中央4-9-11",
+    "name": "イトーヨーカドー久喜"
+  },
+  {
+    "shopId": "208",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "郡山市西ﾉ内2-11-40",
+    "name": "イトーヨーカドー郡山"
+  },
+  {
+    "shopId": "209",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "弘前市大字駅前3-2-1",
+    "name": "イトーヨーカドー弘前"
+  },
+  {
+    "shopId": "21",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "つくば市研究学園5丁目19番地 iiasつくば店2F2190",
+    "name": "namco iiasつくば店"
+  },
+  {
+    "shopId": "210",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市高津区久本3-6-20",
+    "name": "イトーヨーカドー溝ノ口"
+  },
+  {
+    "shopId": "211",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "西宮市甲子園八番町1-100",
+    "name": "イトーヨーカドー甲子園"
+  },
+  {
+    "shopId": "212",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "調布市国領町8-2-64",
+    "name": "イトーヨーカドー国領"
+  },
+  {
+    "shopId": "213",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "三島市中田町9-30",
+    "name": "イトーヨーカドー三島"
+  },
+  {
+    "shopId": "214",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "葛飾区四つ木2-21-1",
+    "name": "イトーヨーカドー四つ木"
+  },
+  {
+    "shopId": "215",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "四街道市中央5",
+    "name": "イトーヨーカドー四街道"
+  },
+  {
+    "shopId": "216",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "春日部市中央1-13-1",
+    "name": "イトーヨーカドー春日部"
+  },
+  {
+    "shopId": "217",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江戸川区西小岩1-24-1",
+    "name": "イトーヨーカドー小岩"
+  },
+  {
+    "shopId": "218",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "昭島市田中町562-1",
+    "name": "イトーヨーカドー昭島"
+  },
+  {
+    "shopId": "219",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "松戸市松戸1149",
+    "name": "イトーヨーカドー松戸"
+  },
+  {
+    "shopId": "22",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "平塚市代官町33番地1 OSC湘南ｼﾃｨ内",
+    "name": "namcoOSC湘南シティ店"
+  },
+  {
+    "shopId": "220",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "藤沢市石川6-2-1",
+    "name": "イトーヨーカドー湘南台"
+  },
+  {
+    "shopId": "221",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "板橋区常盤台4-26-1",
+    "name": "イトーヨーカドー上板橋"
+  },
+  {
+    "shopId": "222",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市麻生区上麻生1-4-1",
+    "name": "イトーヨーカドー新百合ヶ丘"
+  },
+  {
+    "shopId": "223",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "石巻市あけぼの1-1-2",
+    "name": "イトーヨーカドー石巻あけぼの"
+  },
+  {
+    "shopId": "224",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "北区赤羽西1-7-1",
+    "name": "イトーヨーカドー赤羽"
+  },
+  {
+    "shopId": "225",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "船橋市本町7-6-1",
+    "name": "イトーヨーカドー船橋"
+  },
+  {
+    "shopId": "226",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "草加市高砂2-7-1",
+    "name": "イトーヨーカドー草加"
+  },
+  {
+    "shopId": "227",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "多摩市落合1-44",
+    "name": "イトーヨーカドー多摩センター"
+  },
+  {
+    "shopId": "228",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "品川区大井1-3-6",
+    "name": "イトーヨーカドー大井町"
+  },
+  {
+    "shopId": "229",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市北区宮原町1-854-1",
+    "name": "イトーヨーカドー大宮宮原"
+  },
+  {
+    "shopId": "23",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "稲沢市天池五反田町1番地 ｱﾋﾟﾀ稲沢店",
+    "name": "namcoアピタ稲沢店"
+  },
+  {
+    "shopId": "230",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "鎌倉市大船6-1-1",
+    "name": "イトーヨーカドー大船"
+  },
+  {
+    "shopId": "231",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "大和市下鶴間1-3-1",
+    "name": "イトーヨーカドー大和鶴間"
+  },
+  {
+    "shopId": "232",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "足立区竹の塚517-1",
+    "name": "イトーヨーカドー竹の塚"
+  },
+  {
+    "shopId": "233",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "堺市西区下田町20-1",
+    "name": "イトーヨーカドー津久野"
+  },
+  {
+    "shopId": "234",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "東久留米市本町3-8-1",
+    "name": "イトーヨーカドー東久留米"
+  },
+  {
+    "shopId": "235",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "函館市美原1-3-1",
+    "name": "イトーヨーカドー函館"
+  },
+  {
+    "shopId": "236",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "八戸市沼館4-7-111",
+    "name": "イトーヨーカドー八戸沼館"
+  },
+  {
+    "shopId": "237",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "尾張旭市南原山町石原116-4",
+    "name": "イトーヨーカドー尾張旭"
+  },
+  {
+    "shopId": "238",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵野市境南町2-2-20",
+    "name": "イトーヨーカドー武蔵境"
+  },
+  {
+    "shopId": "239",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "小金井市本町6-14-9",
+    "name": "イトーヨーカドー武蔵小金井"
+  },
+  {
+    "shopId": "24",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "磐田市今之浦3-1-11 ｱﾋﾟﾀ磐田店2階",
+    "name": "namcoアピタ磐田店"
+  },
+  {
+    "shopId": "240",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市豊平区福住二条1-2-5",
+    "name": "イトーヨーカドー福住"
+  },
+  {
+    "shopId": "241",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区木場1-5-30",
+    "name": "イトーヨーカドー木場"
+  },
+  {
+    "shopId": "242",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市泉区中田西1-1-15",
+    "name": "イトーヨーカドー立場"
+  },
+  {
+    "shopId": "243",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "和光市丸山台1-9-3",
+    "name": "イトーヨーカドー和光"
+  },
+  {
+    "shopId": "244",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "越谷市  南荻島 841番地1 ",
+    "name": "ウェアハウス越谷"
+  },
+  {
+    "shopId": "245",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市西区三橋6丁目955番地1",
+    "name": "ウェアハウス三橋"
+  },
+  {
+    "shopId": "246",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "舞鶴市南浜町27-5",
+    "name": "エール東舞鶴"
+  },
+  {
+    "shopId": "247",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市中央区難波3-2",
+    "name": "エディオンなんば本店"
+  },
+  {
+    "shopId": "248",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市垂水区舞多聞東2-1-45",
+    "name": "エディオン垂水"
+  },
+  {
+    "shopId": "25",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "上田市天神3-5-1 ｱﾘｵ上田1F 店番1-21",
+    "name": "namcoアリオ上田店"
+  },
+  {
+    "shopId": "250",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "旭川市本町3-437-238 吉田ﾋﾞﾙ1F",
+    "name": "おもちゃのヨシダ本店"
+  },
+  {
+    "shopId": "251",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "西尾市上町南又七山35-2",
+    "name": "カーニバルシードーム"
+  },
+  {
+    "shopId": "252",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市東淀川区大隅1-6-12 かみしんﾌﾟﾗｻﾞ2F",
+    "name": "かみしんプラザアミューズパーク"
+  },
+  {
+    "shopId": "253",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "伊丹市池尻4丁目1-1",
+    "name": "カリヨンパークイオン伊丹昆陽"
+  },
+  {
+    "shopId": "254",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵野市吉祥寺本町1-11-5",
+    "name": "キデイランド吉祥寺"
+  },
+  {
+    "shopId": "255",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市北区芝田1-1-3 阪急三番街",
+    "name": "キデイランド大阪梅田"
+  },
+  {
+    "shopId": "256",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "狭山市入間川3141",
+    "name": "キャッツアイ狭山"
+  },
+  {
+    "shopId": "257",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市北区篠路1条4丁目6-30",
+    "name": "キャッツアイ篠路"
+  },
+  {
+    "shopId": "258",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市厚別区厚別東五条1-1-10",
+    "name": "キャッツアイ新札幌"
+  },
+  {
+    "shopId": "259",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江戸川区西葛西4-2-28",
+    "name": "キャッツアイ西葛西"
+  },
+  {
+    "shopId": "26",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市泉区泉中央一丁目五番地一 ｱﾘｵ仙台泉店内",
+    "name": "namcoアリオ仙台泉店"
+  },
+  {
+    "shopId": "260",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "松阪市田村町235-1",
+    "name": "クラブセガアドバンスモール松阪"
+  },
+  {
+    "shopId": "261",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市港北区綱島西2-6-29 城田ﾋﾞﾙ3F",
+    "name": "クラブセガ綱島"
+  },
+  {
+    "shopId": "262",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "目黒区自由ヶ丘2-10-9",
+    "name": "クラブセガ自由ヶ丘"
+  },
+  {
+    "shopId": "263",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区西新宿1-12-5",
+    "name": "クラブセガ新宿西口"
+  },
+  {
+    "shopId": "264",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市磯子区杉田1-1-1 らびすた新杉田2F",
+    "name": "クラブセガ新杉田"
+  },
+  {
+    "shopId": "265",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "立川市柴崎町3-2-1",
+    "name": "クラブセガ立川"
+  },
+  {
+    "shopId": "266",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "三郷市ﾋﾟｱﾗｼﾃｨ1-1-200",
+    "name": "ゲームパニック三郷"
+  },
+  {
+    "shopId": "267",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市太白区長町7丁目20番3号 ｻﾞ･ﾓｰﾙ仙台長町店3F",
+    "name": "ゲームフィールド 仙台長町"
+  },
+  {
+    "shopId": "268",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市原市ちはら台西3-4",
+    "name": "ゲームランドちはら台"
+  },
+  {
+    "shopId": "269",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "草津市新浜町300",
+    "name": "ゲームランド草津"
+  },
+  {
+    "shopId": "27",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "ふじみ野市福岡2-1-6 ｲｵﾝﾀｳﾝふじみ野3F",
+    "name": "namcoイオンタウンふじみ野店"
+  },
+  {
+    "shopId": "270",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "岡山市中区原尾島1-6-20",
+    "name": "こころっこ原尾島"
+  },
+  {
+    "shopId": "271",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "高梁市中原町1084番地の1",
+    "name": "こころっこ高梁"
+  },
+  {
+    "shopId": "272",
+    "prefId": 39,
+    "prefName": "高知県",
+    "area": "四国",
+    "address": "南国市大そね乙1009 ｻﾆｰｱｸｼｽ南国店",
+    "name": "サニーアクシス南国アクシスキッズ"
+  },
+  {
+    "shopId": "273",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "柴田郡大河原町字小島2-1",
+    "name": "サニーランド フォルテ"
+  },
+  {
+    "shopId": "274",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "駿東郡清水町伏見52-1 ",
+    "name": "セガサントムーンオアシス"
+  },
+  {
+    "shopId": "275",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "ひたちなか市新光町34-1 ｼﾞｮｲﾌﾙ本田ﾆｭｰﾎﾟｰﾄひたちなか1F",
+    "name": "ジョイフル本田ニューポートひたちなかアミューズパーク"
+  },
+  {
+    "shopId": "276",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市大野町1-19-1",
+    "name": "ジョーシン市川大野"
+  },
+  {
+    "shopId": "277",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市淀川区西宮原2-2-17 新大阪ｾﾝｲｼﾃｨｰ3号館2F",
+    "name": "ジョーシン新大阪"
+  },
+  {
+    "shopId": "278",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "大田区西蒲田7-2-3第二醍醐ﾋﾞﾙ地下1階~2階",
+    "name": "シルクハット蒲田西口"
+  },
+  {
+    "shopId": "279",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "川口市栄町3-1-16ｲｰﾄ川口ﾋﾞﾙ4階",
+    "name": "シルクハット川口"
+  },
+  {
+    "shopId": "28",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "郡山市松木町2-88 ｲｵﾝﾀｳﾝ郡山",
+    "name": "namcoイオンタウン郡山店"
+  },
+  {
+    "shopId": "280",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市川崎区駅前本町8番地ﾀﾞｲｽﾋﾞﾙ地下2階",
+    "name": "シルクハット川崎ダイス"
+  },
+  {
+    "shopId": "281",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市川崎区駅前本町7番地岡田屋ﾓｱｰｽﾞ1,2階",
+    "name": "シルクハット川崎モアーズ"
+  },
+  {
+    "shopId": "282",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "鎌倉市大船1-24大船駅前ﾋﾞﾙ1~3階",
+    "name": "シルクハット大船"
+  },
+  {
+    "shopId": "283",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "習志野市津田沼1-2-1十三ﾋﾞﾙ地下1階",
+    "name": "シルクハット津田沼"
+  },
+  {
+    "shopId": "284",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "八王子市旭町2-5八王子ﾂｲﾝﾀﾜｰﾋﾞﾙ3階",
+    "name": "シルクハット八王子"
+  },
+  {
+    "shopId": "285",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "帯広市白樺十六条西2丁目 ﾄﾞﾘｰﾑﾀｳﾝ白樺内",
+    "name": "スガイディノス帯広"
+  },
+  {
+    "shopId": "286",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "弘前市城東北三丁目10番地1 さくら野百貨店弘前店4F",
+    "name": "スペースファンタジーインフィニ"
+  },
+  {
+    "shopId": "287",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "刈谷市東境町京和1",
+    "name": "セガイオンタウン刈谷"
+  },
+  {
+    "shopId": "288",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "金沢市戸板西2-1 ",
+    "name": "セガイオンタウン金沢示野"
+  },
+  {
+    "shopId": "289",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市香呑町6-49-1",
+    "name": "セガイオンタウン名西"
+  },
+  {
+    "shopId": "29",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市南区西九条鳥居口町1番地 ｲｵﾝﾓｰﾙKYOTO14060",
+    "name": "namcoイオンモールKYOTO店"
+  },
+  {
+    "shopId": "290",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵村山市榎1-1-3",
+    "name": "セガイオンモールむさし村山"
+  },
+  {
+    "shopId": "291",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵村山市榎1-1-3",
+    "name": "セガイオンモールむさし村山"
+  },
+  {
+    "shopId": "292",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "草津市西渋川1-23-23",
+    "name": "セガエイスクエア草津"
+  },
+  {
+    "shopId": "293",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "寝屋川市寝屋南2-22-2",
+    "name": "セガビバモール寝屋川"
+  },
+  {
+    "shopId": "294",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "関市倉知516",
+    "name": "セガマーゴ関"
+  },
+  {
+    "shopId": "295",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市阿倍野筋1-5-31",
+    "name": "セガワールドアポロ"
+  },
+  {
+    "shopId": "296",
+    "prefId": 39,
+    "prefName": "高知県",
+    "area": "四国",
+    "address": "高知市朝倉東町52-15",
+    "name": "セガワールドフジグラン"
+  },
+  {
+    "shopId": "297",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "宇都宮市東宿郷5-1-7",
+    "name": "セガワールド宇都宮"
+  },
+  {
+    "shopId": "298",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江戸川区東葛西9-3-3 ",
+    "name": "セガワールド葛西"
+  },
+  {
+    "shopId": "299",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "館林市小桑原町949-1 ",
+    "name": "セガワールド館林"
+  },
+  {
+    "shopId": "3",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "沼津市東椎路字東荒301-3",
+    "name": "AWららぽーと沼津"
+  },
+  {
+    "shopId": "30",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "つくば市稲岡66-1 ｲｵﾝﾓｰﾙつくば店3F",
+    "name": "namcoイオンモールつくば店"
+  },
+  {
+    "shopId": "300",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市牧1-161-8",
+    "name": "セガワールド高城"
+  },
+  {
+    "shopId": "301",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "東大阪市長堂1-1-1",
+    "name": "セガワールド布施"
+  },
+  {
+    "shopId": "302",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "府中市西原町1-6-2",
+    "name": "セガワールド府中"
+  },
+  {
+    "shopId": "303",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市桃山町山ﾉ下32",
+    "name": "セガワールド六地蔵"
+  },
+  {
+    "shopId": "304",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "安城市百石町2-35-13 ",
+    "name": "セガ安城"
+  },
+  {
+    "shopId": "305",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "掛川市細田248 ",
+    "name": "セガ掛川"
+  },
+  {
+    "shopId": "306",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市城東区今福東1-9-34 ",
+    "name": "セガ今福"
+  },
+  {
+    "shopId": "307",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区外神田1-11-11",
+    "name": "セガ秋葉原3号館"
+  },
+  {
+    "shopId": "308",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "春日井市岩野町4180 ",
+    "name": "セガ春日井"
+  },
+  {
+    "shopId": "309",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "松戸市日暮1-1-1 八柱駅第2ﾋﾞﾙ2F",
+    "name": "セガ松戸"
+  },
+  {
+    "shopId": "31",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市東区矢田南4-102-3 ｲｵﾝﾓｰﾙﾅｺﾞﾔﾄﾞｰﾑ前3F",
+    "name": "namcoイオンモールナゴヤドーム前店"
+  },
+  {
+    "shopId": "310",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "豊中市神州町1-15",
+    "name": "セガ新三国アルゴ7"
+  },
+  {
+    "shopId": "311",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "水戸市千波町2017-1 1F",
+    "name": "セガ水戸南"
+  },
+  {
+    "shopId": "312",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "那須塩原市南郷屋2-106-27 ",
+    "name": "セガ西那須野"
+  },
+  {
+    "shopId": "313",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "石岡市東大橋中峯1976-1",
+    "name": "セガ石岡"
+  },
+  {
+    "shopId": "314",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "北区赤羽1-2-4",
+    "name": "セガ赤羽駅前"
+  },
+  {
+    "shopId": "315",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "足立区竹の塚6丁目8番6号",
+    "name": "セガ竹の塚"
+  },
+  {
+    "shopId": "316",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "文京区後楽1-3-61",
+    "name": "セガ東京ドームシティ"
+  },
+  {
+    "shopId": "317",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "瀬戸市西原町2-114 ",
+    "name": "セガ東名ボール"
+  },
+  {
+    "shopId": "318",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "町田市鶴間3丁目4-1",
+    "name": "セガ南町田グランベリーパークキッズディスカバリー"
+  },
+  {
+    "shopId": "319",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "入間市東藤沢 2-18",
+    "name": "セガ入間"
+  },
+  {
+    "shopId": "32",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "各務原市那加萱場町3-8 ｲｵﾝﾓｰﾙ各務原店2F",
+    "name": "namcoイオンモール各務原店"
+  },
+  {
+    "shopId": "320",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "一宮市篭屋3-9-7 ｱｿﾋﾞｯｸｽびさい1F",
+    "name": "セガ尾西"
+  },
+  {
+    "shopId": "321",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市美浜区ひび野1-8 ﾒｯｾ･ｱﾐｭｰｽﾞ･ﾓｰﾙ1F",
+    "name": "セガ幕張"
+  },
+  {
+    "shopId": "322",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "名取市飯野坂字土城堀57-1",
+    "name": "セガ名取セッツウイングス"
+  },
+  {
+    "shopId": "323",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "龍ケ崎市藤ｹ丘4-2-8 ",
+    "name": "セガ龍ヶ崎"
+  },
+  {
+    "shopId": "324",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "旭川市宮下通7丁目2番5号 ｲｵﾝﾓｰﾙ旭川駅前4F",
+    "name": "ソユーゲームフィールド 旭川駅前"
+  },
+  {
+    "shopId": "325",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "熊谷市銀座二丁目245番地 ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰﾆｯﾄｰﾓｰﾙ4F",
+    "name": "ソユーゲームフィールド 熊谷"
+  },
+  {
+    "shopId": "326",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "堺市堺区鉄砲町1番地 ｲｵﾝﾓｰﾙ堺鉄砲町3F",
+    "name": "ソユーゲームフィールド 堺鉄砲町"
+  },
+  {
+    "shopId": "327",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "藤沢市辻堂新町四丁目1番1号 湘南ﾓｰﾙFILL2F",
+    "name": "ソユーゲームフィールド 湘南"
+  },
+  {
+    "shopId": "328",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "青森市浜田一丁目14番地1 ｲﾄｰﾖｰｶﾄﾞｰ青森店2F",
+    "name": "ソユーゲームフィールド 青森"
+  },
+  {
+    "shopId": "329",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "川口市並木元町1番79号 ｱﾘｵ川口3F",
+    "name": "ソユーゲームフィールド 川口"
+  },
+  {
+    "shopId": "33",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "安芸郡府中町大須2-1-1 ｲｵﾝﾓｰﾙ広島府中3F",
+    "name": "namcoイオンモール広島府中店"
+  },
+  {
+    "shopId": "330",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市西区発寒8条12丁目1番1号 ｲｵﾝﾓｰﾙ札幌発寒3F ",
+    "name": "ソユーゲームフィールド 発寒"
+  },
+  {
+    "shopId": "331",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "木更津市築地1番4 ｲｵﾝﾓｰﾙ木更津2F",
+    "name": "ソユーゲームフィールド 木更津"
+  },
+  {
+    "shopId": "332",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "大崎市古川沢田字筒場浦15番地 ｲｵﾝﾀｳﾝ古川内",
+    "name": "ソユーゲームフィールド古川"
+  },
+  {
+    "shopId": "333",
+    "prefId": 5,
+    "prefName": "秋田県",
+    "area": "北海道・東北",
+    "address": "秋田市御所野地蔵田一丁目1番地1号 ｲｵﾝﾓｰﾙ秋田2F",
+    "name": "ソユーゲームフィールド御所野"
+  },
+  {
+    "shopId": "334",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市港南区上大岡西一丁目18番3号 ﾐｵｶﾘｽﾄ館6F",
+    "name": "ソユーゲームフィールド上大岡"
+  },
+  {
+    "shopId": "335",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "箕面市西宿一丁目15番30号 みのおｷｭｰｽﾞﾓｰﾙCENTER棟2F",
+    "name": "ソユーゲームフィールド箕面"
+  },
+  {
+    "shopId": "336",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "大田区大森北二丁目13-1  ｲﾄｰﾖｰｶﾄﾞｰ大森店3F",
+    "name": "ソユーザウルスワールド 大森"
+  },
+  {
+    "shopId": "337",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "守谷市百合ヶ丘三丁目249番1 ｲｵﾝﾀｳﾝ守谷2F",
+    "name": "ソユートイズニューヨーク 守谷"
+  },
+  {
+    "shopId": "338",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "八王子市南大沢二丁目28-1 ｲﾄｰﾖｰｶﾄﾞｰ南大沢店3F",
+    "name": "ソユープレイランドソピア 南大沢 "
+  },
+  {
+    "shopId": "339",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市花見川区幕張町四丁目417-25 ｲﾄｰﾖｰｶﾄﾞｰ幕張店2F",
+    "name": "ソユープレイランドソピア 幕張"
+  },
+  {
+    "shopId": "34",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市兵庫区中之島2-1-1 ｲｵﾝﾓｰﾙ神戸南3F",
+    "name": "namcoイオンモール神戸南店"
+  },
+  {
+    "shopId": "340",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "板橋区蓮根3-8-12",
+    "name": "ダイエー西台"
+  },
+  {
+    "shopId": "341",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市東区天王町字諏訪1981-3  ",
+    "name": "タイトーFステーション イオンモール浜松市野"
+  },
+  {
+    "shopId": "342",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "伊勢原市白根630-1   ｲｵﾝ伊勢原店3F",
+    "name": "タイトーFステーション イオン伊勢原"
+  },
+  {
+    "shopId": "343",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市西区小新南2丁目1番10号  ",
+    "name": "タイトーFステーション イオン新潟西"
+  },
+  {
+    "shopId": "344",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "富士宮市浅間町1番8号  ",
+    "name": "タイトーFステーション イオン富士宮"
+  },
+  {
+    "shopId": "345",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市大宮区桜木町2-3  ",
+    "name": "タイトーFステーション ダイエー大宮"
+  },
+  {
+    "shopId": "346",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵村山市伊奈平3-36-1             ",
+    "name": "タイトーFステーション ダイエー武蔵村山"
+  },
+  {
+    "shopId": "347",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "宇都宮市駅前通り1-4-6  ",
+    "name": "タイトーFステーション トナリエ宇都宮"
+  },
+  {
+    "shopId": "348",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市浜北区貴布祢1200番地  ",
+    "name": "タイトーFステーション プレ葉ウォーク浜北"
+  },
+  {
+    "shopId": "349",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "倉敷市玉島爪先981-1  ",
+    "name": "タイトーFステーション マルナカ新倉敷"
+  },
+  {
+    "shopId": "35",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市緑区南大高二丁目450 ｲｵﾝﾓｰﾙ大高3F",
+    "name": "namcoイオンモール大高店"
+  },
+  {
+    "shopId": "350",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "佐賀市巨勢町大字牛島730  ",
+    "name": "タイトーFステーション モラージュ佐賀"
+  },
+  {
+    "shopId": "351",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "東広島市西条町土与丸1丁目5-7  ",
+    "name": "タイトーFステーション ゆめタウン東広島"
+  },
+  {
+    "shopId": "352",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市博多区博多駅中央街6-12  ",
+    "name": "タイトーFステーション ヨドバシ博多"
+  },
+  {
+    "shopId": "353",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "燕市井土巻3-150  ",
+    "name": "タイトーFステーション 燕三条"
+  },
+  {
+    "shopId": "354",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市中央区三宮町2-11-1  ",
+    "name": "タイトーFステーション 三宮西館"
+  },
+  {
+    "shopId": "355",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "小山市喜沢1475番地  ",
+    "name": "タイトーFステーション 小山"
+  },
+  {
+    "shopId": "356",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "静岡市葵区呉服町二丁目5番地4  ",
+    "name": "タイトーFステーション 静岡"
+  },
+  {
+    "shopId": "357",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "前橋市国領町2-14-1      ",
+    "name": "タイトーFステーション 前橋リリカ"
+  },
+  {
+    "shopId": "358",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "姫路市駅前町269番地,270番地  ",
+    "name": "タイトーFステーション 姫路"
+  },
+  {
+    "shopId": "359",
+    "prefId": 39,
+    "prefName": "高知県",
+    "area": "四国",
+    "address": "香南市野市町西野2007-1  ",
+    "name": "タイトーFステーション 野市"
+  },
+  {
+    "shopId": "36",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "守口市大日東町1-18 ｲｵﾝﾓｰﾙ大日4F",
+    "name": "namcoイオンモール大日店"
+  },
+  {
+    "shopId": "360",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "墨田区太平4-1-2 ",
+    "name": "タイトーFステーションオリナス錦糸町"
+  },
+  {
+    "shopId": "361",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "川越市新富町2-1-13 ｶｼｰﾗ川越1F-4F",
+    "name": "タイトーFステーションクレアモール川越"
+  },
+  {
+    "shopId": "362",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市中央町2-1-1  ",
+    "name": "タイトーFステーションセントポルタ大分"
+  },
+  {
+    "shopId": "363",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "郡山市安積町荒井字大久保35-1",
+    "name": "タイトーFステーション郡山オリエントパーク"
+  },
+  {
+    "shopId": "364",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市妙典4-1-1 ",
+    "name": "タイトーFステーション市川妙典"
+  },
+  {
+    "shopId": "365",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区高田馬場1-35-3  ",
+    "name": "タイトーステーション BIGBOX高田馬場"
+  },
+  {
+    "shopId": "366",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "大田区平和島 1-1-1  ",
+    "name": "タイトーステーション BIGFUN平和島"
+  },
+  {
+    "shopId": "367",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市要町1-14  ",
+    "name": "タイトーステーション アミュプラザおおいた"
+  },
+  {
+    "shopId": "368",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市中央区川崎町52-7  ",
+    "name": "タイトーステーション アリオ蘇我"
+  },
+  {
+    "shopId": "369",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "八尾市光町2-3  ",
+    "name": "タイトーステーション アリオ八尾"
+  },
+  {
+    "shopId": "37",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "長久手市長久手中央土地区画整理事業地内5､10､11街区 ｲｵﾝﾓｰﾙ長久手3F",
+    "name": "namcoイオンモール長久手店"
+  },
+  {
+    "shopId": "370",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "東茨城郡茨城町長岡3480-101  ",
+    "name": "タイトーステーション イオンタウン水戸南"
+  },
+  {
+    "shopId": "371",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "佐野市高萩町1324-1  ",
+    "name": "タイトーステーション イオンモール佐野新都市"
+  },
+  {
+    "shopId": "372",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市南区別所1-14-1  ",
+    "name": "タイトーステーション イトーヨーカドー横浜別所"
+  },
+  {
+    "shopId": "374",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "北九州市小倉南区下曽根新町10-1  ",
+    "name": "タイトーステーション サニーサイドモール小倉"
+  },
+  {
+    "shopId": "375",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市大島田1-6-1  ",
+    "name": "タイトーステーション セブンパークアリオ柏2号"
+  },
+  {
+    "shopId": "376",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "稲沢市井之口大坪町80-1  ",
+    "name": "タイトーステーション パールシティ稲沢"
+  },
+  {
+    "shopId": "377",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "富山市婦中町下轡田165-1  ",
+    "name": "タイトーステーション ファボーレ婦中"
+  },
+  {
+    "shopId": "378",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "福山市神辺町大字新道上字  2-10-26 ",
+    "name": "タイトーステーション フジグラン神辺"
+  },
+  {
+    "shopId": "379",
+    "prefId": 36,
+    "prefName": "徳島県",
+    "area": "四国",
+    "address": "板野郡北島町鯛浜字西ﾉ須81-1  ",
+    "name": "タイトーステーション フジグラン北島"
+  },
+  {
+    "shopId": "38",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市鶴見区鶴見4-17-1-421 ｲｵﾝﾓｰﾙ鶴見緑地4F",
+    "name": "namcoイオンモール鶴見緑地店"
+  },
+  {
+    "shopId": "380",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市安佐南区緑井1-5-2  ",
+    "name": "タイトーステーション フジグラン緑井"
+  },
+  {
+    "shopId": "381",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市西区小戸2-12-30  ",
+    "name": "タイトーステーション マリノア"
+  },
+  {
+    "shopId": "382",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "菊池郡菊陽町光の森7丁目33番地1  ",
+    "name": "タイトーステーション ゆめタウン光の森"
+  },
+  {
+    "shopId": "383",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "八代市建馬町3-1  ",
+    "name": "タイトーステーション ゆめタウン八代"
+  },
+  {
+    "shopId": "384",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "北九州市小倉北区室町1-1-1  ",
+    "name": "タイトーステーション リバーウォーク"
+  },
+  {
+    "shopId": "385",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "旭市ｲ-2676-1  ",
+    "name": "タイトーステーション 旭サンモール"
+  },
+  {
+    "shopId": "386",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "松山市衣山1丁目188  ",
+    "name": "タイトーステーション 衣山"
+  },
+  {
+    "shopId": "387",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "宇都宮市陽東6丁目2-1  ",
+    "name": "タイトーステーション 宇都宮ベルモール"
+  },
+  {
+    "shopId": "388",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市西区南幸1-12-9  7階",
+    "name": "タイトーステーション 横浜西口五番街"
+  },
+  {
+    "shopId": "389",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "海老名市中央1ｰ18-1  ",
+    "name": "タイトーステーション 海老名ビナウォーク"
+  },
+  {
+    "shopId": "39",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市熱田区六野1-2-11 ｲｵﾝﾓｰﾙ熱田4F",
+    "name": "namcoイオンモール熱田店"
+  },
+  {
+    "shopId": "390",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "墨田区江東橋4-27-14 ",
+    "name": "タイトーステーション 錦糸町楽天地"
+  },
+  {
+    "shopId": "391",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "金沢市片町2-1-7  ",
+    "name": "タイトーステーション 金沢"
+  },
+  {
+    "shopId": "392",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市戸塚区戸塚町4023番地  ",
+    "name": "タイトーステーション 戸塚西口"
+  },
+  {
+    "shopId": "393",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市中区紙屋町2-2-21  ",
+    "name": "タイトーステーション 広島紙屋町"
+  },
+  {
+    "shopId": "394",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市中区本通3-5  ",
+    "name": "タイトーステーション 広島本通"
+  },
+  {
+    "shopId": "395",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市高津区溝口1-11-8           ",
+    "name": "タイトーステーション 溝の口     "
+  },
+  {
+    "shopId": "396",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "国分寺市本町三丁目5番11号     ",
+    "name": "タイトーステーション 国分寺"
+  },
+  {
+    "shopId": "397",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "稲敷市西代1495  ",
+    "name": "タイトーステーション 佐原東"
+  },
+  {
+    "shopId": "398",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市中央区南三条西2-14  ",
+    "name": "タイトーステーション 札幌狸小路2丁目"
+  },
+  {
+    "shopId": "399",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "渋谷区渋谷1-24-12  ",
+    "name": "タイトーステーション 渋谷"
+  },
+  {
+    "shopId": "4",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "室蘭市中島本町2丁目8-1",
+    "name": "BIG BANG室蘭"
+  },
+  {
+    "shopId": "40",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "八千代市緑ヶ丘2-1-3 ｲｵﾝﾓｰﾙ八千代緑ヶ丘4F",
+    "name": "namcoイオンモール八千代緑が丘店"
+  },
+  {
+    "shopId": "400",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "所沢市日吉町3番7号  ",
+    "name": "タイトーステーション 所沢"
+  },
+  {
+    "shopId": "401",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "小田原市前川120 ",
+    "name": "タイトーステーション 小田原シティーモール"
+  },
+  {
+    "shopId": "402",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区新宿3-22-7  ",
+    "name": "タイトーステーション 新宿東口"
+  },
+  {
+    "shopId": "403",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区新宿3-35-8  ",
+    "name": "タイトーステーション 新宿南口ゲームワールド"
+  },
+  {
+    "shopId": "404",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市中区鍛冶町15番地  ",
+    "name": "タイトーステーション 新浜松ザザシティ"
+  },
+  {
+    "shopId": "405",
+    "prefId": 3,
+    "prefName": "岩手県",
+    "area": "北海道・東北",
+    "address": "盛岡市上堂1-2-38  ",
+    "name": "タイトーステーション 盛岡マッハランド"
+  },
+  {
+    "shopId": "406",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "青森市緑3丁目9番地の2  ",
+    "name": "タイトーステーション 青森アムゼ"
+  },
+  {
+    "shopId": "407",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "青森市三好2-3-19  ",
+    "name": "タイトーステーション 青森ガーラモール"
+  },
+  {
+    "shopId": "408",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "高槻市大畑町13-1  ",
+    "name": "タイトーステーション 摂津富田"
+  },
+  {
+    "shopId": "409",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市青葉区中央2-3-25  ",
+    "name": "タイトーステーション 仙台クリスロード"
+  },
+  {
+    "shopId": "41",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "戸田市美女木東1-3-1 ｲｵﾝﾓｰﾙ北戸田",
+    "name": "namcoイオンモール北戸田店"
+  },
+  {
+    "shopId": "410",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市太白区西多賀5-24-1  ",
+    "name": "タイトーステーション 仙台ベガロポリス"
+  },
+  {
+    "shopId": "411",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市青葉区中央1-7-13  ",
+    "name": "タイトーステーション 仙台名掛丁"
+  },
+  {
+    "shopId": "413",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "船橋市本町1丁目6-1  ",
+    "name": "タイトーステーション 船橋"
+  },
+  {
+    "shopId": "414",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "多摩市落合1-45-1 ",
+    "name": "タイトーステーション 多摩センター"
+  },
+  {
+    "shopId": "415",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市大宮区大門町一丁目1番地  ",
+    "name": "タイトーステーション 大宮"
+  },
+  {
+    "shopId": "416",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市浪速区日本橋4-9-14  ",
+    "name": "タイトーステーション 大阪日本橋"
+  },
+  {
+    "shopId": "417",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中区大須3-20-7  ",
+    "name": "タイトーステーション 大須"
+  },
+  {
+    "shopId": "418",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "豊島区西池袋1-15-9  ",
+    "name": "タイトーステーション 池袋西口"
+  },
+  {
+    "shopId": "419",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "町田市原町田6-21-23  ",
+    "name": "タイトーステーション 町田"
+  },
+  {
+    "shopId": "42",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市美浜区豊砂1-1 ｲｵﾝﾓｰﾙ幕張新都心 ｸﾞﾗﾝﾄﾞﾓｰﾙ3階",
+    "name": "namcoイオンモール幕張新都心店"
+  },
+  {
+    "shopId": "420",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "藤沢市南藤沢21-1  ",
+    "name": "タイトーステーション 藤沢"
+  },
+  {
+    "shopId": "421",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市中央区難波千日前15-12  ",
+    "name": "タイトーステーション 難波"
+  },
+  {
+    "shopId": "422",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "尼崎市塚口本町4-8-1  ",
+    "name": "タイトーステーション 尼崎つかしん"
+  },
+  {
+    "shopId": "423",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市柏2-3-1  ",
+    "name": "タイトーステーション 柏"
+  },
+  {
+    "shopId": "424",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市中央区天神2-6-35  ",
+    "name": "タイトーステーション 福岡天神"
+  },
+  {
+    "shopId": "425",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "茂原市高師1735  ",
+    "name": "タイトーステーション 茂原アスモ"
+  },
+  {
+    "shopId": "426",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "弥富市五明蒲原1371-4  ",
+    "name": "タイトーステーション 弥富"
+  },
+  {
+    "shopId": "427",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "立川市曙町2-4-5         ",
+    "name": "タイトーステーション 立川北口      "
+  },
+  {
+    "shopId": "428",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "和光市丸山台1-4-5  ",
+    "name": "タイトーステーション 和光"
+  },
+  {
+    "shopId": "429",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中区大須3-30-31  ",
+    "name": "タイトーステーションフェドラ大須"
+  },
+  {
+    "shopId": "43",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "越谷市ﾚｲｸﾀｳﾝ3丁目1番地1ｲｵﾝﾚｲｸﾀｳﾝmori3F 3133区画",
+    "name": "namcoイオンレイクタウン店"
+  },
+  {
+    "shopId": "430",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "丸亀市川西町南1280番地1  ",
+    "name": "タイトーステーション丸亀"
+  },
+  {
+    "shopId": "431",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区新宿3-37-1 ﾌﾗｯｸﾞｽ7-10F",
+    "name": "タワーレコード新宿"
+  },
+  {
+    "shopId": "432",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "宇都宮市今泉町237",
+    "name": "テクモピアパルテロン宇都宮"
+  },
+  {
+    "shopId": "433",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "宇都宮市ｲﾝﾀｰﾊﾟｰｸ6-1-1",
+    "name": "テクモピアロックダムインターパーク"
+  },
+  {
+    "shopId": "434",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "越谷市南越谷1-15-1",
+    "name": "テクモピア南越谷"
+  },
+  {
+    "shopId": "435",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "安芸郡府中町大須2-1-1 ｲｵﾝﾓｰﾙ広島府中3F",
+    "name": "トイザらス・ベビーザらス広島府中"
+  },
+  {
+    "shopId": "436",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "久留米市新合川13-30",
+    "name": "トイザらス久留米"
+  },
+  {
+    "shopId": "437",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "吹田市山田西4-1-2",
+    "name": "トイザらス阪急山田"
+  },
+  {
+    "shopId": "438",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市鬼高1-1-1 ﾆｯｹｺﾙﾄﾝﾌﾟﾗｻﾞｲｰｽﾄ館2F",
+    "name": "トイザらス市川"
+  },
+  {
+    "shopId": "439",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市中央区上近江4-12-20 ﾃﾞｯｷｨ401内",
+    "name": "トイザらス新潟"
+  },
+  {
+    "shopId": "44",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "相模原市南区古淵2丁目10番1",
+    "name": "namcoイオン相模原店"
+  },
+  {
+    "shopId": "440",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "新座市野火止5-2-60 ﾗ･ｳﾞｨﾆｭ2F",
+    "name": "トイザらス新座"
+  },
+  {
+    "shopId": "441",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "東松島市小松字上浮足43",
+    "name": "トイザらス石巻矢本"
+  },
+  {
+    "shopId": "442",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "河東郡音更町木野大通西17-1 ｽｰﾊﾟｰｵｰｹｰｾﾝﾀｰ音更店内",
+    "name": "トイザらス帯広音更"
+  },
+  {
+    "shopId": "443",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "長岡市川崎町1436-5",
+    "name": "トイザらス長岡"
+  },
+  {
+    "shopId": "444",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "那覇市おもろまち3-3 あっぷるﾀｳﾝ1F",
+    "name": "トイザらス那覇新都心"
+  },
+  {
+    "shopId": "445",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "富山市五福1143-1 五福ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰｱﾘｽ2F",
+    "name": "トイザらス富山"
+  },
+  {
+    "shopId": "446",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "福山市東深津町3-21-4",
+    "name": "トイザらス福山"
+  },
+  {
+    "shopId": "447",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "福島市森合字清水7 ｺｰﾌﾟﾏｰﾄいずみ2F",
+    "name": "トイザらス福島"
+  },
+  {
+    "shopId": "448",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中川区新家1-2421 ｱｽﾞﾊﾟｰｸ2F",
+    "name": "トイザらス名古屋中川"
+  },
+  {
+    "shopId": "449",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "明石市東仲ﾉ町6-1 ｱｽﾋﾟｱ明石南館3F",
+    "name": "トイザらス明石"
+  },
+  {
+    "shopId": "45",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "練馬区光が丘5-1-1 ｲｵﾝ練馬店3F",
+    "name": "namcoイオン練馬店"
+  },
+  {
+    "shopId": "450",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "下都賀郡壬生町おもちゃのまち1-2-20",
+    "name": "トイセルタウンおもちゃのまち本店"
+  },
+  {
+    "shopId": "451",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市原市更級4丁目3番2ｲﾄｰﾖｰｶﾄﾞｰｱﾘｵ市原2F",
+    "name": "トムソーヤの仲間たちアリオ市原"
+  },
+  {
+    "shopId": "452",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "足利市栃木県足利市朝倉町244-1",
+    "name": "ドラマ足利"
+  },
+  {
+    "shopId": "453",
+    "prefId": 36,
+    "prefName": "徳島県",
+    "area": "四国",
+    "address": "鳴門市撫養町大桑島字濘岩浜4ｰ1 ﾊﾟﾜｰｼﾃｨ鳴門店別棟",
+    "name": "ナムコランド鳴門店"
+  },
+  {
+    "shopId": "454",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市公園通り西2--1",
+    "name": "モーリーファンタジーパークプレイス大分"
+  },
+  {
+    "shopId": "455",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "渋谷区渋谷1-14-14",
+    "name": "ハイテクランドセガ渋谷"
+  },
+  {
+    "shopId": "456",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "北九州市八幡西区西曲町3-1 ",
+    "name": "パスカランド 黒崎"
+  },
+  {
+    "shopId": "457",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "宇土店善道寺町綾織 95 ",
+    "name": "パスカワールド宇土"
+  },
+  {
+    "shopId": "458",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市博多区住吉1丁目2-22 ｷｬﾅﾙｼﾃｨ博多 OPA内ｻｳｽﾋﾞﾙB1F",
+    "name": "ハムリーズ キャナルシティ博多店"
+  },
+  {
+    "shopId": "459",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市中区新港2丁目2-1 横浜ﾜｰﾙﾄﾞﾎﾟｰﾀｰｽﾞ１F",
+    "name": "ハムリーズ 横浜ワールドポーターズ店"
+  },
+  {
+    "shopId": "46",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区木場1-5-30 ｲﾄｰﾖｰｶﾄﾞｰ木場店2･3F",
+    "name": "namcoイトーヨーカドー木場店"
+  },
+  {
+    "shopId": "460",
+    "prefId": 36,
+    "prefName": "徳島県",
+    "area": "四国",
+    "address": "徳島市南田宮2丁目2-46",
+    "name": "パレパレ田宮"
+  },
+  {
+    "shopId": "461",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "鶴ヶ島市富士見1-2-1",
+    "name": "ハローズガーデン ワカバウォーク"
+  },
+  {
+    "shopId": "462",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "綾瀬市深谷中1-1-1",
+    "name": "ハローズガーデン綾瀬"
+  },
+  {
+    "shopId": "463",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "加古川市別府町緑町2",
+    "name": "ハローズガーデン加古川"
+  },
+  {
+    "shopId": "464",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "稲敷市江戸崎甲4836",
+    "name": "ハローズガーデン江戸崎"
+  },
+  {
+    "shopId": "465",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "大田区萩中2-12-5",
+    "name": "ハローズガーデン新糀谷"
+  },
+  {
+    "shopId": "466",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "鴻巣市袋字道上90-1",
+    "name": "ハローズガーデン吹上"
+  },
+  {
+    "shopId": "467",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "泉佐野市下瓦屋2-2-77",
+    "name": "ハローズガーデン泉佐野"
+  },
+  {
+    "shopId": "468",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "長岡市千秋2-278",
+    "name": "ハローズガーデン長岡"
+  },
+  {
+    "shopId": "469",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "流山市流山9丁目8002号  ",
+    "name": "ハロータイトー 流山"
+  },
+  {
+    "shopId": "47",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "西春日井郡豊山町大字豊場字林先1番地8",
+    "name": "namcoエアポートウォーク名古屋店"
+  },
+  {
+    "shopId": "470",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "中津川市淀川町3-8",
+    "name": "バローランド中津川"
+  },
+  {
+    "shopId": "471",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "下呂市萩原町大字花池字川原164-1",
+    "name": "バロー萩原"
+  },
+  {
+    "shopId": "472",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "鈴鹿市算所2-5-1",
+    "name": "モーリーファンタジーハンター鈴鹿"
+  },
+  {
+    "shopId": "473",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市泉区松森字斉兵衛58-1",
+    "name": "ビーカム松森"
+  },
+  {
+    "shopId": "474",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市下京区東塩小路町927",
+    "name": "ビックカメラJR京都駅"
+  },
+  {
+    "shopId": "475",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "八王子市旭町1-17",
+    "name": "ビックカメラJR八王子"
+  },
+  {
+    "shopId": "476",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "日進市赤池町箕ﾉ手1番 3階",
+    "name": "ビックトイズプライムツリー赤池"
+  },
+  {
+    "shopId": "477",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市幸区堀川町72-1",
+    "name": "ビックカメララゾーナ川崎"
+  },
+  {
+    "shopId": "478",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "調布市小島町2-48-6",
+    "name": "ビックカメラ京王調布"
+  },
+  {
+    "shopId": "479",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市中央区北五条西2-1",
+    "name": "ビックカメラ札幌"
+  },
+  {
+    "shopId": "48",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "五所川原市大字唐笠柳字藤巻517-1 ｴﾙﾑの街SC 本棟2階",
+    "name": "namcoエルムの街ショッピングセンター"
+  },
+  {
+    "shopId": "480",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市中央区花園1-1-21 CoCoLo南館内",
+    "name": "ビックカメラ新潟"
+  },
+  {
+    "shopId": "481",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区西新宿1-5-1",
+    "name": "ビックカメラ新宿西口"
+  },
+  {
+    "shopId": "482",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "豊島区西池袋1-16-3",
+    "name": "ビックカメラ池袋西口"
+  },
+  {
+    "shopId": "483",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "藤沢市藤沢559",
+    "name": "ビックカメラ藤沢"
+  },
+  {
+    "shopId": "484",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市柏1-1-20",
+    "name": "ビックカメラ柏"
+  },
+  {
+    "shopId": "485",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市中区砂山町322-1",
+    "name": "ビックカメラ浜松"
+  },
+  {
+    "shopId": "486",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中村区名駅1-1-3 9.10階",
+    "name": "ビックカメラ名古屋JRゲートタワー"
+  },
+  {
+    "shopId": "487",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中村区椿町6-9",
+    "name": "ビックカメラ名古屋駅西"
+  },
+  {
+    "shopId": "488",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区有楽町1-11-1",
+    "name": "ビックカメラ有楽町"
+  },
+  {
+    "shopId": "489",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "立川市曙町2-12-2",
+    "name": "ビックカメラ立川"
+  },
+  {
+    "shopId": "49",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "岐阜市柳津町丸野三丁目3番6 ｶﾗﾌﾙﾀｳﾝ岐阜内",
+    "name": "namcoカラフルタウン岐阜店"
+  },
+  {
+    "shopId": "490",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区新宿3-29-1",
+    "name": "ビックロビックカメラ新宿東口"
+  },
+  {
+    "shopId": "491",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "彦根市竹ｹ鼻町43-1",
+    "name": "ビバシティ平和堂"
+  },
+  {
+    "shopId": "492",
+    "prefId": 19,
+    "prefName": "山梨県",
+    "area": "中部",
+    "address": "甲斐市中下条2000--1",
+    "name": "モーリーファンタジービバモール甲斐敷島"
+  },
+  {
+    "shopId": "493",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "東松山市神明町2-11-6",
+    "name": "モーリーファンタジービバモール東松山"
+  },
+  {
+    "shopId": "494",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "土浦市木田余4585-3",
+    "name": "ピンクパンサー土浦"
+  },
+  {
+    "shopId": "495",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "新城市宮ﾉ後68",
+    "name": "ファミリーアミューズメント新城"
+  },
+  {
+    "shopId": "496",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "田原市田原町南新地76-1  ",
+    "name": "ファミリーランド ドリーム"
+  },
+  {
+    "shopId": "497",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "八戸市江陽2-14-1 ﾗﾋﾟｱ八戸店別棟",
+    "name": "ファンタジードーム八戸"
+  },
+  {
+    "shopId": "498",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市都筑区池辺町4035-1",
+    "name": "ファンタスティックジャーニー横浜"
+  },
+  {
+    "shopId": "499",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "下松市南花岡六丁目8番1号 ",
+    "name": "ふぇすたらんど下松"
+  },
+  {
+    "shopId": "5",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "吹田市千里万博公園2-1 3F 30060",
+    "name": "ENTERTAINMENT FIELD ららぽーとEXPOCIT"
+  },
+  {
+    "shopId": "50",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "枚方市楠葉花園町10ｰ85 KUZUHAMALL南館2F",
+    "name": "namcoくずはモール店"
+  },
+  {
+    "shopId": "500",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "久留米市野中町1411-1 ",
+    "name": "ふぇすたらんど久留米"
+  },
+  {
+    "shopId": "501",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "宇部市明神町3-1-1",
+    "name": "フジグラン宇部"
+  },
+  {
+    "shopId": "502",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "松山市宮西1-2-1",
+    "name": "フジグラン松山"
+  },
+  {
+    "shopId": "503",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "四国中央市妻鳥町1136-1",
+    "name": "フジグラン川之江"
+  },
+  {
+    "shopId": "504",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "東広島市西条町御薗宇4405",
+    "name": "フジグラン東広島"
+  },
+  {
+    "shopId": "505",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "尾道市東尾道19-7",
+    "name": "フジグラン尾道"
+  },
+  {
+    "shopId": "506",
+    "prefId": 39,
+    "prefName": "高知県",
+    "area": "四国",
+    "address": "須崎市西町2-7-15",
+    "name": "フジ須崎"
+  },
+  {
+    "shopId": "507",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "羽生市川崎2-281-3",
+    "name": "プラサカプコン羽生"
+  },
+  {
+    "shopId": "508",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵野市吉祥寺本町1丁目10-1",
+    "name": "プラサカプコン吉祥寺"
+  },
+  {
+    "shopId": "509",
+    "prefId": 39,
+    "prefName": "高知県",
+    "area": "四国",
+    "address": "高知市秦南町1-4-8",
+    "name": "プラサカプコン高知"
+  },
+  {
+    "shopId": "51",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "前橋市文京町2-1-1 けやきｳｫｰｸ前橋2F",
+    "name": "namcoけやきウォーク前橋店"
+  },
+  {
+    "shopId": "510",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "成田市ｳｲﾝｸﾞ土屋24",
+    "name": "プラサカプコン成田"
+  },
+  {
+    "shopId": "511",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市公園通り西2丁目1番",
+    "name": "プラサカプコン大分"
+  },
+  {
+    "shopId": "512",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "豊島区東池袋1-30-1",
+    "name": "プラサカプコン池袋"
+  },
+  {
+    "shopId": "513",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "藤井寺市岡2丁目10番11号ｲｵﾝ藤井寺ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ",
+    "name": "プラサカプコン藤井寺"
+  },
+  {
+    "shopId": "514",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市緑区鳴海町字徳重18番地44",
+    "name": "プラサカプコン徳重"
+  },
+  {
+    "shopId": "515",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "府中市宮町1-41-2",
+    "name": "プラサカプコン府中"
+  },
+  {
+    "shopId": "516",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "宇都宮市簗瀬町1606番地1 P&Dﾋﾞﾙ",
+    "name": "プラボ宇都宮店"
+  },
+  {
+    "shopId": "517",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "久留米市新合川1丁目2番1号 ゆめﾀｳﾝ久留米2階",
+    "name": "プラボ久留米店"
+  },
+  {
+    "shopId": "518",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区丸の内1-9-1 ",
+    "name": "プリズムストーン東京駅店"
+  },
+  {
+    "shopId": "519",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "鴻巣市北新宿225-1 ",
+    "name": "プリモピア 鴻巣"
+  },
+  {
+    "shopId": "52",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横須賀市本町2-1-12 ｺｰｽｶﾍﾞｲｻｲﾄﾞｽﾄｱｰｽﾞ5F",
+    "name": "namcoコースカベイサイドストアーズ(横須賀)"
+  },
+  {
+    "shopId": "520",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市浦和区常盤10-20-29 ",
+    "name": "プレイランド イオン北浦和      "
+  },
+  {
+    "shopId": "522",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市川崎区小田栄二丁目2-1 ｲﾄｰﾖｰｶﾄﾞｰ川崎店3F",
+    "name": "プレイランド 川崎"
+  },
+  {
+    "shopId": "523",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "大和市下鶴間一丁目3-1 ｲﾄｰﾖｰｶﾄﾞｰ大和鶴間店3F",
+    "name": "プレイランド 大和鶴間"
+  },
+  {
+    "shopId": "524",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "越谷市越谷1-16-6",
+    "name": "プレビALCo越谷ショッピングスクエア"
+  },
+  {
+    "shopId": "525",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "松戸市松戸1307-1",
+    "name": "プレビキテミテマツド"
+  },
+  {
+    "shopId": "526",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市稲毛区長沼町330番地50",
+    "name": "プレビ南ASOBI諸島ワンズモール"
+  },
+  {
+    "shopId": "527",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "行橋市西宮市3-8-1 ゆめﾀｳﾝ行橋内2F",
+    "name": "ペリカン行橋"
+  },
+  {
+    "shopId": "528",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "高松市三条町字中所608-1 ゆめﾀｳﾝ高松内2F",
+    "name": "ペリカン高松"
+  },
+  {
+    "shopId": "529",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "山口市大内千坊6-9-1 ゆめタウン山口内2",
+    "name": "ペリカン山口"
+  },
+  {
+    "shopId": "53",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "浦添市西洲三丁目1番1 ｻﾝｴｰ浦添西海岸ﾊﾟﾙｺｼﾃｨ3F",
+    "name": "namcoサンエー浦添西海岸パルコシティ店"
+  },
+  {
+    "shopId": "530",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "中津市大字島田134-1 ゆめﾀｳﾝ中津内3F",
+    "name": "ペリカン中津"
+  },
+  {
+    "shopId": "531",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "武雄市武雄町武雄大字武雄4992",
+    "name": "ペリカン武雄"
+  },
+  {
+    "shopId": "532",
+    "prefId": 30,
+    "prefName": "和歌山県",
+    "area": "近畿",
+    "address": "和歌山市新生町7-20 ｲｽﾞﾐﾔ内2F",
+    "name": "ペリカン和歌山"
+  },
+  {
+    "shopId": "533",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "坂出市江尻町北新開1166-1",
+    "name": "ポップンパーク坂出"
+  },
+  {
+    "shopId": "534",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "船橋市浜町2丁目1番1号",
+    "name": "マリンガーデンららぽーと船橋"
+  },
+  {
+    "shopId": "535",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "三島市本町3-35",
+    "name": "ミシマトイス"
+  },
+  {
+    "shopId": "536",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "伊勢崎市宮子町3556-1",
+    "name": "モーリーファンタジーミスターマックス伊勢崎"
+  },
+  {
+    "shopId": "537",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "一宮市大和町毛受字一本松19",
+    "name": "モーリーファンタジーメガドンキ大和"
+  },
+  {
+    "shopId": "538",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "駿東郡長泉町下長窪字城山  1076-1",
+    "name": "メルヘンランド ウェルディ長泉"
+  },
+  {
+    "shopId": "539",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "綾歌郡綾川町萱原822-1",
+    "name": "モーリーファンタジーf綾川"
+  },
+  {
+    "shopId": "54",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市北区宮原町一丁目854-1 ｽﾃﾗﾓｰﾙ3F",
+    "name": "namcoステラタウン店"
+  },
+  {
+    "shopId": "540",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "茨木市松ヶ本町8-30-5",
+    "name": "モーリーファンタジーf茨木"
+  },
+  {
+    "shopId": "541",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "岡山市北区下石井1-2-1",
+    "name": "モーリーファンタジーf岡山"
+  },
+  {
+    "shopId": "542",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "加西市北条町北条308-1",
+    "name": "モーリーファンタジーf加西北条"
+  },
+  {
+    "shopId": "543",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "岐阜市正木中1-2-1",
+    "name": "モーリーファンタジーf岐阜"
+  },
+  {
+    "shopId": "544",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市安佐南区祇園3-2-1",
+    "name": "モーリーファンタジーf広島祗園"
+  },
+  {
+    "shopId": "545",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市江南区下早通柳田1-1-1",
+    "name": "モーリーファンタジーf新潟南"
+  },
+  {
+    "shopId": "546",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市南区菊住1-7-10",
+    "name": "モーリーファンタジーf新瑞橋"
+  },
+  {
+    "shopId": "547",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "富士市鮫島118-10",
+    "name": "モーリーファンタジーf富士南"
+  },
+  {
+    "shopId": "548",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市北区大深町4-8",
+    "name": "モーリーファンタジーLINKS UMEDA"
+  },
+  {
+    "shopId": "549",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "いわき市平字三倉68-1",
+    "name": "モーリーファンタジーいわき"
+  },
+  {
+    "shopId": "55",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "一宮市両郷町一丁目2番地 ﾃﾗｽｳｫｰｸ一宮2階",
+    "name": "namcoテラスウォーク一宮店"
+  },
+  {
+    "shopId": "550",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "いわき市小名浜港背後地土地区画整理事業地内",
+    "name": "モーリーファンタジーいわき小名浜"
+  },
+  {
+    "shopId": "551",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市緑区おゆみ野南5-37-1",
+    "name": "モーリーファンタジーおゆみ野"
+  },
+  {
+    "shopId": "552",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "かほく市内日角地内ﾀ25",
+    "name": "モーリーファンタジーかほく"
+  },
+  {
+    "shopId": "553",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "東久留米市野火止1-3-3",
+    "name": "モーリーファンタジークルネ"
+  },
+  {
+    "shopId": "554",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "さくら市桜野1555-1",
+    "name": "モーリーファンタジーさくら"
+  },
+  {
+    "shopId": "555",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市戸塚区戸塚町4253-1",
+    "name": "モーリーファンタジーサクラス戸塚"
+  },
+  {
+    "shopId": "556",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市垂水区青山台7-7-1",
+    "name": "モーリーファンタジージェームス山"
+  },
+  {
+    "shopId": "557",
+    "prefId": 42,
+    "prefName": "長崎県",
+    "area": "九州・沖縄",
+    "address": "長崎市千歳町5-1",
+    "name": "モーリーファンタジーチトセピア"
+  },
+  {
+    "shopId": "558",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "つがる市柏稲盛幾世41-1",
+    "name": "モーリーファンタジーつがる柏"
+  },
+  {
+    "shopId": "559",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "つくば市稲岡66-1",
+    "name": "モーリーファンタジーつくば"
+  },
+  {
+    "shopId": "56",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "松戸市八ヶ崎2-8-1 ﾃﾗｽﾓｰﾙ松戸店3F",
+    "name": "namcoテラスモール松戸店"
+  },
+  {
+    "shopId": "560",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "砺波市中神土地区画整理事業地内31",
+    "name": "モーリーファンタジーとなみ"
+  },
+  {
+    "shopId": "561",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市東区矢田南4-102-3",
+    "name": "モーリーファンタジーナゴヤドーム前"
+  },
+  {
+    "shopId": "562",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "野田市中根36-1",
+    "name": "モーリーファンタジーノア"
+  },
+  {
+    "shopId": "563",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "ふじみ野市福岡二-1-6",
+    "name": "モーリーファンタジーふじみ野"
+  },
+  {
+    "shopId": "564",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市西区豊浜3-1-10",
+    "name": "モーリーファンタジーマリナタウン"
+  },
+  {
+    "shopId": "565",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵村山市榎1-1-3",
+    "name": "モーリーファンタジーむさし村山"
+  },
+  {
+    "shopId": "566",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "佐倉市西ﾕｰｶﾘが丘6-12-3",
+    "name": "モーリーファンタジーユーカリが丘"
+  },
+  {
+    "shopId": "567",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "中頭郡北中城村字ﾗｲｶﾑ1番地 ",
+    "name": "モーリーファンタジーライカム"
+  },
+  {
+    "shopId": "568",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "泉南市りんくう南浜3-1",
+    "name": "モーリーファンタジーりんくう泉南"
+  },
+  {
+    "shopId": "569",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "越谷市ﾚｲｸﾀｳﾝ3-1-1",
+    "name": "モーリーファンタジーレイクタウン"
+  },
+  {
+    "shopId": "57",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市大字玉沢字楠本755-1 ﾄｷﾊわさだﾀｳﾝ内2F",
+    "name": "namcoトキハわさだタウン店"
+  },
+  {
+    "shopId": "570",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市西区二方町40",
+    "name": "モーリーファンタジーワンダーシティ"
+  },
+  {
+    "shopId": "571",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "志摩市阿児町鵜方3215",
+    "name": "モーリーファンタジー阿児"
+  },
+  {
+    "shopId": "572",
+    "prefId": 46,
+    "prefName": "鹿児島県",
+    "area": "九州・沖縄",
+    "address": "姶良市西餅田264-1s外",
+    "name": "モーリーファンタジー姶良"
+  },
+  {
+    "shopId": "573",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "旭川市ﾊﾟﾙﾌﾟ町1条2-505-2",
+    "name": "モーリーファンタジー旭川パルプ"
+  },
+  {
+    "shopId": "574",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "旭川市緑町23-2161-3",
+    "name": "モーリーファンタジー旭川西"
+  },
+  {
+    "shopId": "575",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "綾歌郡綾川町萱原822-1",
+    "name": "モーリーファンタジー綾川"
+  },
+  {
+    "shopId": "576",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "綾部市綾中町花ﾉ木30",
+    "name": "モーリーファンタジー綾部"
+  },
+  {
+    "shopId": "577",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "安城市浜富町6-8",
+    "name": "安城メトロポリス"
+  },
+  {
+    "shopId": "578",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "伊賀市上野茅町2519",
+    "name": "モーリーファンタジー伊賀上野"
+  },
+  {
+    "shopId": "579",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "伊勢市小木町曽弥538",
+    "name": "モーリーファンタジー伊勢ララパーク"
+  },
+  {
+    "shopId": "58",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市港北区師岡町700番地 ﾄﾚｯｻ横浜3F",
+    "name": "namcoトレッサ横浜店"
+  },
+  {
+    "shopId": "580",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "伊丹市藤ﾉ木1-1-1",
+    "name": "モーリーファンタジー伊丹"
+  },
+  {
+    "shopId": "581",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "伊丹市池尻4-1-1",
+    "name": "モーリーファンタジー伊丹昆陽"
+  },
+  {
+    "shopId": "582",
+    "prefId": 3,
+    "prefName": "岩手県",
+    "area": "北海道・東北",
+    "address": "一関市山目字泥田89-1",
+    "name": "モーリーファンタジー一関"
+  },
+  {
+    "shopId": "583",
+    "prefId": 42,
+    "prefName": "長崎県",
+    "area": "九州・沖縄",
+    "address": "壱岐市芦辺町箱崎中山触字干拓2604-2",
+    "name": "モーリーファンタジー壱岐"
+  },
+  {
+    "shopId": "584",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "茨木市松ヶ本町8-30",
+    "name": "モーリーファンタジー茨木"
+  },
+  {
+    "shopId": "585",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市南区宇品東6-1-15",
+    "name": "モーリーファンタジー宇品"
+  },
+  {
+    "shopId": "586",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "羽生市川崎2-281-3",
+    "name": "モーリーファンタジー羽生"
+  },
+  {
+    "shopId": "587",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "浦添市城間4-7-1",
+    "name": "モーリーファンタジー浦添"
+  },
+  {
+    "shopId": "588",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市緑区美園5-50-1",
+    "name": "モーリーファンタジー浦和美園"
+  },
+  {
+    "shopId": "59",
+    "prefId": 30,
+    "prefName": "和歌山県",
+    "area": "近畿",
+    "address": "和歌山市中野31-1 ﾊﾟｰﾑｼﾃｨ和歌山店2F",
+    "name": "namcoパームシティ和歌山店"
+  },
+  {
+    "shopId": "590",
+    "prefId": 5,
+    "prefName": "秋田県",
+    "area": "北海道・東北",
+    "address": "横手市安田字向田147",
+    "name": "モーリーファンタジー横手"
+  },
+  {
+    "shopId": "591",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市港北区新吉田東八-49-1",
+    "name": "モーリーファンタジー横浜新吉田"
+  },
+  {
+    "shopId": "592",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "岡崎市上六名町字宮前1",
+    "name": "モーリーファンタジー岡崎"
+  },
+  {
+    "shopId": "593",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "岡崎市戸崎町字ばら山1-1",
+    "name": "モーリーファンタジー岡崎南"
+  },
+  {
+    "shopId": "594",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "下関市竹崎町4-4-7",
+    "name": "モーリーファンタジー下関"
+  },
+  {
+    "shopId": "595",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "下妻市堀籠972-1",
+    "name": "モーリーファンタジー下妻"
+  },
+  {
+    "shopId": "596",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "上北郡中野平40-1",
+    "name": "モーリーファンタジー下田"
+  },
+  {
+    "shopId": "597",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "各務原市那加萱場町3-8",
+    "name": "モーリーファンタジー各務原"
+  },
+  {
+    "shopId": "598",
+    "prefId": 29,
+    "prefName": "奈良県",
+    "area": "近畿",
+    "address": "橿原市曲川町7-20-1",
+    "name": "モーリーファンタジー橿原"
+  },
+  {
+    "shopId": "599",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "鎌ヶ谷市新鎌ヶ谷2-7-1",
+    "name": "モーリーファンタジー鎌ヶ谷"
+  },
+  {
+    "shopId": "6",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "大分市木上鉾手2102ﾌﾘｰﾓｰﾙわさだ内",
+    "name": "FESTAわさだ"
+  },
+  {
+    "shopId": "60",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "宇部市明神町三丁目1番1号 ﾌｼﾞｸﾞﾗﾝ宇部店2F",
+    "name": "namcoフジグラン宇部店"
+  },
+  {
+    "shopId": "600",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市緑区おゆみ野3-16",
+    "name": "モーリーファンタジー鎌取"
+  },
+  {
+    "shopId": "601",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "茅ヶ崎市茅ｹ崎3-5-16",
+    "name": "モーリーファンタジー茅ヶ崎中央"
+  },
+  {
+    "shopId": "602",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "館山市八幡545-1",
+    "name": "モーリーファンタジー館山"
+  },
+  {
+    "shopId": "603",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市平野区瓜破2-1-13",
+    "name": "モーリーファンタジー喜連瓜破駅前"
+  },
+  {
+    "shopId": "604",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "岐阜市正木中1-2-1",
+    "name": "モーリーファンタジー岐阜"
+  },
+  {
+    "shopId": "605",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "久世郡久御山町森南大内156-1",
+    "name": "モーリーファンタジー久御山"
+  },
+  {
+    "shopId": "606",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横須賀市久里浜5-13-1",
+    "name": "モーリーファンタジー久里浜"
+  },
+  {
+    "shopId": "607",
+    "prefId": 45,
+    "prefName": "宮崎県",
+    "area": "九州・沖縄",
+    "address": "宮崎市新別府町江口862-1",
+    "name": "モーリーファンタジー宮崎"
+  },
+  {
+    "shopId": "608",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市南区久世高田町376-1",
+    "name": "モーリーファンタジー京都桂川"
+  },
+  {
+    "shopId": "609",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市右京区西院追分町25-1",
+    "name": "モーリーファンタジー京都五条"
+  },
+  {
+    "shopId": "61",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "東広島市西条町御薗宇4405 ﾌｼﾞｸﾞﾗﾝ東広島店内",
+    "name": "namcoフジグラン東広島店"
+  },
+  {
+    "shopId": "610",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "狭山市上奥富1126-1",
+    "name": "モーリーファンタジー狭山"
+  },
+  {
+    "shopId": "611",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "岩瀬郡鏡石町桜岡375-9",
+    "name": "モーリーファンタジー鏡石"
+  },
+  {
+    "shopId": "612",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪狭山市半田1-35-1",
+    "name": "モーリーファンタジー金剛"
+  },
+  {
+    "shopId": "613",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市金沢区泥亀1-27-1",
+    "name": "モーリーファンタジー金沢八景"
+  },
+  {
+    "shopId": "614",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "うるま市前原幸崎原303",
+    "name": "モーリーファンタジー具志川"
+  },
+  {
+    "shopId": "615",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "釧路市昭和中央4-18-1",
+    "name": "モーリーファンタジー釧路昭和"
+  },
+  {
+    "shopId": "616",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "上益城郡嘉島町上島字長池2232",
+    "name": "モーリーファンタジー熊本"
+  },
+  {
+    "shopId": "617",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "熊本市中央区大江4-2-1",
+    "name": "モーリーファンタジー熊本中央"
+  },
+  {
+    "shopId": "619",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "桑名市新西方1-22",
+    "name": "モーリーファンタジー桑名"
+  },
+  {
+    "shopId": "62",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "宇佐市大字法鏡寺500 MrMAX宇佐店内",
+    "name": "namcoミスターマックス宇佐店"
+  },
+  {
+    "shopId": "620",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "郡山市日和田町字小原1",
+    "name": "モーリーファンタジー郡山フェスタ"
+  },
+  {
+    "shopId": "621",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市南区久世上久世町485",
+    "name": "モーリーファンタジー桂南"
+  },
+  {
+    "shopId": "622",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "燕市井土巻3-65",
+    "name": "モーリーファンタジー県央"
+  },
+  {
+    "shopId": "623",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市早良区原6-27-8",
+    "name": "モーリーファンタジー原"
+  },
+  {
+    "shopId": "624",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "古河市旭町1-2-17",
+    "name": "モーリーファンタジー古河"
+  },
+  {
+    "shopId": "625",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "大崎市古川旭二-2-1",
+    "name": "モーリーファンタジー古川"
+  },
+  {
+    "shopId": "626",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "光市浅江字木園1756-1",
+    "name": "モーリーファンタジー光"
+  },
+  {
+    "shopId": "627",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "安芸郡府中町大須2-1-1",
+    "name": "モーリーファンタジー広島府中"
+  },
+  {
+    "shopId": "628",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市安佐南区祇園3-2-1",
+    "name": "モーリーファンタジー広島祗園"
+  },
+  {
+    "shopId": "629",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市港南区港南台3-1-2",
+    "name": "モーリーファンタジー港南台"
+  },
+  {
+    "shopId": "63",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "佐賀市巨勢町大字牛島730 ﾓﾗｰｼﾞｭ佐賀 南館1F",
+    "name": "namcoモラージュ佐賀店"
+  },
+  {
+    "shopId": "630",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市都筑区中川中央1-31-1-5083",
+    "name": "モーリーファンタジー港北"
+  },
+  {
+    "shopId": "631",
+    "prefId": 19,
+    "prefName": "山梨県",
+    "area": "中部",
+    "address": "中巨摩郡昭和町飯喰1505-1",
+    "name": "モーリーファンタジー甲府昭和"
+  },
+  {
+    "shopId": "632",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市東区香椎浜3-12-1",
+    "name": "モーリーファンタジー香椎浜"
+  },
+  {
+    "shopId": "633",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "木津川市相楽台1-1-1",
+    "name": "モーリーファンタジー高の原"
+  },
+  {
+    "shopId": "634",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "高岡市下伏間江383",
+    "name": "モーリーファンタジー高岡南"
+  },
+  {
+    "shopId": "635",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "高岡市蓮花寺210-1",
+    "name": "ジョーシン高岡蓮花寺"
+  },
+  {
+    "shopId": "636",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "高砂市緑丘2-1-40",
+    "name": "モーリーファンタジー高砂"
+  },
+  {
+    "shopId": "637",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "高崎市棟高町1400",
+    "name": "モーリーファンタジー高崎"
+  },
+  {
+    "shopId": "638",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "高松市香西本町1-1",
+    "name": "モーリーファンタジー高松"
+  },
+  {
+    "shopId": "639",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "高松市福岡町3-8-5",
+    "name": "モーリーファンタジー高松東"
+  },
+  {
+    "shopId": "64",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "菊池郡菊陽町光の森7丁目39番1 ゆめﾀｳﾝ光の森南館3F",
+    "name": "namcoゆめタウン光の森店"
+  },
+  {
+    "shopId": "640",
+    "prefId": 39,
+    "prefName": "高知県",
+    "area": "四国",
+    "address": "高知市秦南町1-4-8",
+    "name": "モーリーファンタジー高知"
+  },
+  {
+    "shopId": "641",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "高槻市萩之庄3-47-2",
+    "name": "モーリーファンタジー高槻"
+  },
+  {
+    "shopId": "642",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "高萩市安良川231",
+    "name": "モーリーファンタジー高萩"
+  },
+  {
+    "shopId": "643",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "日光市豊田字若林79-1",
+    "name": "モーリーファンタジー今市"
+  },
+  {
+    "shopId": "644",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "今治市にぎわい広場1-1",
+    "name": "モーリーファンタジー今治新都市"
+  },
+  {
+    "shopId": "645",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "佐賀市東与賀町大字下古賀字一本杉87-1",
+    "name": "モーリーファンタジー佐賀"
+  },
+  {
+    "shopId": "646",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "佐賀市大和町大字尼寺3535",
+    "name": "モーリーファンタジー佐賀大和"
+  },
+  {
+    "shopId": "647",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "稲敷市西代1495",
+    "name": "モーリーファンタジー佐原東"
+  },
+  {
+    "shopId": "648",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "佐野市高萩町1324-1",
+    "name": "モーリーファンタジー佐野新都市"
+  },
+  {
+    "shopId": "649",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "座間市広野台2-10-4",
+    "name": "モーリーファンタジー座間"
+  },
+  {
+    "shopId": "65",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市南区皆実町2丁目8番17号 ゆめﾀｳﾝ広島店342",
+    "name": "namcoゆめタウン広島店"
+  },
+  {
+    "shopId": "650",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "堺市堺区鉄砲町1",
+    "name": "モーリーファンタジー堺鉄砲町"
+  },
+  {
+    "shopId": "651",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "堺市北区東浅香山町4-1-12",
+    "name": "モーリーファンタジー堺北花田"
+  },
+  {
+    "shopId": "652",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市中央区笹丘1-28-74",
+    "name": "モーリーファンタジー笹丘"
+  },
+  {
+    "shopId": "653",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市西区琴似2条4-2-2",
+    "name": "モーリーファンタジー札幌琴似"
+  },
+  {
+    "shopId": "654",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市中央区北8条西14-28",
+    "name": "モーリーファンタジー札幌桑園"
+  },
+  {
+    "shopId": "655",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市東区北31条東15-1-1",
+    "name": "モーリーファンタジー札幌元町"
+  },
+  {
+    "shopId": "656",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市西区発寒8条12-1-1",
+    "name": "モーリーファンタジー札幌発寒"
+  },
+  {
+    "shopId": "657",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市東区東苗穂2条3-1-1",
+    "name": "モーリーファンタジー札幌苗穂"
+  },
+  {
+    "shopId": "658",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市清田区平岡3条5-3-1",
+    "name": "モーリーファンタジー札幌平岡"
+  },
+  {
+    "shopId": "659",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市北区北39",
+    "name": "モーリーファンタジー札幌麻生"
+  },
+  {
+    "shopId": "66",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "佐賀市兵庫北5-14-1 ゆめﾀｳﾝ佐賀店2F",
+    "name": "namcoゆめタウン佐賀店"
+  },
+  {
+    "shopId": "660",
+    "prefId": 18,
+    "prefName": "福井県",
+    "area": "中部",
+    "address": "鯖江市下河端16",
+    "name": "モーリーファンタジー鯖江"
+  },
+  {
+    "shopId": "661",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市瀬谷区三ﾂ境7-1",
+    "name": "モーリーファンタジー三ツ境"
+  },
+  {
+    "shopId": "662",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "三笠市岡山1059-1",
+    "name": "モーリーファンタジー三笠"
+  },
+  {
+    "shopId": "663",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "三原市城町2-13-1",
+    "name": "モーリーファンタジー三原"
+  },
+  {
+    "shopId": "664",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "みよし市三好町青木91",
+    "name": "モーリーファンタジー三好"
+  },
+  {
+    "shopId": "665",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "東田川郡三川町大字猪子字和田庫128-1",
+    "name": "モーリーファンタジー三川"
+  },
+  {
+    "shopId": "666",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "三沢市松園町3-10-1",
+    "name": "モーリーファンタジー三沢"
+  },
+  {
+    "shopId": "667",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "三木市大村字砂163",
+    "name": "モーリーファンタジー三木"
+  },
+  {
+    "shopId": "668",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "山形市若宮3-7-8",
+    "name": "モーリーファンタジー山形南"
+  },
+  {
+    "shopId": "669",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "山形市馬見ｹ崎2-12-19",
+    "name": "モーリーファンタジー山形北"
+  },
+  {
+    "shopId": "67",
+    "prefId": 36,
+    "prefName": "徳島県",
+    "area": "四国",
+    "address": "板野郡藍住町奥野字東中須88番地の1 ゆめﾀｳﾝ徳島2階",
+    "name": "namcoゆめタウン徳島店"
+  },
+  {
+    "shopId": "670",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "四日市市富州原町2-40",
+    "name": "モーリーファンタジー四日市北"
+  },
+  {
+    "shopId": "671",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "四条畷市砂4-3-2",
+    "name": "モーリーファンタジー四條畷"
+  },
+  {
+    "shopId": "672",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市妙典5-3-1",
+    "name": "モーリーファンタジー市川妙典"
+  },
+  {
+    "shopId": "673",
+    "prefId": 46,
+    "prefName": "鹿児島県",
+    "area": "九州・沖縄",
+    "address": "鹿児島市東開町7",
+    "name": "モーリーファンタジー鹿児島"
+  },
+  {
+    "shopId": "674",
+    "prefId": 46,
+    "prefName": "鹿児島県",
+    "area": "九州・沖縄",
+    "address": "鹿児島市鴨池2-26-30",
+    "name": "モーリーファンタジー鹿児島鴨池"
+  },
+  {
+    "shopId": "675",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "加東市社1126-1",
+    "name": "モーリーファンタジー社"
+  },
+  {
+    "shopId": "676",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市守山区笹ヶ根3-1228",
+    "name": "モーリーファンタジー守山"
+  },
+  {
+    "shopId": "677",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市手稲区明日風6-1-1",
+    "name": "モーリーファンタジー手稲山口"
+  },
+  {
+    "shopId": "678",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "酒田市あきほ町120-1",
+    "name": "モーリーファンタジー酒田南"
+  },
+  {
+    "shopId": "679",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "洲本市塩屋1-1-8",
+    "name": "モーリーファンタジー洲本"
+  },
+  {
+    "shopId": "68",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市幸区堀川町72-1 LAZONA川崎ﾌﾟﾗｻﾞ4階",
+    "name": "namcoラゾーナ川崎店"
+  },
+  {
+    "shopId": "680",
+    "prefId": 5,
+    "prefName": "秋田県",
+    "area": "北海道・東北",
+    "address": "秋田市楢山川口境5-11",
+    "name": "モーリーファンタジー秋田中央"
+  },
+  {
+    "shopId": "681",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "十和田市大字相坂字六日町山166-1",
+    "name": "モーリーファンタジー十和田"
+  },
+  {
+    "shopId": "682",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "春日井市柏井町4-17",
+    "name": "モーリーファンタジー春日井"
+  },
+  {
+    "shopId": "683",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "春日部市下柳420-1",
+    "name": "モーリーファンタジー春日部"
+  },
+  {
+    "shopId": "684",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "小山市中久喜1467-1",
+    "name": "モーリーファンタジー小山"
+  },
+  {
+    "shopId": "685",
+    "prefId": 16,
+    "prefName": "富山県",
+    "area": "中部",
+    "address": "射水市三ヶ2602",
+    "name": "モーリーファンタジー小杉"
+  },
+  {
+    "shopId": "686",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "小千谷市大字平沢新田字荒田339",
+    "name": "モーリーファンタジー小千谷"
+  },
+  {
+    "shopId": "687",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "小平市小川東町2-12-1",
+    "name": "モーリーファンタジー小平"
+  },
+  {
+    "shopId": "688",
+    "prefId": 32,
+    "prefName": "島根県",
+    "area": "中国",
+    "address": "松江市東朝日町151",
+    "name": "モーリーファンタジー松江"
+  },
+  {
+    "shopId": "689",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "松阪市船江町1392-27",
+    "name": "モーリーファンタジー松阪"
+  },
+  {
+    "shopId": "69",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市白石区東札幌3条1丁目1-1ﾗｿﾗ札幌店 Aﾀｳﾝ2F",
+    "name": "namcoラソラ札幌店"
+  },
+  {
+    "shopId": "690",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "松山市天山1-13-5",
+    "name": "モーリーファンタジー松山"
+  },
+  {
+    "shopId": "691",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "松本市中央4-9-51",
+    "name": "モーリーファンタジー松本"
+  },
+  {
+    "shopId": "692",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "茅ヶ崎市茅ヶ崎2-7-71",
+    "name": "モーリーファンタジー湘南茅ヶ崎"
+  },
+  {
+    "shopId": "693",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "焼津市祢宜島555",
+    "name": "モーリーファンタジー焼津"
+  },
+  {
+    "shopId": "694",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "北斗市七重浜4-44-1",
+    "name": "モーリーファンタジー上磯"
+  },
+  {
+    "shopId": "695",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "上越市富岡3458",
+    "name": "モーリーファンタジー上越"
+  },
+  {
+    "shopId": "696",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "上田市常田2-12-18",
+    "name": "モーリーファンタジー上田"
+  },
+  {
+    "shopId": "697",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "児玉郡上里町大字金久保字蓮山359-1",
+    "name": "モーリーファンタジー上里"
+  },
+  {
+    "shopId": "698",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "常滑市りんくう町2-20-3",
+    "name": "モーリーファンタジー常滑"
+  },
+  {
+    "shopId": "699",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市厚別区厚別中央2条5-6-2",
+    "name": "モーリーファンタジー新さっぽろ"
+  },
+  {
+    "shopId": "7",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "古河市松並2-18-10 ﾏｰｹｯﾄｼﾃｨ古河内",
+    "name": "FESTA古河"
+  },
+  {
+    "shopId": "70",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "愛知郡東郷町東郷中央土地区画事業62街区1､3 ららぽｰと愛知東郷3F",
+    "name": "namcoららぽーと愛知東郷店"
+  },
+  {
+    "shopId": "700",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市西区青山2-5-1",
+    "name": "モーリーファンタジー新潟青山"
+  },
+  {
+    "shopId": "701",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市東区大形本町3-1-2",
+    "name": "モーリーファンタジー新潟東"
+  },
+  {
+    "shopId": "702",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新潟市江南区下早通柳田1-1-1",
+    "name": "モーリーファンタジー新潟南"
+  },
+  {
+    "shopId": "703",
+    "prefId": 30,
+    "prefName": "和歌山県",
+    "area": "近畿",
+    "address": "新宮市橋本2-14-23",
+    "name": "モーリーファンタジー新宮"
+  },
+  {
+    "shopId": "704",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "小松市沖周辺土地区画整理事業地内仮換地20街区",
+    "name": "モーリーファンタジー新小松"
+  },
+  {
+    "shopId": "705",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "新発田市住吉町5-11-5",
+    "name": "モーリーファンタジー新発田"
+  },
+  {
+    "shopId": "706",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "名取市杜せきのした5-3-の1",
+    "name": "モーリーファンタジー新名取"
+  },
+  {
+    "shopId": "707",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "真岡市台町2668",
+    "name": "モーリーファンタジー真岡"
+  },
+  {
+    "shopId": "708",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市北区上津台8-1-1",
+    "name": "モーリーファンタジー神戸北"
+  },
+  {
+    "shopId": "709",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "秦野市入船町12-1",
+    "name": "モーリーファンタジー秦野"
+  },
+  {
+    "shopId": "71",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市港区港明2丁目3番2号 ららぽｰと名古屋みなとｱｸﾙｽ店3F",
+    "name": "namcoららぽーと名古屋みなとアクルス店"
+  },
+  {
+    "shopId": "710",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "吹田市朝日町2-101",
+    "name": "モーリーファンタジー吹田"
+  },
+  {
+    "shopId": "711",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "水戸市内原2-1",
+    "name": "モーリーファンタジー水戸内原"
+  },
+  {
+    "shopId": "712",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "倉敷市水島高砂町3-11",
+    "name": "モーリーファンタジー水島"
+  },
+  {
+    "shopId": "713",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "瀬戸市みずの坂2-253",
+    "name": "モーリーファンタジー瀬戸みずの"
+  },
+  {
+    "shopId": "714",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "成田市ｳｲﾝｸﾞ土屋24",
+    "name": "モーリーファンタジー成田"
+  },
+  {
+    "shopId": "715",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "静岡市清水区上原1-6-16",
+    "name": "モーリーファンタジー清水"
+  },
+  {
+    "shopId": "716",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "西宮市林田町2-24",
+    "name": "モーリーファンタジー西宮"
+  },
+  {
+    "shopId": "717",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市西区糀台5-3-4",
+    "name": "モーリーファンタジー西神中央"
+  },
+  {
+    "shopId": "718",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "石巻市茜平四-104",
+    "name": "モーリーファンタジー石巻"
+  },
+  {
+    "shopId": "719",
+    "prefId": 19,
+    "prefName": "山梨県",
+    "area": "中部",
+    "address": "笛吹市石和町駅前16-1",
+    "name": "モーリーファンタジー石和"
+  },
+  {
+    "shopId": "72",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "北区王子1-4-1 ｻﾝｽｸｴｱ2階",
+    "name": "namco王子サンスクエア店"
+  },
+  {
+    "shopId": "720",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市若林区卸町1-1",
+    "name": "モーリーファンタジー仙台卸町"
+  },
+  {
+    "shopId": "721",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市泉区南中山1-35-40",
+    "name": "モーリーファンタジー仙台中山"
+  },
+  {
+    "shopId": "722",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "印西市中央北3-1-1",
+    "name": "モーリーファンタジー千葉ニュータウン"
+  },
+  {
+    "shopId": "723",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "川口市前川1-1-11",
+    "name": "モーリーファンタジー川口前川"
+  },
+  {
+    "shopId": "724",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市川崎区小田栄2-3-1",
+    "name": "モーリーファンタジー川崎小田栄"
+  },
+  {
+    "shopId": "725",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "船橋市山手1-1-8",
+    "name": "モーリーファンタジー船橋"
+  },
+  {
+    "shopId": "726",
+    "prefId": 3,
+    "prefName": "岩手県",
+    "area": "北海道・東北",
+    "address": "奥州市前沢区向田2-85",
+    "name": "モーリーファンタジー前沢"
+  },
+  {
+    "shopId": "727",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "高崎市倉賀野町4691-1",
+    "name": "モーリーファンタジー倉賀野"
+  },
+  {
+    "shopId": "728",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "倉敷市水江1",
+    "name": "モーリーファンタジー倉敷"
+  },
+  {
+    "shopId": "729",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "相馬市馬場野字雨田51",
+    "name": "モーリーファンタジー相馬"
+  },
+  {
+    "shopId": "73",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "郡山市西ﾉ内2丁目11-35 西部ﾌﾟﾗｻﾞ内",
+    "name": "namco郡山西部プラザ店"
+  },
+  {
+    "shopId": "730",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "相模原市中央区小山3-37-1",
+    "name": "モーリーファンタジー相模原小山"
+  },
+  {
+    "shopId": "731",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "草津市新浜町300",
+    "name": "モーリーファンタジー草津"
+  },
+  {
+    "shopId": "732",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "多賀城市町前4-1-1",
+    "name": "モーリーファンタジー多賀城"
+  },
+  {
+    "shopId": "733",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "多治見市西坂町5-31-1",
+    "name": "モーリーファンタジー多治見"
+  },
+  {
+    "shopId": "734",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "日野市多摩平2-4-1",
+    "name": "モーリーファンタジー多摩平の森"
+  },
+  {
+    "shopId": "735",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "太田市石原町81",
+    "name": "モーリーファンタジー太田"
+  },
+  {
+    "shopId": "736",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "袋井市上山梨4-1-の1",
+    "name": "モーリーファンタジー袋井"
+  },
+  {
+    "shopId": "737",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "ふじみ野市ふじみ野1-2-1",
+    "name": "モーリーファンタジー大井"
+  },
+  {
+    "shopId": "738",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "大垣市外野2-100",
+    "name": "モーリーファンタジー大垣"
+  },
+  {
+    "shopId": "739",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市北区櫛引町2-574-1",
+    "name": "モーリーファンタジー大宮"
+  },
+  {
+    "shopId": "74",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市都筑区茅ｹ崎中央5-1 港北TOKYU S.C.",
+    "name": "namco港北TOKYU S.C.店"
+  },
+  {
+    "shopId": "740",
+    "prefId": 5,
+    "prefName": "秋田県",
+    "area": "北海道・東北",
+    "address": "大仙市和合字坪立177",
+    "name": "モーリーファンタジー大曲"
+  },
+  {
+    "shopId": "741",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市緑区南大高2-450",
+    "name": "モーリーファンタジー大高"
+  },
+  {
+    "shopId": "742",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市西区千代崎3-13-1",
+    "name": "モーリーファンタジー大阪ドームシティ"
+  },
+  {
+    "shopId": "743",
+    "prefId": 42,
+    "prefName": "長崎県",
+    "area": "九州・沖縄",
+    "address": "大村市幸町25-200",
+    "name": "モーリーファンタジー大村"
+  },
+  {
+    "shopId": "744",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "大津市一里山7-1-1",
+    "name": "モーリーファンタジー大津一里山"
+  },
+  {
+    "shopId": "745",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "大津市皇子が丘3-11-1",
+    "name": "モーリーファンタジー大津京"
+  },
+  {
+    "shopId": "746",
+    "prefId": 42,
+    "prefName": "長崎県",
+    "area": "九州・沖縄",
+    "address": "佐世保市大塔町14-2",
+    "name": "モーリーファンタジー大塔"
+  },
+  {
+    "shopId": "747",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "守口市大日東町1-18",
+    "name": "モーリーファンタジー大日"
+  },
+  {
+    "shopId": "748",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "三潴郡大木町蛭池1200",
+    "name": "モーリーファンタジー大木"
+  },
+  {
+    "shopId": "749",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "大野城市錦町4-1-1",
+    "name": "モーリーファンタジー大野城"
+  },
+  {
+    "shopId": "75",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市中央区北5条西2丁目1番地1 ｴｽﾀ9階",
+    "name": "namco札幌エスタ店"
+  },
+  {
+    "shopId": "750",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "大和市都市計画事業渋谷(南部地区)整理地内74",
+    "name": "モーリーファンタジー大和"
+  },
+  {
+    "shopId": "751",
+    "prefId": 29,
+    "prefName": "奈良県",
+    "area": "近畿",
+    "address": "大和郡山市下三橋741",
+    "name": "モーリーファンタジー大和郡山"
+  },
+  {
+    "shopId": "752",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "大和市下鶴間一-2-1",
+    "name": "モーリーファンタジー大和鶴間"
+  },
+  {
+    "shopId": "753",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "筑後市大字上北島字井原口1259-1",
+    "name": "モーリーファンタジー筑後"
+  },
+  {
+    "shopId": "754",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "筑紫野市大字立明寺434-1",
+    "name": "モーリーファンタジー筑紫野"
+  },
+  {
+    "shopId": "755",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "標津郡中標津町南町3-10",
+    "name": "モーリーファンタジー中標津"
+  },
+  {
+    "shopId": "756",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "銚子市三崎町2-2660-1",
+    "name": "モーリーファンタジー銚子"
+  },
+  {
+    "shopId": "757",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "袖ヶ浦市長浦駅前1-7",
+    "name": "モーリーファンタジー長浦"
+  },
+  {
+    "shopId": "758",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "長久手市長久手中央土地区画整理地5､10､11街区",
+    "name": "モーリーファンタジー長久手"
+  },
+  {
+    "shopId": "759",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市長田区長田1-20",
+    "name": "モーリーファンタジー長田南"
+  },
+  {
+    "shopId": "76",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "松戸市松戸1230番地1 ﾋﾟｱｻﾞ松戸1F",
+    "name": "namco松戸店"
+  },
+  {
+    "shopId": "760",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "長浜市山階町271-1",
+    "name": "モーリーファンタジー長浜"
+  },
+  {
+    "shopId": "761",
+    "prefId": 31,
+    "prefName": "鳥取県",
+    "area": "中国",
+    "address": "鳥取市晩稲348",
+    "name": "モーリーファンタジー鳥取北"
+  },
+  {
+    "shopId": "762",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "直方市湯野原2-1-1",
+    "name": "モーリーファンタジー直方"
+  },
+  {
+    "shopId": "763",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "津山市河辺1000-1",
+    "name": "モーリーファンタジー津山"
+  },
+  {
+    "shopId": "764",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "津市久居小野辺町1130-7",
+    "name": "モーリーファンタジー津城山"
+  },
+  {
+    "shopId": "765",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "習志野市津田沼1-23-1",
+    "name": "モーリーファンタジー津田沼"
+  },
+  {
+    "shopId": "766",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "津市高茶屋小森町145",
+    "name": "モーリーファンタジー津南"
+  },
+  {
+    "shopId": "767",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市鶴見区鶴見4-17-1",
+    "name": "モーリーファンタジー鶴見緑地"
+  },
+  {
+    "shopId": "768",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "天童市芳賀ﾀｳﾝ北4-1-1",
+    "name": "モーリーファンタジー天童"
+  },
+  {
+    "shopId": "769",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "熊本市西区田崎町字下寄380",
+    "name": "モーリーファンタジー田崎"
+  },
+  {
+    "shopId": "77",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市浪速区難波中2-1-17 ｺｽﾓﾋﾞﾙ1~3F",
+    "name": "namco大阪日本橋店"
+  },
+  {
+    "shopId": "770",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "金沢市もりの里1-70",
+    "name": "モーリーファンタジー杜の里"
+  },
+  {
+    "shopId": "771",
+    "prefId": 29,
+    "prefName": "奈良県",
+    "area": "近畿",
+    "address": "生駒市鹿畑町3027",
+    "name": "モーリーファンタジー登美ヶ丘"
+  },
+  {
+    "shopId": "772",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "登別市若山町4-33-1",
+    "name": "モーリーファンタジー登別"
+  },
+  {
+    "shopId": "773",
+    "prefId": 45,
+    "prefName": "宮崎県",
+    "area": "九州・沖縄",
+    "address": "都城市栄町4672-5",
+    "name": "モーリーファンタジー都城駅前"
+  },
+  {
+    "shopId": "774",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "土浦市上高津367",
+    "name": "モーリーファンタジー土浦"
+  },
+  {
+    "shopId": "775",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "唐津市鏡字立神4671",
+    "name": "モーリーファンタジー唐津"
+  },
+  {
+    "shopId": "776",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "員弁郡東員町長深字築田510-1",
+    "name": "モーリーファンタジー東員"
+  },
+  {
+    "shopId": "777",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "知多郡東浦町大字緒川字旭13-2",
+    "name": "モーリーファンタジー東浦"
+  },
+  {
+    "shopId": "778",
+    "prefId": 8,
+    "prefName": "茨城県",
+    "area": "関東",
+    "address": "那珂郡東海村舟石川駅東四-1-1",
+    "name": "モーリーファンタジー東海"
+  },
+  {
+    "shopId": "779",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "東久留米市南沢5-17",
+    "name": "モーリーファンタジー東久留米"
+  },
+  {
+    "shopId": "78",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "中野区中野5-52-15 中野ﾌﾞﾛｰﾄﾞｳｪｲ別館",
+    "name": "namco中野店"
+  },
+  {
+    "shopId": "780",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市戸塚区品濃町535-1",
+    "name": "モーリーファンタジー東戸塚"
+  },
+  {
+    "shopId": "781",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "東根市さくらんぼ駅前3-7-15",
+    "name": "モーリーファンタジー東根"
+  },
+  {
+    "shopId": "782",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市白石区東札幌3条2-1",
+    "name": "モーリーファンタジー東札幌"
+  },
+  {
+    "shopId": "783",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "習志野市東習志野6-7-8",
+    "name": "モーリーファンタジー東習志野"
+  },
+  {
+    "shopId": "784",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "函館市湯川町3-14-5",
+    "name": "モーリーファンタジー湯川"
+  },
+  {
+    "shopId": "785",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市北区北区藤1-2-2",
+    "name": "モーリーファンタジー藤原台"
+  },
+  {
+    "shopId": "786",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "南津軽郡大字西豊田1-7-1",
+    "name": "モーリーファンタジー藤崎"
+  },
+  {
+    "shopId": "787",
+    "prefId": 36,
+    "prefName": "徳島県",
+    "area": "四国",
+    "address": "徳島市末広町4-1",
+    "name": "モーリーファンタジー徳島"
+  },
+  {
+    "shopId": "788",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "苫小牧市柳町3-1-20",
+    "name": "モーリーファンタジー苫小牧"
+  },
+  {
+    "shopId": "789",
+    "prefId": 9,
+    "prefName": "栃木県",
+    "area": "関東",
+    "address": "那須塩原市島方455",
+    "name": "モーリーファンタジー那須塩原"
+  },
+  {
+    "shopId": "79",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "大田区西蒲田7丁目69番1号 東急ﾌﾟﾗｻﾞ蒲田7階",
+    "name": "namco東急プラザ蒲田店"
+  },
+  {
+    "shopId": "790",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "那覇市金城5-10-2",
+    "name": "モーリーファンタジー那覇"
+  },
+  {
+    "shopId": "791",
+    "prefId": 45,
+    "prefName": "宮崎県",
+    "area": "九州・沖縄",
+    "address": "宮崎市大淀4-7-30",
+    "name": "モーリーファンタジー南宮崎"
+  },
+  {
+    "shopId": "792",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区南砂6-7-15",
+    "name": "モーリーファンタジー南砂"
+  },
+  {
+    "shopId": "793",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "松山市朝生田町5-1-25",
+    "name": "モーリーファンタジー南松山"
+  },
+  {
+    "shopId": "794",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "松本市双葉5-20",
+    "name": "モーリーファンタジー南松本"
+  },
+  {
+    "shopId": "795",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "島尻郡南風原町字宮平264",
+    "name": "モーリーファンタジー南風原"
+  },
+  {
+    "shopId": "796",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "尼崎市次屋3-13-18",
+    "name": "モーリーファンタジー尼崎"
+  },
+  {
+    "shopId": "797",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "西多摩郡日の出町大字平井字三吉野桜木237-3",
+    "name": "モーリーファンタジー日の出"
+  },
+  {
+    "shopId": "798",
+    "prefId": 31,
+    "prefName": "鳥取県",
+    "area": "中国",
+    "address": "西伯郡日吉津村日吉津1160-1",
+    "name": "モーリーファンタジー日吉津"
+  },
+  {
+    "shopId": "799",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "日田市南元町14-22",
+    "name": "モーリーファンタジー日田"
+  },
+  {
+    "shopId": "8",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊田市喜多町1丁目140番地  ",
+    "name": "GAZA 3Fゲームコーナー"
+  },
+  {
+    "shopId": "80",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市北区小松原町3番3号 OSﾋﾞﾙ2F",
+    "name": "namco梅田店"
+  },
+  {
+    "shopId": "800",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "入間市上藤沢462-1",
+    "name": "モーリーファンタジー入間"
+  },
+  {
+    "shopId": "801",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市熱田区六野一-2-11",
+    "name": "モーリーファンタジー熱田"
+  },
+  {
+    "shopId": "802",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市豊町2-5-25",
+    "name": "モーリーファンタジー柏"
+  },
+  {
+    "shopId": "803",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "西白河郡西郷村大字小田倉字岩下11-1",
+    "name": "モーリーファンタジー白河西郷"
+  },
+  {
+    "shopId": "804",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "白山市横江町1681",
+    "name": "モーリーファンタジー白山"
+  },
+  {
+    "shopId": "805",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "八街市文違301",
+    "name": "モーリーファンタジー八街"
+  },
+  {
+    "shopId": "806",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "八戸市大字田向字毘沙門平27-1",
+    "name": "モーリーファンタジー八戸田向"
+  },
+  {
+    "shopId": "807",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "八千代市緑が丘2-1-3",
+    "name": "モーリーファンタジー八千代緑が丘"
+  },
+  {
+    "shopId": "808",
+    "prefId": 43,
+    "prefName": "熊本県",
+    "area": "九州・沖縄",
+    "address": "八代市沖町六-割3987-3",
+    "name": "モーリーファンタジー八代"
+  },
+  {
+    "shopId": "809",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "北九州市八幡東区東田3-2-102",
+    "name": "モーリーファンタジー八幡東"
+  },
+  {
+    "shopId": "81",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市博多区博多駅中央街2-1 博多ﾊﾞｽﾀｰﾐﾅﾙ7F",
+    "name": "namco博多バスターミナル店"
+  },
+  {
+    "shopId": "810",
+    "prefId": 46,
+    "prefName": "鹿児島県",
+    "area": "九州・沖縄",
+    "address": "霧島市隼人町見次1229",
+    "name": "モーリーファンタジー隼人国分"
+  },
+  {
+    "shopId": "811",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "半田市有楽町8-7",
+    "name": "モーリーファンタジー半田"
+  },
+  {
+    "shopId": "812",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "板橋区徳丸2-6-1",
+    "name": "モーリーファンタジー板橋"
+  },
+  {
+    "shopId": "813",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市須磨区前池町3-2-1",
+    "name": "モーリーファンタジー板宿"
+  },
+  {
+    "shopId": "814",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "姫路市飾磨区細江2560",
+    "name": "モーリーファンタジー姫路リバーシティ"
+  },
+  {
+    "shopId": "815",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "姫路市大津区大津町2-5",
+    "name": "モーリーファンタジー姫路大津"
+  },
+  {
+    "shopId": "816",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "品川区東品川4-12-5",
+    "name": "モーリーファンタジー品川シーサイド"
+  },
+  {
+    "shopId": "817",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市東区天王町字諏訪1981-3",
+    "name": "モーリーファンタジー浜松市野"
+  },
+  {
+    "shopId": "818",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市西区志都呂町2-37-1",
+    "name": "モーリーファンタジー浜松志都呂"
+  },
+  {
+    "shopId": "819",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "浜松市西区入野町6244-1",
+    "name": "モーリーファンタジー浜松西"
+  },
+  {
+    "shopId": "82",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "流山市おおたかの森南一丁目5番地の1 流山おおたかの森S･C 3F",
+    "name": "namco流山おおたかの森S・C店"
+  },
+  {
+    "shopId": "820",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "富士宮市浅間町1-8",
+    "name": "モーリーファンタジー富士宮"
+  },
+  {
+    "shopId": "821",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "富谷市大清水1-33-1",
+    "name": "モーリーファンタジー富谷"
+  },
+  {
+    "shopId": "822",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "丹羽郡扶桑町大字南山名字高塚5-1",
+    "name": "モーリーファンタジー扶桑"
+  },
+  {
+    "shopId": "823",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市垂水区舞子台6-20-17",
+    "name": "モーリーファンタジー舞子"
+  },
+  {
+    "shopId": "824",
+    "prefId": 18,
+    "prefName": "福井県",
+    "area": "中部",
+    "address": "福井市松城町12-7",
+    "name": "モーリーファンタジー福井"
+  },
+  {
+    "shopId": "825",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "糟屋郡粕屋町大字酒殿字老ﾉ木192-1",
+    "name": "モーリーファンタジー福岡"
+  },
+  {
+    "shopId": "826",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "福知山市岩井79-8",
+    "name": "モーリーファンタジー福知山"
+  },
+  {
+    "shopId": "827",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福津市日蒔野6-16-1",
+    "name": "モーリーファンタジー福津"
+  },
+  {
+    "shopId": "828",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "福島市南矢野目字西荒田50-の17",
+    "name": "モーリーファンタジー福島"
+  },
+  {
+    "shopId": "829",
+    "prefId": 31,
+    "prefName": "鳥取県",
+    "area": "中国",
+    "address": "米子市末広町311",
+    "name": "モーリーファンタジー米子駅前"
+  },
+  {
+    "shopId": "83",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "伊勢市楠部町乙160",
+    "name": "NICOPAイオン伊勢"
+  },
+  {
+    "shopId": "830",
+    "prefId": 6,
+    "prefName": "山梨県",
+    "area": "北海道・東北",
+    "address": "米沢市春日2-13-4",
+    "name": "モーリーファンタジー米沢"
+  },
+  {
+    "shopId": "831",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "宝塚市売布東の町21-22",
+    "name": "モーリーファンタジー宝塚中山"
+  },
+  {
+    "shopId": "832",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊橋市野依町字落合1-12",
+    "name": "モーリーファンタジー豊橋南"
+  },
+  {
+    "shopId": "833",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊川市開運通り2-31",
+    "name": "モーリーファンタジー豊川"
+  },
+  {
+    "shopId": "834",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊田市広路町1-1",
+    "name": "モーリーファンタジー豊田"
+  },
+  {
+    "shopId": "835",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "戸田市美女木東1-3-1",
+    "name": "モーリーファンタジー北戸田"
+  },
+  {
+    "shopId": "836",
+    "prefId": 47,
+    "prefName": "沖縄県",
+    "area": "九州・沖縄",
+    "address": "中頭郡北谷町字美浜8-3",
+    "name": "モーリーファンタジー北谷"
+  },
+  {
+    "shopId": "837",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "本庄市中央2-4",
+    "name": "モーリーファンタジー本庄中央"
+  },
+  {
+    "shopId": "838",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市美浜区豊砂1-5",
+    "name": "モーリーファンタジー幕張新都心"
+  },
+  {
+    "shopId": "839",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "名寄市字徳田80-1",
+    "name": "モーリーファンタジー名寄"
+  },
+  {
+    "shopId": "84",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "津市桜橋3-446",
+    "name": "NICOPAイオン津"
+  },
+  {
+    "shopId": "840",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市港区西茶屋2-11",
+    "name": "モーリーファンタジー名古屋茶屋"
+  },
+  {
+    "shopId": "841",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市名東区猪子石原2-1701",
+    "name": "モーリーファンタジー名古屋東"
+  },
+  {
+    "shopId": "842",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市須磨区中落合2-2-2",
+    "name": "モーリーファンタジー名谷"
+  },
+  {
+    "shopId": "843",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "明石市大久保町ゆりのき通り3-3-1",
+    "name": "モーリーファンタジー明石"
+  },
+  {
+    "shopId": "844",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "多気郡明和町中村長波賀1223",
+    "name": "モーリーファンタジー明和"
+  },
+  {
+    "shopId": "845",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "木更津市築地1-4",
+    "name": "モーリーファンタジー木更津"
+  },
+  {
+    "shopId": "846",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "一宮市木曽川町黒田字南八ﾂヶ池25-1",
+    "name": "モーリーファンタジー木曽川"
+  },
+  {
+    "shopId": "847",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市福島区海老江1-1-23",
+    "name": "モーリーファンタジー野田阪神"
+  },
+  {
+    "shopId": "848",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市中央区本町西5-2-9",
+    "name": "モーリーファンタジー与野"
+  },
+  {
+    "shopId": "849",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市南区吉祥院御池町31",
+    "name": "モーリーファンタジー洛南"
+  },
+  {
+    "shopId": "85",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "岡崎市羽根町小豆坂3番地",
+    "name": "NICOPAウイングタウン岡崎"
+  },
+  {
+    "shopId": "850",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市左京区左京35",
+    "name": "モーリーファンタジー洛北阪急スクエア"
+  },
+  {
+    "shopId": "851",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "宮城郡利府町字新屋田前22",
+    "name": "モーリーファンタジー利府"
+  },
+  {
+    "shopId": "852",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "たつの市龍野町堂本250-1",
+    "name": "モーリーファンタジー竜野"
+  },
+  {
+    "shopId": "853",
+    "prefId": 15,
+    "prefName": "新潟県",
+    "area": "中部",
+    "address": "南魚沼市余川3100",
+    "name": "モーリーファンタジー六日町"
+  },
+  {
+    "shopId": "854",
+    "prefId": 30,
+    "prefName": "和歌山県",
+    "area": "近畿",
+    "address": "和歌山市中字楠谷573",
+    "name": "モーリーファンタジー和歌山"
+  },
+  {
+    "shopId": "855",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "東広島市西条下見6-2-32",
+    "name": "ゆめタウン学園"
+  },
+  {
+    "shopId": "856",
+    "prefId": 37,
+    "prefName": "香川県",
+    "area": "四国",
+    "address": "高松市三条町中所608-1 ゆめﾀｳﾝ高松店2Fゆめﾗﾝﾄﾞ",
+    "name": "ゆめタウン高松店"
+  },
+  {
+    "shopId": "857",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "中津市蛭子町3丁目99番地 ゆめﾀｳﾝ中津店3階ゆめｷｯｽﾞ",
+    "name": "ゆめタウン中津店"
+  },
+  {
+    "shopId": "858",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "武蔵野市吉祥寺本町1-19-1",
+    "name": "ヨドバシカメラ マルチメディア吉祥寺"
+  },
+  {
+    "shopId": "859",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区神田花岡町1番地1",
+    "name": "ヨドバシカメラマルチメディアAkiba"
+  },
+  {
+    "shopId": "86",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市都島区友渕町2-13-34",
+    "name": "NICOPAベルファ都島"
+  },
+  {
+    "shopId": "860",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市西区北幸1-2-7",
+    "name": "ヨドバシカメラマルチメディア横浜"
+  },
+  {
+    "shopId": "861",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市港南区上大岡西1-6-1",
+    "name": "ヨドバシカメラマルチメディア京急上大岡"
+  },
+  {
+    "shopId": "862",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市下京区東塩小路町590-2",
+    "name": "ヨドバシカメラマルチメディア京都"
+  },
+  {
+    "shopId": "863",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "墨田区江東橋3丁目14-5 ﾃﾙﾐﾅ 1F - 3F",
+    "name": "ヨドバシカメラマルチメディア錦糸町"
+  },
+  {
+    "shopId": "864",
+    "prefId": 19,
+    "prefName": "山梨県",
+    "area": "中部",
+    "address": "甲府市丸の内1-3-3",
+    "name": "ヨドバシカメラマルチメディア甲府"
+  },
+  {
+    "shopId": "865",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "台東区上野4丁目10-10",
+    "name": "ヨドバシカメラマルチメディア上野"
+  },
+  {
+    "shopId": "866",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "川崎市川崎区日進町1-11",
+    "name": "ヨドバシカメラマルチメディア川崎ルフロン"
+  },
+  {
+    "shopId": "867",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "町田市原町田1-1-11玩具売場",
+    "name": "ヨドバシカメラマルチメディア町田駅前"
+  },
+  {
+    "shopId": "868",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市北区大深町1-1",
+    "name": "ヨドバシカメラマルチメディア梅田"
+  },
+  {
+    "shopId": "869",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区新宿3-26-7",
+    "name": "ヨドバシカメラマルチメディア新宿東口"
+  },
+  {
+    "shopId": "87",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "幸手市上高野764ｴﾑｽﾞﾀｳﾝ幸手",
+    "name": "NICOPA幸手"
+  },
+  {
+    "shopId": "870",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "郡山市駅前1-16-7",
+    "name": "ヨドバシカメラ郡山駅前"
+  },
+  {
+    "shopId": "871",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "新宿区西新宿1-11-1",
+    "name": "ヨドバシカメラ新宿西口"
+  },
+  {
+    "shopId": "872",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市宮城野区榴岡1-3-1 2F玩具売り場",
+    "name": "ヨドバシカメラ仙台"
+  },
+  {
+    "shopId": "873",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市中央区富士見2-3-1",
+    "name": "ヨドバシカメラ千葉"
+  },
+  {
+    "shopId": "874",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市大島田950-1",
+    "name": "ラウンドワンスタジアムアリオ柏"
+  },
+  {
+    "shopId": "875",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "三郷市新三郷ららｼﾃｨ3丁目1-1",
+    "name": "ラウンドワンスタジアムららぽーと新三郷"
+  },
+  {
+    "shopId": "876",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "中央区難波1丁目3番1号",
+    "name": "ラウンドワンスタジアム千日前"
+  },
+  {
+    "shopId": "877",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "本巣市三橋1100",
+    "name": "ラウンドワンモレラ岐阜"
+  },
+  {
+    "shopId": "878",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "平塚市天沼10-1",
+    "name": "ラウンドワンららぽーと湘南平塚"
+  },
+  {
+    "shopId": "879",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "和泉市あゆみ野4-4-7",
+    "name": "ラウンドワンららぽーと和泉"
+  },
+  {
+    "shopId": "88",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "四日市市富州原町2-40",
+    "name": "NICOPA四日市北"
+  },
+  {
+    "shopId": "880",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "三郷市天神2丁目22番地  ",
+    "name": "ラクガキ王国 三郷"
+  },
+  {
+    "shopId": "881",
+    "prefId": 29,
+    "prefName": "奈良県",
+    "area": "近畿",
+    "address": "北葛城郡上牧町ささゆり台一丁目1番1号 ﾗｽﾊﾟ西大和店2階",
+    "name": "ラスパ西大和店ゲームコーナー"
+  },
+  {
+    "shopId": "882",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "高山市岡本町3-18-2",
+    "name": "ルビットランド高山"
+  },
+  {
+    "shopId": "883",
+    "prefId": 18,
+    "prefName": "福井県",
+    "area": "中部",
+    "address": "福井市新保町7-9-1 ﾔｽｻｷﾜｲﾌﾟﾗｻﾞB棟2F",
+    "name": "レジャーランドワイプラザ"
+  },
+  {
+    "shopId": "884",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "伊勢崎市連取町3066-1",
+    "name": "レジャーランド伊勢崎"
+  },
+  {
+    "shopId": "885",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "厚木市戸室5-31-1",
+    "name": "レジャーランド厚木"
+  },
+  {
+    "shopId": "886",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "高崎市江木町333-1 ACTﾋﾞﾙ2F",
+    "name": "レジャーランド高崎駅東口"
+  },
+  {
+    "shopId": "887",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区外神田1-9-5",
+    "name": "レジャーランド秋葉原1号"
+  },
+  {
+    "shopId": "888",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区外神田4-3-3 ﾐﾅﾐﾋﾞﾙ6･7F",
+    "name": "レジャーランド秋葉原2号"
+  },
+  {
+    "shopId": "889",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "春日部市大字増富字谷際163-1",
+    "name": "レジャーランド春日部"
+  },
+  {
+    "shopId": "89",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江戸川区西葛西3-9-19",
+    "name": "NOSICA葛西"
+  },
+  {
+    "shopId": "890",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "太田市西矢島町1622",
+    "name": "レジャーランド太田"
+  },
+  {
+    "shopId": "891",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "藤岡市中2002-1",
+    "name": "レジャーランド藤岡"
+  },
+  {
+    "shopId": "892",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "金沢市藤江南2-105",
+    "name": "レジャーランド藤江新館"
+  },
+  {
+    "shopId": "893",
+    "prefId": 18,
+    "prefName": "福井県",
+    "area": "中部",
+    "address": "福井市大和田2丁目1212ラブリーパートナーエルパ2F",
+    "name": "レッツワクワク エルパ"
+  },
+  {
+    "shopId": "894",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市東区東浜1-1-1",
+    "name": "ABCパレード博多"
+  },
+  {
+    "shopId": "895",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "小牧市小牧市間々片山181番地",
+    "name": "小牧メトロポリス"
+  },
+  {
+    "shopId": "896",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横須賀市平成町3-21-4",
+    "name": "西友LIVINよこすか"
+  },
+  {
+    "shopId": "897",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "杉並区阿佐谷北1-5-6",
+    "name": "西友阿佐ヶ谷"
+  },
+  {
+    "shopId": "898",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "世田谷区太子堂4-24-8",
+    "name": "西友三軒茶屋"
+  },
+  {
+    "shopId": "899",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "足立区青井3-1-1",
+    "name": "西友青井"
+  },
+  {
+    "shopId": "9",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "千代田区外神田1-10-5  ",
+    "name": "Hey"
+  },
+  {
+    "shopId": "90",
+    "prefId": 7,
+    "prefName": "福島県",
+    "area": "北海道・東北",
+    "address": "喜多方市字押切南2-42-1",
+    "name": "PALO喜多方"
+  },
+  {
+    "shopId": "900",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "調布市小島町1-10-1",
+    "name": "西友調布"
+  },
+  {
+    "shopId": "901",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "稚内市大黒4-7-1",
+    "name": "西條百貨店稚内"
+  },
+  {
+    "shopId": "902",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市中川区江松三丁目110番地",
+    "name": "中川メトロポリス"
+  },
+  {
+    "shopId": "903",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "大阪市阿倍野区阿倍野筋2-4-51",
+    "name": "天王寺パスカ"
+  },
+  {
+    "shopId": "904",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "港区台場1-7-1 ｱｸｱｼﾃｨお台場4F 4A区画",
+    "name": "東京レジャーランドお台場"
+  },
+  {
+    "shopId": "905",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "中央区銀座8-8-11",
+    "name": "博品館TOYPARK銀座本館"
+  },
+  {
+    "shopId": "906",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市緑区美園5-50-1 ｲｵﾝﾓｰﾙ浦和美園2F",
+    "name": "宝島浦和美園"
+  },
+  {
+    "shopId": "907",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "桐生市永楽町5-10 MEGAﾄﾞﾝｷﾎｰﾃ桐生3階",
+    "name": "宝島桐生"
+  },
+  {
+    "shopId": "908",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "東大阪市鴻池町1-1-72 ｲｵﾝ鴻池店2F",
+    "name": "宝島鴻池"
+  },
+  {
+    "shopId": "909",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "浦安市入船1-4-1ｲｵﾝｽﾀｲﾙ新浦安 4F",
+    "name": "宝島新浦安"
+  },
+  {
+    "shopId": "91",
+    "prefId": 30,
+    "prefName": "和歌山県",
+    "area": "近畿",
+    "address": "橋本市あやの台1-50-2",
+    "name": "PALO橋本彩の台"
+  },
+  {
+    "shopId": "910",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江戸川区瑞江2-1-2 ﾄﾞﾝ･ｷﾎｰﾃ ﾗﾊﾟｰｸ瑞江店4F",
+    "name": "宝島瑞江"
+  },
+  {
+    "shopId": "911",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "みどり市大間々町大間々40 さくらもｰる2F",
+    "name": "宝島大間々"
+  },
+  {
+    "shopId": "912",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "柏市若柴175 ららぽｰと柏の葉店3F",
+    "name": "宝島柏の葉"
+  },
+  {
+    "shopId": "913",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "蓮田市東4-5-13 MEGAﾄﾞﾝｷﾎｰﾃ蓮田2階",
+    "name": "宝島蓮田"
+  },
+  {
+    "shopId": "914",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊川市下長山町上ｱﾗｲ14-1",
+    "name": "豊川メトロポリス"
+  },
+  {
+    "shopId": "915",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "福岡市博多区東那珂1丁目14番46号",
+    "name": "遊遊パークフォレオ博多"
+  },
+  {
+    "shopId": "916",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "渋谷区神宮前3-18-27 2F",
+    "name": "プリズムストーンカフェ原宿店"
+  },
+  {
+    "shopId": "917",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "相模原市緑区大山町1-22 ｱﾘｵ橋本店内2階ｴﾌﾞﾘﾃﾞｨFUNﾊｳｽ",
+    "name": "プレビアリオ橋本"
+  },
+  {
+    "shopId": "918",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "久喜市菖蒲町菖蒲6005番地1ﾓﾗｰｼﾞｭ菖蒲3F",
+    "name": "SOYU Game Field菖蒲"
+  },
+  {
+    "shopId": "919",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "伊予郡松前町筒井850 ",
+    "name": "namcoエミフルMASAKI店"
+  },
+  {
+    "shopId": "92",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "釧路郡釧路町桂木1-1-7",
+    "name": "PALO釧路"
+  },
+  {
+    "shopId": "920",
+    "prefId": 3,
+    "prefName": "岩手県",
+    "area": "北海道・東北",
+    "address": "盛岡市前潟４－７－１",
+    "name": "モーリーファンタジー盛岡"
+  },
+  {
+    "shopId": "921",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "遠田郡涌谷町字洞ヶ崎５番地",
+    "name": "モーリーファンタジー涌谷"
+  },
+  {
+    "shopId": "922",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市西区則武新町３－１－１７ イオンモール名古屋ノリタケガーデン内",
+    "name": "namco則武新町店"
+  },
+  {
+    "shopId": "923",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "松原市松原市天美東３丁目５００番地セブンパーク天美３Ｆ",
+    "name": "namcoセブンパーク天美店"
+  },
+  {
+    "shopId": "93",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "熊谷市本石2-135",
+    "name": "PALO熊谷"
+  },
+  {
+    "shopId": "94",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "桑名市新西方1-22",
+    "name": "PALO桑名"
+  },
+  {
+    "shopId": "95",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "五所川原市唐笠柳字藤巻641-1",
+    "name": "PALO五所川原"
+  },
+  {
+    "shopId": "96",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "江別市幸町35",
+    "name": "PALO江別"
+  },
+  {
+    "shopId": "97",
+    "prefId": 2,
+    "prefName": "青森県",
+    "area": "北海道・東北",
+    "address": "黒石市富士見103-3",
+    "name": "PALO黒石"
+  },
+  {
+    "shopId": "98",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "ふじみ野市西鶴ｹ岡1-3-15",
+    "name": "PALO埼玉大井"
+  },
+  {
+    "shopId": "99",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市鬼高1-1-1",
+    "name": "PALO市川"
+  }
+]
