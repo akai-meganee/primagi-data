@@ -46,55 +46,94 @@
   "color": [
     {
       "id": 1,
-      "name": "ちゃ"
+      "name": "ちゃ",
+      "backgroundColor": "#a66428",
+      "fontColor": "#a66428",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 2,
-      "name": "あか"
+      "name": "あか",
+      "backgroundColor": "#ff2e2e",
+      "fontColor": "#ff2e2e",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 3,
-      "name": "ピンク"
+      "name": "ピンク",
+      "backgroundColor": "#ff3599",
+      "fontColor": "#ff3599",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 4,
-      "name": "オレンジ"
+      "name": "オレンジ",
+      "backgroundColor": "#ff9000",
+      "fontColor": "#ff9000",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 5,
-      "name": "きいろ"
+      "name": "きいろ",
+      "backgroundColor": "#ffc600",
+      "fontColor": "#d88a0f",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 6,
-      "name": "みどり"
+      "name": "みどり",
+      "backgroundColor": "#17ab5b",
+      "fontColor": "#17ab5b",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 7,
-      "name": "みずいろ"
+      "name": "みずいろ",
+      "backgroundColor": "#00bce4",
+      "fontColor": "#00bce4",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 8,
-      "name": "あお"
+      "name": "あお",
+      "backgroundColor": "#1d5dff",
+      "fontColor": "#1d5dff",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 9,
-      "name": "むらさき"
+      "name": "むらさき",
+      "backgroundColor": "#a444ff",
+      "fontColor": "#a444ff",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 10,
-      "name": "くろ"
+      "name": "くろ",
+      "backgroundColor": "#322f36",
+      "fontColor": "#322f36",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 11,
-      "name": "しろ"
+      "name": "しろ",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#71abcc",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 12,
-      "name": "シルバー"
+      "name": "シルバー",
+      "backgroundColor": "#bacdcf",
+      "fontColor": "#717c7d",
+      "strokeColor": "#ffffff"
     },
     {
       "id": 13,
-      "name": "ゴールド"
+      "name": "ゴールド",
+      "backgroundColor": "#f1df93",
+      "fontColor": "#a57612",
+      "strokeColor": "#ffffff"
     }
   ],
   "genre": [
@@ -195,6 +234,36 @@
     {
       "id": 21,
       "name": "デジタル"
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "name": "LOVELY MELODY"
+    },
+    {
+      "id": 2,
+      "name": "VIVID STAR"
+    },
+    {
+      "id": 3,
+      "name": "Radiant Abyss"
+    },
+    {
+      "id": 4,
+      "name": "Eternal Revue"
+    },
+    {
+      "id": 5,
+      "name": "ELECTRO REMIX"
+    },
+    {
+      "id": 6,
+      "name": "Cherry Sugar"
+    },
+    {
+      "id": 7,
+      "name": "SHINING DIVA"
     }
   ]
 }
