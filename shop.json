@@ -1884,7 +1884,7 @@
     "prefId": 27,
     "prefName": "大阪府",
     "area": "近畿",
-    "address": "大阪市浪速区日本橋3丁目6?186F",
+    "address": "大阪市浪速区日本橋3丁目6-18 6F",
     "name": "アニメガ×ソフマップなんば店"
   },
   {
@@ -12086,5 +12086,365 @@
     "area": "北海道・東北",
     "address": "南相馬市原町区字大木戸金場77",
     "name": "モーリーファンタジー南相馬"
+  },
+  {
+    "shopId": "1537",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "土岐市土岐津町土岐口1372番地-1 ",
+    "name": "MIRANOイオンモール土岐店"
+  },
+  {
+    "shopId": "1538",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "蓮田市東4-5-13",
+    "name": "MEGAドン･キホーテ蓮田"
+  },
+  {
+    "shopId": "1539",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市市川1-19-11 ｻﾝ市川ﾊｲﾂ1F",
+    "name": "アミューズメントエース市川"
+  },
+  {
+    "shopId": "1540",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "尼崎市潮江1-3-1",
+    "name": "アル・プラザ あまがさき"
+  },
+  {
+    "shopId": "1541",
+    "prefId": 26,
+    "prefName": "京都分",
+    "area": "近畿",
+    "address": "京都市伏見区御堂前町616",
+    "name": "イオン伏見"
+  },
+  {
+    "shopId": "1542",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "練馬区光が丘5-1-1",
+    "name": "イオン練馬"
+  },
+  {
+    "shopId": "1543",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市南区別所1-14-1",
+    "name": "イトーヨーカドー横浜別所"
+  },
+  {
+    "shopId": "1544",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "葛飾区高砂3-12-5",
+    "name": "イトーヨーカドー高砂"
+  },
+  {
+    "shopId": "1545",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "上尾市谷津2-1-1",
+    "name": "イトーヨーカドー上尾駅前"
+  },
+  {
+    "shopId": "1546",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "和光市丸山台1-9-3",
+    "name": "イトーヨーカドー和光"
+  },
+  {
+    "shopId": "1547",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "駿東郡清水町伏見58-1 ｻﾝﾄﾑｰﾝｱﾈｯｸｽ3F",
+    "name": "キッズトレイン三島"
+  },
+  {
+    "shopId": "1548",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "小田原市中里208 ﾀﾞｲﾅｼﾃｨｰｳｪｽﾄ4F",
+    "name": "キッズトレイン小田原"
+  },
+  {
+    "shopId": "1549",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "上尾市柏座1丁目1-27 上尾ﾌﾟﾘﾝｽﾋﾞﾙ2F",
+    "name": "ゲームプリンスランド上尾"
+  },
+  {
+    "shopId": "1550",
+    "prefId": 24,
+    "prefName": "三重県",
+    "area": "近畿",
+    "address": "松阪市田村町235-1",
+    "name": "セガアドバンスモール松阪"
+  },
+  {
+    "shopId": "1551",
+    "prefId": 45,
+    "prefName": "宮崎県",
+    "area": "九州・沖縄",
+    "address": "宮崎市老松2丁目2番22号 ｱﾐｭﾌﾟﾗｻﾞみやざきうみ館4F0401区画",
+    "name": "セガアミュプラザみやざき"
+  },
+  {
+    "shopId": "1552",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "西宮市甲子園八番町1-100 ららぽｰと甲子園2F",
+    "name": "セガららぽーと甲子園"
+  },
+  {
+    "shopId": "1553",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "中津市沖代町1-2-16",
+    "name": "セガワールド中津"
+  },
+  {
+    "shopId": "1554",
+    "prefId": 31,
+    "prefName": "鳥取県",
+    "area": "中国",
+    "address": "米子市両三柳2778-2",
+    "name": "セガワールド米子"
+  },
+  {
+    "shopId": "1555",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "熊谷市美土里町1-169",
+    "name": "GiGO籠原"
+  },
+  {
+    "shopId": "1556",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "岡崎市上地3-50-4",
+    "name": "GiGO岡崎"
+  },
+  {
+    "shopId": "1557",
+    "prefId": 25,
+    "prefName": "滋賀県",
+    "area": "近畿",
+    "address": "湖南市夏見二ﾂ橋356-1",
+    "name": "セガ甲西"
+  },
+  {
+    "shopId": "1558",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "松戸市日暮1-1-1 八柱駅第2ﾋﾞﾙ2F",
+    "name": "GiGO八柱"
+  },
+  {
+    "shopId": "1559",
+    "prefId": 38,
+    "prefName": "愛媛県",
+    "area": "四国",
+    "address": "松山市枝松5-7-32",
+    "name": "セガ松山"
+  },
+  {
+    "shopId": "1560",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "昭島市田中町573-1-4 ﾓﾘﾀｳﾝ内",
+    "name": "トイザラス昭島"
+  },
+  {
+    "shopId": "1561",
+    "prefId": 40,
+    "prefName": "福岡県",
+    "area": "九州・沖縄",
+    "address": "北九州市八幡東区東田3-2-102 ｲｵﾝﾓｰﾙ八幡東1F",
+    "name": "トイザラス八幡"
+  },
+  {
+    "shopId": "1562",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "永田町10-27 ﾊﾟｼｵｽ秩父店",
+    "name": "パシオス秩父"
+  },
+  {
+    "shopId": "1563",
+    "prefId": 33,
+    "prefName": "岡山県",
+    "area": "中国",
+    "address": "岡山市北区駅前町1-1-1",
+    "name": "ビックカメラ岡山駅前"
+  },
+  {
+    "shopId": "1564",
+    "prefId": 41,
+    "prefName": "佐賀県",
+    "area": "九州・沖縄",
+    "address": "佐賀市東与賀町大字下古賀字一本杉87番地1",
+    "name": "ポップンパーク佐賀"
+  },
+  {
+    "shopId": "1565",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "川越市新富町1-17-4",
+    "name": "レジャーランド川越"
+  },
+  {
+    "shopId": "1566",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "広島市佐伯区楽々園4丁目14-1 ﾅｲｽﾃﾞｲ2階",
+    "name": "わいわい王国メリーゴーランド楽々園"
+  },
+  {
+    "shopId": "1567",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "杉並区荻1-9-1 ﾀｳﾝｾﾌﾞﾝ",
+    "name": "西友荻窪"
+  },
+  {
+    "shopId": "1568",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "清瀬市元町1-4-5",
+    "name": "西友清瀬"
+  },
+  {
+    "shopId": "1569",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "尼崎市潮江１－３－１ ココエあまがさき内４Ｆ",
+    "name": "セガあまがさきキューズモール"
+  },
+  {
+    "shopId": "1570",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "富士見市山室1-1313 ららぽーと富士見3F 3520区画",
+    "name": "GiGOララポート富士見"
+  },
+  {
+    "shopId": "1571",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "神戸市中央区東川崎町1-7-2",
+    "name": "GiGO神戸umieサウスモール"
+  },
+  {
+    "shopId": "1572",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市中央区本町西５－２－９ イオン与野ショッピングセンター３Ｆ",
+    "name": "GiGOイオンモール与野"
+  },
+  {
+    "shopId": "1573",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊橋市藤沢町141 MEGAﾄﾞﾝ･ｷﾎｰﾃ豊橋店ｱﾐｭｰｽﾞﾒﾝﾄ棟1階",
+    "name": "アピナ豊橋"
+  },
+  {
+    "shopId": "1574",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "茅ヶ崎市新栄町１２?３",
+    "name": "LABI茅ヶ崎"
+  },
+  {
+    "shopId": "1575",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "土岐市土岐津町土岐口1372番地-1 ",
+    "name": "モーリーファンタジー土岐"
+  },
+  {
+    "shopId": "1576",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "横浜市保土ヶ谷区川辺町3-5 イオン天王町ショッピングセンター3F",
+    "name": "モーリーファンタジー天王町"
+  },
+  {
+    "shopId": "1577",
+    "prefId": 34,
+    "prefName": "広島県",
+    "area": "中国",
+    "address": "東広島市西条町助実1229ゆめﾓｰﾙ西条1階",
+    "name": "アピナ東広島"
+  },
+  {
+    "shopId": "1578",
+    "prefId": 14,
+    "prefName": "神奈川県",
+    "area": "関東",
+    "address": "小田原市中里208ﾀﾞｲﾅｼﾃｨ4F",
+    "name": "LIFE SELECT仙台あすと長町"
+  },
+  {
+    "shopId": "1579",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市太白区あすと長町3丁目1-2",
+    "name": "LIFE SELECT仙台アスト長町"
+  },
+  {
+    "shopId": "1580",
+    "prefId": 5,
+    "prefName": "秋田県",
+    "area": "北海道・東北",
+    "address": "由利本荘市石脇田中138番地",
+    "name": "モーリーファンタジー本荘"
+  },
+  {
+    "shopId": "1581",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "渋谷区神宮前1-8-2　SoLaDo竹下通り1階",
+    "name": "SoLaDo竹下通りプリマジスポット"
   }
 ]
