@@ -153,15 +153,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "18",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "豊島区東池袋1-5-7",
-    "name": "LABI1日本総本店池袋",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "19",
     "prefId": 34,
     "prefName": "広島県",
@@ -8046,15 +8037,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "912",
-    "prefId": 34,
-    "prefName": "広島県",
-    "area": "中国",
-    "address": "広島市佐伯区八幡1-24-17 ｻﾝﾘﾌﾞ五日市店2F",
-    "name": "ふぇすたらんど五日市",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "913",
     "prefId": 28,
     "prefName": "兵庫県",
@@ -13857,15 +13839,6 @@
     "area": "関東",
     "address": "川越市新富町1-17-4",
     "name": "レジャーランド川越",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1566",
-    "prefId": 34,
-    "prefName": "広島県",
-    "area": "中国",
-    "address": "広島市佐伯区楽々園4丁目14-1 ﾅｲｽﾃﾞｲ2階",
-    "name": "わいわい王国メリーゴーランド楽々園",
     "shopGroup": "1"
   },
   {
