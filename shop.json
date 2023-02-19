@@ -13975,5 +13975,14 @@
     "address": "渋谷区神宮前1-8-2　SoLaDo竹下通り1階",
     "name": "SoLaDo竹下通りプリマジスポット",
     "shopGroup": "2"
+  },
+  {
+    "shopId": "1582",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "加古川市加古川町寺家町173-1",
+    "name": "namcoニッケパークタウン加古川店",
+    "shopGroup": "1"
   }
 ]
