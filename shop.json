@@ -1809,15 +1809,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "204",
-    "prefId": 15,
-    "prefName": "新潟県",
-    "area": "中部",
-    "address": "新発田市住吉町五丁目11番5号ｲｵﾝﾓｰﾙ新発田2F",
-    "name": "SOYU ATHLETE PARK新発田",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "205",
     "prefId": 23,
     "prefName": "愛知県",
@@ -3798,15 +3789,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "432",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "足立区竹の塚517-1",
-    "name": "イトーヨーカドー竹の塚",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "433",
     "prefId": 27,
     "prefName": "大阪府",
@@ -4200,15 +4182,6 @@
     "area": "北海道・東北",
     "address": "札幌市手稲区西宮の沢5条2丁目11-15",
     "name": "キャッツアイ宮の沢",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "478",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "狭山市入間川3141",
-    "name": "キャッツアイ狭山",
     "shopGroup": "1"
   },
   {
@@ -6822,15 +6795,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "776",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "越谷市南越谷1-15-1 ﾗｸｰﾝ南越谷2F",
-    "name": "テクモピア南越谷",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "777",
     "prefId": 34,
     "prefName": "広島県",
@@ -7179,15 +7143,6 @@
     "area": "関東",
     "address": "八王子市東京都八王子市高倉町55-4",
     "name": "ドラマ八王子高倉",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "816",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "豊島区池袋本町2-7-5",
-    "name": "ドン・キホーテ北池袋",
     "shopGroup": "1"
   },
   {
@@ -8325,15 +8280,6 @@
     "shopGroup": "2"
   },
   {
-    "shopId": "945",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "渋谷区神宮前3-18-272F",
-    "name": "プリズムストーンカフェ原宿店",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "946",
     "prefId": 13,
     "prefName": "東京都",
@@ -8565,15 +8511,6 @@
     "area": "関東",
     "address": "船橋市浜町2丁目1番1号 ららぽｰとTOKYO-BAY西館3階ﾌﾟﾚﾋﾞﾏﾘﾝｶﾞｰﾃﾞﾝ",
     "name": "マリンガーデンららぽーと船橋",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "972",
-    "prefId": 22,
-    "prefName": "静岡県",
-    "area": "中部",
-    "address": "三島市本町3-35",
-    "name": "ミシマトイス",
     "shopGroup": "1"
   },
   {
@@ -12798,15 +12735,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1445",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "福生市東町5-1",
-    "name": "西友福生",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1446",
     "prefId": 13,
     "prefName": "東京都",
@@ -13689,15 +13617,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1549",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "上尾市柏座1丁目1-27 上尾ﾌﾟﾘﾝｽﾋﾞﾙ2F",
-    "name": "ゲームプリンスランド上尾",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1550",
     "prefId": 24,
     "prefName": "三重県",
@@ -13830,15 +13749,6 @@
     "area": "九州・沖縄",
     "address": "佐賀市東与賀町大字下古賀字一本杉87番地1",
     "name": "ポップンパーク佐賀",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1565",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "川越市新富町1-17-4",
-    "name": "レジャーランド川越",
     "shopGroup": "1"
   },
   {
