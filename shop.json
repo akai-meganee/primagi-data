@@ -4248,15 +4248,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "486",
-    "prefId": 24,
-    "prefName": "三重県",
-    "area": "近畿",
-    "address": "松阪市田村町235-1",
-    "name": "クラブセガアドバンスモール松阪",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "487",
     "prefId": 12,
     "prefName": "千葉県",
@@ -4271,7 +4262,7 @@
     "prefName": "神奈川県",
     "area": "関東",
     "address": "横浜市港北区綱島西2-6-29 城田ﾋﾞﾙ3F",
-    "name": "クラブセガ綱島",
+    "name": "GiGO綱島",
     "shopGroup": "1"
   },
   {
@@ -4298,7 +4289,7 @@
     "prefName": "神奈川県",
     "area": "関東",
     "address": "横浜市磯子区杉田1-1-1 らびすた新杉田2F",
-    "name": "クラブセガ新杉田",
+    "name": "GiGO新杉田",
     "shopGroup": "1"
   },
   {
@@ -4307,7 +4298,7 @@
     "prefName": "三重県",
     "area": "近畿",
     "address": "名張市希央台3番町15",
-    "name": "クラブセガ名張",
+    "name": "GiGO名張",
     "shopGroup": "1"
   },
   {
@@ -4739,7 +4730,7 @@
     "prefName": "広島県",
     "area": "中国",
     "address": "広島市西区扇2丁目1-45 LECT2F",
-    "name": "セガLECT広島",
+    "name": "GiGOLECT広島",
     "shopGroup": "1"
   },
   {
@@ -4752,21 +4743,12 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "544",
-    "prefId": 28,
-    "prefName": "兵庫県",
-    "area": "近畿",
-    "address": "尼崎市潮江1-3-1 ｺｺｴあまがさき内4F",
-    "name": "セガあまがさきキューズモール",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "545",
     "prefId": 12,
     "prefName": "千葉県",
     "area": "関東",
     "address": "千葉市中央区川崎町51-1 ﾊｰﾊﾞｰｼﾃｨ蘇我ﾌｪｽﾃｨﾊﾞﾙｳｫｰｸｱﾐｭｰｽﾞﾒﾝﾄ棟1F",
-    "name": "セガアリーナ蘇我",
+    "name": "GiGOフェスティバルウォーク蘇我",
     "shopGroup": "1"
   },
   {
@@ -4775,7 +4757,7 @@
     "prefName": "福岡県",
     "area": "九州・沖縄",
     "address": "中間市上蓮花寺3-1-1",
-    "name": "セガアリーナ中間",
+    "name": "GiGO中間",
     "shopGroup": "1"
   },
   {
@@ -4838,7 +4820,7 @@
     "prefName": "愛知県",
     "area": "中部",
     "address": "一宮市木曽川町黒田字南八ﾂヶ池25-1 ｲｵﾝﾓｰﾙ木曽川3F?",
-    "name": "セガイオンモール木曽川",
+    "name": "GIGOイオンモール木曽川",
     "shopGroup": "1"
   },
   {
@@ -4855,8 +4837,8 @@
     "prefId": 25,
     "prefName": "滋賀県",
     "area": "近畿",
-    "address": "草津市西渋川1-23-23 ?A/SQUARE?SARA南館2F",
-    "name": "セガエイスクエア草津",
+    "address": "草津市西渋川1-23-23 A/SQUARE SARA南館2F",
+    "name": "GIGOエイスクエア草津",
     "shopGroup": "1"
   },
   {
@@ -4883,7 +4865,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "尼崎市塚口本町4-8-1 つかしん内",
-    "name": "セガつかしん",
+    "name": "GiGOつかしん",
     "shopGroup": "1"
   },
   {
@@ -4892,7 +4874,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "寝屋川市寝屋南2-22-2 ﾋﾞﾊﾞﾓｰﾙ寝屋川ﾓｰﾙ棟2F",
-    "name": "セガビバモール寝屋川",
+    "name": "GiGOビバモール寝屋川",
     "shopGroup": "1"
   },
   {
@@ -4901,7 +4883,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "神戸市灘区味泥町6-1",
-    "name": "セガフェニックスプラザ摩耶",
+    "name": "GiGOフェニックスプラザ摩耶",
     "shopGroup": "1"
   },
   {
@@ -4910,7 +4892,7 @@
     "prefName": "岐阜県",
     "area": "中部",
     "address": "関市倉知516",
-    "name": "セガマーゴ関",
+    "name": "GiGOマーゴ関",
     "shopGroup": "1"
   },
   {
@@ -4937,7 +4919,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "大阪市阿倍野区阿倍野筋1-5-31 ｱﾎﾟﾛﾋﾞﾙ3F",
-    "name": "セガワールドアポロ",
+    "name": "GiGOあべのアポロ 3F/4F",
     "shopGroup": "2"
   },
   {
@@ -4955,7 +4937,7 @@
     "prefName": "栃木県",
     "area": "関東",
     "address": "宇都宮市東宿郷5-1-7",
-    "name": "セガワールド宇都宮",
+    "name": "GiGO宇都宮",
     "shopGroup": "1"
   },
   {
@@ -4982,7 +4964,7 @@
     "prefName": "三重県",
     "area": "近畿",
     "address": "津市久居明神町字風早2534-1",
-    "name": "セガワールド久居",
+    "name": "GiGO久居",
     "shopGroup": "1"
   },
   {
@@ -4991,7 +4973,7 @@
     "prefName": "大分県",
     "area": "九州・沖縄",
     "address": "大分市牧1-161-8",
-    "name": "セガワールド高城",
+    "name": "GiGO高城",
     "shopGroup": "1"
   },
   {
@@ -5018,7 +5000,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "東大阪市長堂1-1-1 ﾛﾝﾓｰﾙ布施内",
-    "name": "セガワールド布施",
+    "name": "GiGO布施",
     "shopGroup": "1"
   },
   {
@@ -5045,7 +5027,7 @@
     "prefName": "広島県",
     "area": "中国",
     "address": "福山市瀬戸町大字山北300",
-    "name": "セガワールド福山",
+    "name": "GiGO福山",
     "shopGroup": "1"
   },
   {
@@ -5054,7 +5036,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "枚方市須山町83-1 ｻﾝｼｬｲﾝﾌﾟﾗｻﾞ枚方内",
-    "name": "セガワールド枚方",
+    "name": "GiGO枚方",
     "shopGroup": "1"
   },
   {
@@ -5063,7 +5045,7 @@
     "prefName": "京都分",
     "area": "近畿",
     "address": "京都市伏見区桃山町山ﾉ下32 MOMOﾃﾗｽ別館2F",
-    "name": "セガワールド六地蔵",
+    "name": "GiGO MOMOテラス京都伏見",
     "shopGroup": "1"
   },
   {
@@ -5108,7 +5090,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "大阪市城東区今福東1-9-34",
-    "name": "セガ今福",
+    "name": "GiGO今福",
     "shopGroup": "1"
   },
   {
@@ -5144,7 +5126,7 @@
     "prefName": "山口県",
     "area": "中国",
     "address": "山口市小郡前田町3-6",
-    "name": "セガ小郡",
+    "name": "GiGOイオンタウン小郡",
     "shopGroup": "1"
   },
   {
@@ -5153,7 +5135,7 @@
     "prefName": "神奈川県",
     "area": "関東",
     "address": "小田原市中里296-1 ﾀﾞｲﾅｼﾃｨｲｰｽﾄﾓｰﾙｲﾄｰﾖｰｶ堂3F",
-    "name": "セガ小田原ダイナシティ",
+    "name": "GiGOダイナシティ小田原",
     "shopGroup": "1"
   },
   {
@@ -5180,7 +5162,7 @@
     "prefName": "長野県",
     "area": "中部",
     "address": "松本市渚1-7-1 なぎさﾗｲﾌｻｲﾄ内",
-    "name": "セガ松本",
+    "name": "GiGO松本",
     "shopGroup": "1"
   },
   {
@@ -5189,7 +5171,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "豊中市神州町1-15",
-    "name": "セガ新三国アルゴ7",
+    "name": "GiGO新三国アルゴ7",
     "shopGroup": "1"
   },
   {
@@ -5270,7 +5252,7 @@
     "prefName": "岡山県",
     "area": "中国",
     "address": "倉敷市西中新田535-2",
-    "name": "セガ倉敷",
+    "name": "GiGO倉敷",
     "shopGroup": "1"
   },
   {
@@ -5297,7 +5279,7 @@
     "prefName": "東京都",
     "area": "関東",
     "address": "文京区後楽1-3-61",
-    "name": "セガ東京ドームシティ",
+    "name": "GiGO東京ドームシティ",
     "shopGroup": "2"
   },
   {
@@ -5315,7 +5297,7 @@
     "prefName": "東京都",
     "area": "関東",
     "address": "町田市鶴間3丁目4-1 キッズディスカバリー2階E201区画",
-    "name": "セガ南町田グランベリーパークキッズディスカバリー",
+    "name": "GiGO南町田グランベリーパークキッズディスカバリー",
     "shopGroup": "1"
   },
   {
@@ -5351,7 +5333,7 @@
     "prefName": "佐賀県",
     "area": "九州・沖縄",
     "address": "武雄市武雄町大字富岡12517-1",
-    "name": "セガ武雄",
+    "name": "GiGO武雄",
     "shopGroup": "1"
   },
   {
@@ -5360,7 +5342,7 @@
     "prefName": "千葉県",
     "area": "関東",
     "address": "千葉市美浜区ひび野1-8 ﾒｯｾ･ｱﾐｭｰｽﾞ･ﾓｰﾙ1F",
-    "name": "セガ幕張",
+    "name": "GiGO幕張",
     "shopGroup": "1"
   },
   {
@@ -5378,7 +5360,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "明石市魚住町清水2464-1 ﾄﾞﾗｲﾌﾞｲﾝながさわ",
-    "name": "セガ明石",
+    "name": "GiGO明石",
     "shopGroup": "1"
   },
   {
@@ -5387,7 +5369,7 @@
     "prefName": "福島県",
     "area": "北海道・東北",
     "address": "いわき市勿来町四沢字鍵田13",
-    "name": "セガ勿来",
+    "name": "GiGO勿来",
     "shopGroup": "1"
   },
   {
@@ -7187,7 +7169,7 @@
     "prefName": "東京都",
     "area": "関東",
     "address": "渋谷区渋谷1-14-14 EST1F",
-    "name": "ハイテクランドセガ渋谷",
+    "name": "GiGO渋谷宮益坂",
     "shopGroup": "1"
   },
   {
@@ -8051,7 +8033,7 @@
     "prefName": "高知県",
     "area": "四国",
     "address": "高知市朝倉東町52-15",
-    "name": "フジグラン高知",
+    "name": "GiGOフジグラン高知",
     "shopGroup": "1"
   },
   {
@@ -8221,7 +8203,7 @@
     "prefId": 13,
     "prefName": "東京都",
     "area": "関東",
-    "address": "豊島区東池袋1-30-1 ｷｭｰﾌﾟﾗｻﾞ3F",
+    "address": "東京都豊島区東池袋1-30-1 ｸﾞﾗﾝﾄﾞｽｹｰﾌﾟ池袋3F",
     "name": "プラサカプコン池袋",
     "shopGroup": "2"
   },
@@ -13046,7 +13028,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "大阪市阿倍野筋１－６－１あべのマーケットパーク キューズモール３Ｆ",
-    "name": "セガあべのキューズモール",
+    "name": "GiGOあべのキューズモール",
     "shopGroup": "1"
   },
   {
@@ -13055,7 +13037,7 @@
     "prefName": "石川県",
     "area": "中部",
     "address": "金沢市諸江町３０－１",
-    "name": "セガアルプラザ金沢",
+    "name": "GiGOアルプラザ金沢",
     "shopGroup": "1"
   },
   {
@@ -13064,7 +13046,7 @@
     "prefName": "岡山県",
     "area": "中国",
     "address": "岡山市北区下石井１－２－１イオンモール岡山内６Ｆ",
-    "name": "セガイオンモール岡山",
+    "name": "GiGOイオンモール岡山",
     "shopGroup": "1"
   },
   {
@@ -13082,7 +13064,7 @@
     "prefName": "愛知県",
     "area": "中部",
     "address": "日進市赤池町箕ノ手１番",
-    "name": "セガプライムツリー赤池",
+    "name": "GiGOプライムツリー赤池",
     "shopGroup": "1"
   },
   {
@@ -13091,7 +13073,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "大阪市梅田1-11-4 駅前第4ビルB1F",
-    "name": "セガミスト2",
+    "name": "GiGO大阪第4ビル",
     "shopGroup": "1"
   },
   {
@@ -13100,7 +13082,7 @@
     "prefName": "長崎県",
     "area": "九州・沖縄",
     "address": "長崎市茂里町１－５５みらい長崎ココウォーク ５Ｆ",
-    "name": "セガみらい長崎ココウォーク",
+    "name": "GiGOみらい長崎ココウォーク",
     "shopGroup": "1"
   },
   {
@@ -13163,7 +13145,7 @@
     "prefName": "広島県",
     "area": "中国",
     "address": "安芸郡海田町南大正町３－３５",
-    "name": "セガ海田",
+    "name": "GiGO海田",
     "shopGroup": "1"
   },
   {
@@ -13181,7 +13163,7 @@
     "prefName": "島根県",
     "area": "中国",
     "address": "松江市嫁島町１２－１５",
-    "name": "セガ松江",
+    "name": "GiGO松江",
     "shopGroup": "1"
   },
   {
@@ -13199,7 +13181,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "東大阪市稲田新町３－９－６４",
-    "name": "セガ東大阪",
+    "name": "GiGOフレスポ東大阪",
     "shopGroup": "1"
   },
   {
@@ -13208,7 +13190,7 @@
     "prefName": "徳島県",
     "area": "四国",
     "address": "徳島市南末広町４－９５－２スエヒロボウル１Ｆ",
-    "name": "セガ徳島スエヒロボウル",
+    "name": "GiGO徳島スエヒロボウル",
     "shopGroup": "1"
   },
   {
@@ -13217,7 +13199,7 @@
     "prefName": "長崎県",
     "area": "九州・沖縄",
     "address": "諫早市小川町９０－１",
-    "name": "ハイテクセガもみの木村",
+    "name": "GiGO諫早",
     "shopGroup": "1"
   },
   {
@@ -13307,7 +13289,7 @@
     "prefName": "静岡県",
     "area": "中部",
     "address": "静岡市葵区七間町4 ",
-    "name": "セガ静岡",
+    "name": "GiGO静岡",
     "shopGroup": "1"
   },
   {
@@ -13622,7 +13604,7 @@
     "prefName": "三重県",
     "area": "近畿",
     "address": "松阪市田村町235-1",
-    "name": "セガアドバンスモール松阪",
+    "name": "GIGOアドバンスモール松阪",
     "shopGroup": "1"
   },
   {
@@ -13631,7 +13613,7 @@
     "prefName": "宮崎県",
     "area": "九州・沖縄",
     "address": "宮崎市老松2丁目2番22号 ｱﾐｭﾌﾟﾗｻﾞみやざきうみ館4F0401区画",
-    "name": "セガアミュプラザみやざき",
+    "name": "セガGIGO",
     "shopGroup": "1"
   },
   {
@@ -13640,7 +13622,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "西宮市甲子園八番町1-100 ららぽｰと甲子園2F",
-    "name": "セガららぽーと甲子園",
+    "name": "GiGOららぽーと甲子園",
     "shopGroup": "1"
   },
   {
@@ -13649,7 +13631,7 @@
     "prefName": "大分県",
     "area": "九州・沖縄",
     "address": "中津市沖代町1-2-16",
-    "name": "セガワールド中津",
+    "name": "GiGO中津",
     "shopGroup": "1"
   },
   {
@@ -13658,7 +13640,7 @@
     "prefName": "鳥取県",
     "area": "中国",
     "address": "米子市両三柳2778-2",
-    "name": "セガワールド米子",
+    "name": "GiGO米子",
     "shopGroup": "1"
   },
   {
@@ -13685,7 +13667,7 @@
     "prefName": "滋賀県",
     "area": "近畿",
     "address": "湖南市夏見二ﾂ橋356-1",
-    "name": "セガ甲西",
+    "name": "GiGO甲西",
     "shopGroup": "1"
   },
   {
@@ -13703,7 +13685,7 @@
     "prefName": "愛媛県",
     "area": "四国",
     "address": "松山市枝松5-7-32",
-    "name": "セガ松山",
+    "name": "GiGO松山",
     "shopGroup": "1"
   },
   {
@@ -13775,7 +13757,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "尼崎市潮江１－３－１ ココエあまがさき内４Ｆ",
-    "name": "セガあまがさきキューズモール",
+    "name": "GIGOあまがさきキューズモール",
     "shopGroup": "1"
   },
   {
@@ -13893,6 +13875,78 @@
     "area": "近畿",
     "address": "加古川市加古川町寺家町173-1",
     "name": "namcoニッケパークタウン加古川店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1583",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "周南市青山町1-18ゆめタウン徳山店2階",
+    "name": "アピナ徳山",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1584",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "苫小牧市木場町１丁目３",
+    "name": "キャッツアイ苫小牧駅前店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1585",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "江東区東雲１丁目９−１０",
+    "name": "モーリーファンタジー東雲",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1586",
+    "prefId": 17,
+    "prefName": "石川県",
+    "area": "中部",
+    "address": "金沢市福久2-58　イオン金沢店３F",
+    "name": "アミューズアイランド金沢店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1587",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "豊川市白鳥町兎足1-16",
+    "name": "モーリーファンタジー新豊川",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1588",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "兵庫県明石市東仲ノ町６－１　アスピア明石　南館３Ｆ",
+    "name": "タイトーＦステーション　アスピア明石店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1589",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "佐久市佐久平駅南25-3",
+    "name": "ヤマダデンキテックランドNew佐久本店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1590",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "名古屋市緑区鳴海町伝治山3-9",
+    "name": "アピタ鳴海店",
     "shopGroup": "1"
   }
 ]
