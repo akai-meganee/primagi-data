@@ -1971,15 +1971,6 @@
     "shopGroup": "2"
   },
   {
-    "shopId": "223",
-    "prefId": 22,
-    "prefName": "静岡県",
-    "area": "中部",
-    "address": "富士市永田町2-99",
-    "name": "THE 3RD PLANET 富士",
-    "shopGroup": "2"
-  },
-  {
     "shopId": "224",
     "prefId": 23,
     "prefName": "愛知県",
@@ -1996,15 +1987,6 @@
     "address": "寝屋川市石津中町25-26",
     "name": "YAZ寝屋川",
     "shopGroup": "1"
-  },
-  {
-    "shopId": "226",
-    "prefId": 32,
-    "prefName": "島根県",
-    "area": "中国",
-    "address": "出雲市大塚町650-1",
-    "name": "youmeCIRCUS出雲",
-    "shopGroup": "2"
   },
   {
     "shopId": "227",
@@ -4167,15 +4149,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "476",
-    "prefId": 27,
-    "prefName": "大阪府",
-    "area": "近畿",
-    "address": "大阪市北区芝田1-1-3阪急三番街",
-    "name": "キデイランド大阪梅田",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "477",
     "prefId": 1,
     "prefName": "北海道",
@@ -5387,7 +5360,7 @@
     "prefName": "茨城県",
     "area": "関東",
     "address": "龍ケ崎市藤ｹ丘4-2-8",
-    "name": "セガ龍ヶ崎",
+    "name": "GiGO龍ヶ崎",
     "shopGroup": "1"
   },
   {
@@ -8475,15 +8448,6 @@
     "area": "近畿",
     "address": "和歌山市新生町7-20ｲｽﾞﾐﾔ内2F",
     "name": "ペリカン和歌山",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "970",
-    "prefId": 37,
-    "prefName": "香川県",
-    "area": "四国",
-    "address": "坂出市江尻町北新開1166-1 ﾎﾟｯﾌﾟﾝﾊﾟｰｸ坂出店ﾌﾟﾚﾋﾞﾌﾟﾚｲﾗﾝﾄﾞ",
-    "name": "ポップンパーク坂出",
     "shopGroup": "1"
   },
   {
@@ -12848,7 +12812,7 @@
     "prefName": "千葉県",
     "area": "関東",
     "address": "浦安市入船1-4-1 イオンスタイル新浦安4F",
-    "name": "GiGO イオンスタイル新浦安",
+    "name": "GiGOイオン新浦安ショッピングセンター",
     "shopGroup": "2"
   },
   {
@@ -13083,15 +13047,6 @@
     "area": "九州・沖縄",
     "address": "長崎市茂里町１－５５みらい長崎ココウォーク ５Ｆ",
     "name": "GiGOみらい長崎ココウォーク",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1490",
-    "prefId": 27,
-    "prefName": "大阪府",
-    "area": "近畿",
-    "address": "堺市東区八下町3-100",
-    "name": "セガワールド松原",
     "shopGroup": "1"
   },
   {
@@ -13613,7 +13568,7 @@
     "prefName": "宮崎県",
     "area": "九州・沖縄",
     "address": "宮崎市老松2丁目2番22号 ｱﾐｭﾌﾟﾗｻﾞみやざきうみ館4F0401区画",
-    "name": "セガGIGO",
+    "name": "GiGOｱﾐｭﾌﾟﾗｻﾞみやざき",
     "shopGroup": "1"
   },
   {
@@ -13833,15 +13788,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1578",
-    "prefId": 14,
-    "prefName": "神奈川県",
-    "area": "関東",
-    "address": "小田原市中里208ﾀﾞｲﾅｼﾃｨ4F",
-    "name": "LIFE SELECT仙台あすと長町",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1579",
     "prefId": 4,
     "prefName": "宮城県",
@@ -13948,5 +13894,23 @@
     "address": "名古屋市緑区鳴海町伝治山3-9",
     "name": "アピタ鳴海店",
     "shopGroup": "1"
+  },
+  {
+    "shopId": "1591",
+    "prefId": 28,
+    "prefName": "兵庫県",
+    "area": "近畿",
+    "address": "尼崎市次屋3-13-18 ",
+    "name": "TeccLIFESELECT尼崎",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1592",
+    "prefId": 22,
+    "prefName": "静岡県",
+    "area": "中部",
+    "address": "富士市永田町2-94",
+    "name": "サープラ富士あそびタウン",
+    "shopGroup": "2"
   }
 ]
