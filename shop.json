@@ -1,14 +1,5 @@
 [
   {
-    "shopId": "1",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "葛飾区新小岩1-44-6",
-    "name": "○×△□(ラくトス)",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "2",
     "prefId": 8,
     "prefName": "茨城県",
@@ -924,15 +915,6 @@
     "area": "近畿",
     "address": "和歌山市中野31-1ﾊﾟｰﾑｼﾃｨ和歌山店2F",
     "name": "namcoパームシティ和歌山店",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "106",
-    "prefId": 18,
-    "prefName": "福井県",
-    "area": "中部",
-    "address": "福井市大和田2-1230ｱﾋﾟﾀ福井大和田店2F",
-    "name": "namcoフェアモール福井大和田店",
     "shopGroup": "1"
   },
   {
@@ -1953,15 +1935,6 @@
     "shopGroup": "2"
   },
   {
-    "shopId": "224",
-    "prefId": 23,
-    "prefName": "愛知県",
-    "area": "中部",
-    "address": "知多郡東浦町大字緒川字上家佐川123-1",
-    "name": "TSUTAYA東浦",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "225",
     "prefId": 27,
     "prefName": "大阪府",
@@ -2742,15 +2715,6 @@
     "area": "中国",
     "address": "岡山市北区青江1丁目13-8",
     "name": "アミパラ岡山",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "315",
-    "prefId": 35,
-    "prefName": "山口県",
-    "area": "中国",
-    "address": "下関市長府才川1丁目42-48",
-    "name": "アミパラ下関",
     "shopGroup": "1"
   },
   {
@@ -5814,15 +5778,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "677",
-    "prefId": 40,
-    "prefName": "福岡県",
-    "area": "九州・沖縄",
-    "address": "福岡市博多区博多駅中央街6-12 ﾖﾄﾞﾊﾞｼｶﾒﾗ4F",
-    "name": "タイトーFステーション ヨドバシ博多",
-    "shopGroup": "2"
-  },
-  {
     "shopId": "678",
     "prefId": 19,
     "prefName": "山梨県",
@@ -6435,15 +6390,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "747",
-    "prefId": 2,
-    "prefName": "青森県",
-    "area": "北海道・東北",
-    "address": "青森市三好2-3-19",
-    "name": "タイトーステーション 青森ガーラモール",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "748",
     "prefId": 27,
     "prefName": "大阪府",
@@ -6687,15 +6633,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "775",
-    "prefId": 35,
-    "prefName": "山口県",
-    "area": "中国",
-    "address": "山口市阿知須4825-1 ｻﾝﾊﾟｰｸあじす2階",
-    "name": "てくもぴあ阿知須",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "777",
     "prefId": 34,
     "prefName": "広島県",
@@ -6711,15 +6648,6 @@
     "area": "関東",
     "address": "港区台場1-7-1ｱｸｱｼﾃｨお台場1F",
     "name": "トイザらスお台場",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "779",
-    "prefId": 35,
-    "prefName": "山口県",
-    "area": "中国",
-    "address": "下関市ゆめﾀｳﾝ1-1ゆめﾀｳﾝ長府内",
-    "name": "トイザらス下関",
     "shopGroup": "1"
   },
   {
@@ -9621,15 +9549,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1110",
-    "prefId": 9,
-    "prefName": "栃木県",
-    "area": "関東",
-    "address": "佐野市高萩町1324-1 ｲｵﾝ佐野新都市店2階",
-    "name": "モーリーファンタジー佐野新都市",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1111",
     "prefId": 14,
     "prefName": "神奈川県",
@@ -10512,15 +10431,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1209",
-    "prefId": 7,
-    "prefName": "福島県",
-    "area": "北海道・東北",
-    "address": "相馬市馬場野字雨田51 ｲｵﾝ相馬店2階",
-    "name": "モーリーファンタジー相馬",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1210",
     "prefId": 14,
     "prefName": "神奈川県",
@@ -11202,15 +11112,6 @@
     "area": "九州・沖縄",
     "address": "宮崎市大淀4-7-30 ｲｵﾝ南宮崎店3階",
     "name": "モーリーファンタジー南宮崎",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1287",
-    "prefId": 12,
-    "prefName": "千葉県",
-    "area": "関東",
-    "address": "市川市南行徳2-20-25 SOCOLA南行徳店",
-    "name": "モーリーファンタジー南行徳",
     "shopGroup": "1"
   },
   {
@@ -12924,15 +12825,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1480",
-    "prefId": 35,
-    "prefName": "山口県",
-    "area": "中国",
-    "address": "周南市古市1-4-1イオンタウン周南内",
-    "name": "アミパラ新南陽店",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1481",
     "prefId": 27,
     "prefName": "大阪府",
@@ -13866,6 +13758,24 @@
     "area": "北海道・東北",
     "address": "東松島市小松字上浮足43 番地 イオンタウン矢本",
     "name": "SOYU Game Field 矢本店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1600",
+    "prefId": 4,
+    "prefName": "宮城県",
+    "area": "北海道・東北",
+    "address": "仙台市宮城野区榴岡1-3-1 ",
+    "name": "モーリーファンタジーヨドバシ仙台",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1601",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "市川市南行徳2-20-25 SOCOLA南行徳2階",
+    "name": "モーリーファンタジーソコラ南行徳",
     "shopGroup": "1"
   }
 ]
