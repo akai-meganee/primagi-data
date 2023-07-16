@@ -603,15 +603,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "70",
-    "prefId": 12,
-    "prefName": "千葉県",
-    "area": "関東",
-    "address": "八千代市緑ヶ丘2-1-3ｲｵﾝﾓｰﾙ八千代緑ヶ丘4F",
-    "name": "namcoイオンモール八千代緑が丘店",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "71",
     "prefId": 28,
     "prefName": "兵庫県",
@@ -1989,15 +1980,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "233",
-    "prefId": 1,
-    "prefName": "北海道",
-    "area": "北海道・東北",
-    "address": "札幌市東区北42条東7-1-1 嶋ﾋﾞﾙ2階",
-    "name": "アドアーズ札幌北42条",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "234",
     "prefId": 13,
     "prefName": "東京都",
@@ -3138,15 +3120,6 @@
     "area": "北海道・東北",
     "address": "秋田市土崎港南2-3-41",
     "name": "イオン土崎港",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "368",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "江東区東雲1-9-10",
-    "name": "イオン東雲",
     "shopGroup": "1"
   },
   {
@@ -7200,15 +7173,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "843",
-    "prefId": 28,
-    "prefName": "兵庫県",
-    "area": "近畿",
-    "address": "姫路市広畑区夢前町1-1-1 MEGAﾞﾄﾞﾝ･ｷﾎｰﾃ1F",
-    "name": "ハローズガーデン広畑",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "844",
     "prefId": 8,
     "prefName": "茨城県",
@@ -7443,15 +7407,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "870",
-    "prefId": 4,
-    "prefName": "宮城県",
-    "area": "北海道・東北",
-    "address": "仙台市泉区松森字斉兵衛58-1",
-    "name": "ビーカム松森",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "871",
     "prefId": 6,
     "prefName": "山形県",
@@ -7503,7 +7458,7 @@
     "area": "関東",
     "address": "調布市小島町2-48-6 ﾄﾘｴ京王調布3F",
     "name": "ビックカメラ京王調布",
-    "shopGroup": "1"
+    "shopGroup": "2"
   },
   {
     "shopId": "877",
@@ -7512,15 +7467,6 @@
     "area": "中国",
     "address": "広島市南区松原町5-1",
     "name": "ビックカメラ広島駅前",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "878",
-    "prefId": 1,
-    "prefName": "北海道",
-    "area": "北海道・東北",
-    "address": "札幌市中央区北五条西2-1 札幌ESTAJRﾀﾜｰ4F",
-    "name": "ビックカメラ札幌",
     "shopGroup": "1"
   },
   {
@@ -7611,7 +7557,7 @@
     "area": "関東",
     "address": "豊島区西池袋1-16-3 7F",
     "name": "ビックカメラ池袋西口",
-    "shopGroup": "1"
+    "shopGroup": "2"
   },
   {
     "shopId": "889",
@@ -13236,7 +13182,7 @@
     "area": "関東",
     "address": "豊島区東池袋1-22-10 ヒューマックスパビリオン池袋サンシャイン60通り 1F",
     "name": "namco池袋店",
-    "shopGroup": "1"
+    "shopGroup": "2"
   },
   {
     "shopId": "1534",
@@ -13806,12 +13752,30 @@
     "shopGroup": "1"
   },
   {
+    "shopId": "1609",
+    "prefId": 12,
+    "prefName": "千葉県",
+    "area": "関東",
+    "address": "千葉市美浜区豊砂1-5 ｲｵﾝﾓｰﾙ幕張新都心ﾌｧﾐﾘｰﾓｰﾙ3F",
+    "name": "namcoトンデミ幕張イオンモール幕張新都心店",
+    "shopGroup": "1"
+  },
+  {
     "shopId": "1610",
     "prefId": 4,
     "prefName": "宮城県",
     "area": "北海道・東北",
     "address": "富谷市大清水1ｰ33-1 ｲｵﾝﾓｰﾙ富谷別棟109ｼﾈﾏｽﾞ富谷1F",
     "name": "アピナ富谷",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1611",
+    "prefId": 31,
+    "prefName": "鳥取県",
+    "area": "中国",
+    "address": "米子市西福原2-1-10 米子しんまち天満屋3階",
+    "name": "PRIZE SPOT PALO米子しんまち天満屋",
     "shopGroup": "1"
   }
 ]
