@@ -1409,7 +1409,7 @@
     "prefName": "三重県",
     "area": "近畿",
     "address": "伊勢市楠部町乙160 ｲｵﾝ伊勢店",
-    "name": "NICOPAイオン伊勢",
+    "name": "NICOPA 伊勢",
     "shopGroup": "1"
   },
   {
@@ -1418,7 +1418,7 @@
     "prefName": "三重県",
     "area": "近畿",
     "address": "津市桜橋3-446 ｲｵﾝ津店2F",
-    "name": "NICOPAイオン津",
+    "name": "NICOPA & nico groundイオン津",
     "shopGroup": "1"
   },
   {
@@ -2283,15 +2283,6 @@
     "area": "関東",
     "address": "東松山市あずま町4-3",
     "name": "アピタ東松山",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "269",
-    "prefId": 20,
-    "prefName": "長野県",
-    "area": "中部",
-    "address": "飯田市鼎名古熊2461ｱﾋﾟﾀ飯田店",
-    "name": "アピタ飯田店ゲームコーナー",
     "shopGroup": "1"
   },
   {
@@ -3992,7 +3983,7 @@
     "prefName": "愛知県",
     "area": "中部",
     "address": "名古屋市緑区鳴海町字有松裏200番地 ｲｵﾝﾀｳﾝ有松1F",
-    "name": "カラフルパークイオン有松",
+    "name": "カラフルパーク有松",
     "shopGroup": "1"
   },
   {
@@ -4001,7 +3992,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "伊丹市池尻4丁目1-1 ｲｵﾝ伊丹昆陽SC内4F",
-    "name": "カリヨンパークイオン伊丹昆陽",
+    "name": "NICOPAイオンモール伊丹昆陽",
     "shopGroup": "1"
   },
   {
@@ -4819,8 +4810,8 @@
     "prefId": 13,
     "prefName": "東京都",
     "area": "関東",
-    "address": "江戸川区東葛西9-3-3 イトーヨーカドー3F",
-    "name": "セガワールド葛西",
+    "address": "江戸川区東葛西9-3-3 アリオ3F",
+    "name": "GiGOアリオ葛西",
     "shopGroup": "1"
   },
   {
@@ -5973,15 +5964,6 @@
     "area": "関東",
     "address": "大田区平和島1-1-1 BIGFUN平和島3F",
     "name": "タイトーステーション BIGFUN平和島",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "703",
-    "prefId": 20,
-    "prefName": "長野県",
-    "area": "中部",
-    "address": "東筑摩郡山形村7977 ｱｲｼﾃｨ21内",
-    "name": "タイトーステーション アイシティ21松本",
     "shopGroup": "1"
   },
   {
@@ -12614,7 +12596,7 @@
     "prefName": "千葉県",
     "area": "関東",
     "address": "柏市若柴175 ららぽｰと柏の葉店3F",
-    "name": "あそびのひろば柏の葉",
+    "name": "GiGOららぽーと柏の葉",
     "shopGroup": "1"
   },
   {
@@ -12830,7 +12812,7 @@
     "prefName": "長野県",
     "area": "中部",
     "address": "安曇野市豊科南穂高１１１５",
-    "name": "セガワールド豊科",
+    "name": "GiGO豊科",
     "shopGroup": "1"
   },
   {
@@ -13776,6 +13758,15 @@
     "area": "中国",
     "address": "米子市西福原2-1-10 米子しんまち天満屋3階",
     "name": "PRIZE SPOT PALO米子しんまち天満屋",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1612",
+    "prefId": 20,
+    "prefName": "長野県",
+    "area": "中部",
+    "address": "長野県飯田市鼎名古熊2461番地",
+    "name": "アピタ飯田",
     "shopGroup": "1"
   }
 ]
