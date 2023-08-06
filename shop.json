@@ -12348,15 +12348,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1435",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "所沢市小手指町1-25-8",
-    "name": "西友小手指",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1436",
     "prefId": 40,
     "prefName": "福岡県",
@@ -13203,15 +13194,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1539",
-    "prefId": 12,
-    "prefName": "千葉県",
-    "area": "関東",
-    "address": "市川市市川1-19-11 ｻﾝ市川ﾊｲﾂ1F",
-    "name": "アミューズメントエース市川",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1540",
     "prefId": 28,
     "prefName": "兵庫県",
@@ -13623,7 +13605,7 @@
     "area": "関東",
     "address": "東京都大田区山王2-4-1　大森駅前ビル2階",
     "name": "シルクハット大森",
-    "shopGroup": "1"
+    "shopGroup": "2"
   },
   {
     "shopId": "1597",
@@ -13767,6 +13749,15 @@
     "area": "中部",
     "address": "長野県飯田市鼎名古熊2461番地",
     "name": "アピタ飯田",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1613",
+    "prefId": 44,
+    "prefName": "大分県",
+    "area": "九州・沖縄",
+    "address": "別府市楠町382-7ゆめタウン別府店３階",
+    "name": "タイトーFステーションゆめタウン別府",
     "shopGroup": "1"
   }
 ]
