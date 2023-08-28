@@ -50283,6 +50283,40 @@
     "freeWord": "サマーメイドホワイトリーフ アクセ SR PM2-4-186 こんしゅうのみんなでどっちでSHOW！ サマーメイドでなつをかんじよう！ほしいのはどっち？"
   },
   {
+    "id": 2402,
+    "coordinationName": "サイバーゲームTシャツ",
+    "modelName": "SPCW11026_T01A",
+    "genre": 1,
+    "brand": 5,
+    "color": 7,
+    "rarity": 1,
+    "watcha": "400",
+    "category": 1,
+    "subCategory": 13,
+    "sealId": "PM2-4-187",
+    "collection": "20",
+    "release": "0",
+    "icon": "0",
+    "kinds": "Tシャツ",
+    "directoryNumber": 117,
+    "isShow": true,
+    "hasMainImage": false,
+    "span": "Tシャツショップ どっちでSHOWに投票する",
+    "isShowItem": true,
+    "order": 8,
+    "chapterName": "2P07",
+    "isWhichShowItem": false,
+    "chapter": "2P07",
+    "rarityStr": "R",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2402.png",
+    "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_1_sp.png",
+    "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
+    "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_1_7_sp.png",
+    "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_13_sp.png",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_117_main.jpg",
+    "freeWord": "サイバーゲームTシャツ トップス R PM2-4-187 Tシャツショップ どっちでSHOWに投票する"
+  },
+  {
     "id": 2403,
     "coordinationName": "サイバーゲームあうる",
     "modelName": "SPCW10972_T01A",
@@ -50308,12 +50342,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2403.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2403.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_6_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_12_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main_gb5xl.jpg",
     "freeWord": "サイバーゲームあうる トップス SR PM2-4-188 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50342,12 +50376,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2404.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2404.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_6_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_14_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main_gb5xl.jpg",
     "freeWord": "サイバーゲームあうる ボトムス SR PM2-4-189 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50376,12 +50410,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2405.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2405.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_8_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_21_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main_gb5xl.jpg",
     "freeWord": "サイバーゲームあうる シューズ SR PM2-4-190 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50410,12 +50444,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2406.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/gb5xl/2406.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_6_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_9_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_54_main_gb5xl.jpg",
     "freeWord": "サイバーゲームあうる アクセ SR PM2-4-191 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50444,12 +50478,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2407.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2407.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_11_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_9_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main_wdc15.jpg",
     "freeWord": "サイバーゲームタテジマ トップス SR PM2-4-192 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50478,12 +50512,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2408.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2408.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_11_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_13_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main_wdc15.jpg",
     "freeWord": "サイバーゲームタテジマ ボトムス SR PM2-4-193 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50512,12 +50546,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2409.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2409.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_5_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_12_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main_wdc15.jpg",
     "freeWord": "サイバーゲームタテジマ シューズ SR PM2-4-194 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -50546,12 +50580,12 @@
     "isWhichShowItem": true,
     "chapter": "2P07",
     "rarityStr": "SR",
-    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/2410.png",
+    "cardImg": "https://cdn.primagi.jp/assets/images/item/2P07/wdc15/2410.png",
     "rarityImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_rarity_2_sp.png",
     "brandImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_brand_5_sp.png",
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_11_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_21_sp.png",
-    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main.jpg",
+    "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P07/img_codination_55_main_wdc15.jpg",
     "freeWord": "サイバーゲームタテジマ アクセ SR PM2-4-195 こんしゅうのみんなでどっちでSHOW！ データをこえる！だれよりもすばらしいプリマジができるのはどっち？"
   },
   {
@@ -51661,7 +51695,7 @@
     "directoryNumber": 113,
     "isShow": true,
     "hasMainImage": true,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": 2,
     "chapterName": "2P08",
@@ -51674,7 +51708,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_2_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_113_main.jpg",
-    "freeWord": "パッションエトワールぱたの トップス OPR PM2-4-266 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "パッションエトワールぱたの トップス OPR PM2-4-266 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2116,
@@ -51695,7 +51729,7 @@
     "directoryNumber": 113,
     "isShow": true,
     "hasMainImage": false,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -51708,7 +51742,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_5_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_113_main.jpg",
-    "freeWord": "パッションエトワールぱたの ボトムス OPR PM2-4-267 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "パッションエトワールぱたの ボトムス OPR PM2-4-267 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2117,
@@ -51729,7 +51763,7 @@
     "directoryNumber": 113,
     "isShow": true,
     "hasMainImage": false,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -51742,7 +51776,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_10_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_113_main.jpg",
-    "freeWord": "パッションエトワールぱたの シューズ OPR PM2-4-268 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "パッションエトワールぱたの シューズ OPR PM2-4-268 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2118,
@@ -51763,7 +51797,7 @@
     "directoryNumber": 113,
     "isShow": true,
     "hasMainImage": false,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -51776,7 +51810,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_16_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_113_main.jpg",
-    "freeWord": "パッションエトワールぱたの アクセ OPR PM2-4-269 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "パッションエトワールぱたの アクセ OPR PM2-4-269 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2119,
@@ -51797,7 +51831,7 @@
     "directoryNumber": 114,
     "isShow": true,
     "hasMainImage": true,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": 2,
     "chapterName": "2P08",
@@ -51810,7 +51844,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_12_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_14_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_114_main.jpg",
-    "freeWord": "テクノマジカルタテジマ トップス OPR PM2-4-270 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "テクノマジカルタテジマ トップス OPR PM2-4-270 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2120,
@@ -51831,7 +51865,7 @@
     "directoryNumber": 114,
     "isShow": true,
     "hasMainImage": false,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -51844,7 +51878,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_12_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_21_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_114_main.jpg",
-    "freeWord": "テクノマジカルタテジマ ボトムス OPR PM2-4-271 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "テクノマジカルタテジマ ボトムス OPR PM2-4-271 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2121,
@@ -51865,7 +51899,7 @@
     "directoryNumber": 114,
     "isShow": true,
     "hasMainImage": false,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -51878,7 +51912,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_12_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_15_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_114_main.jpg",
-    "freeWord": "テクノマジカルタテジマ シューズ OPR PM2-4-272 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "テクノマジカルタテジマ シューズ OPR PM2-4-272 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2122,
@@ -51899,7 +51933,7 @@
     "directoryNumber": 114,
     "isShow": true,
     "hasMainImage": false,
-    "span": "2023年8月31日（木）〜9月20日（水）",
+    "span": "2023年9月21日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -51912,7 +51946,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_4_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_6_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_114_main.jpg",
-    "freeWord": "テクノマジカルタテジマ アクセ OPR PM2-4-273 2023年8月31日（木）〜9月20日（水）"
+    "freeWord": "テクノマジカルタテジマ アクセ OPR PM2-4-273 2023年9月21日（木）～10月18日（水）"
   },
   {
     "id": 2332,
@@ -94689,7 +94723,7 @@
     "directoryNumber": 101,
     "isShow": true,
     "hasMainImage": true,
-    "span": "リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））",
+    "span": "リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）",
     "isShowItem": true,
     "order": 5,
     "chapterName": "2P08",
@@ -94702,7 +94736,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_16_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_101_main.jpg",
-    "freeWord": "ラッキーコーデメイツ ワンピ SR P-465 リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））"
+    "freeWord": "ラッキーコーデメイツ ワンピ SR P-465 リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）"
   },
   {
     "id": 20683,
@@ -94723,7 +94757,7 @@
     "directoryNumber": 101,
     "isShow": true,
     "hasMainImage": false,
-    "span": "リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））",
+    "span": "リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -94736,7 +94770,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_5_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_101_main.jpg",
-    "freeWord": "ラッキーコーデメイツ シューズ SR P-466 リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））"
+    "freeWord": "ラッキーコーデメイツ シューズ SR P-466 リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）"
   },
   {
     "id": 20684,
@@ -94757,7 +94791,7 @@
     "directoryNumber": 101,
     "isShow": true,
     "hasMainImage": false,
-    "span": "リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））",
+    "span": "リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -94770,7 +94804,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_3_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_11_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_101_main.jpg",
-    "freeWord": "ラッキーコーデメイツ アクセ SR P-467 リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））"
+    "freeWord": "ラッキーコーデメイツ アクセ SR P-467 リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）"
   },
   {
     "id": 20685,
@@ -94927,7 +94961,7 @@
     "directoryNumber": 102,
     "isShow": true,
     "hasMainImage": true,
-    "span": "リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）",
+    "span": "リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））",
     "isShowItem": true,
     "order": 5,
     "chapterName": "2P08",
@@ -94940,7 +94974,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_4_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_15_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_102_main.jpg",
-    "freeWord": "ビビッドメロディディーバ ワンピ UR P-472 リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）"
+    "freeWord": "ビビッドメロディディーバ ワンピ UR P-472 リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））"
   },
   {
     "id": 20690,
@@ -94961,7 +94995,7 @@
     "directoryNumber": 102,
     "isShow": true,
     "hasMainImage": false,
-    "span": "リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）",
+    "span": "リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -94974,7 +95008,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_4_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_13_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_102_main.jpg",
-    "freeWord": "ビビッドメロディディーバ シューズ UR P-473 リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）"
+    "freeWord": "ビビッドメロディディーバ シューズ UR P-473 リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））"
   },
   {
     "id": 20691,
@@ -94995,7 +95029,7 @@
     "directoryNumber": 102,
     "isShow": true,
     "hasMainImage": false,
-    "span": "リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）",
+    "span": "リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））",
     "isShowItem": true,
     "order": null,
     "chapterName": "2P08",
@@ -95008,7 +95042,7 @@
     "genreColorImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_genre_color_3_4_sp.png",
     "subCategoryImg": "https://cdn.primagi.jp/assets/images/item/common/ico_props_subCategory_12_sp.png",
     "coordinateImg": "https://cdn.primagi.jp/assets/images/item/2P08/img_codination_102_main.jpg",
-    "freeWord": "ビビッドメロディディーバ アクセ UR P-474 リアルプリマジスタジオ店舗プレゼントコード　2023年8月31日（木）～10月18日（水）"
+    "freeWord": "ビビッドメロディディーバ アクセ UR P-474 リアルプリマジスタジオげんていプリマジ（2023年8月31日（木）～10月18日（水））"
   },
   {
     "id": 20699,
