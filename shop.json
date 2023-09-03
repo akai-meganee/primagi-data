@@ -1269,15 +1269,6 @@
     "shopGroup": "2"
   },
   {
-    "shopId": "147",
-    "prefId": 1,
-    "prefName": "北海道",
-    "area": "北海道・東北",
-    "address": "札幌市中央区北5条西2丁目1番地1ｴｽﾀ9階",
-    "name": "namco札幌エスタ店",
-    "shopGroup": "2"
-  },
-  {
     "shopId": "148",
     "prefId": 12,
     "prefName": "千葉県",
@@ -1904,7 +1895,7 @@
     "prefName": "東京都",
     "area": "関東",
     "address": "多摩市落合1-41-1 ﾏｸﾞﾚﾌﾞWEST1階･2階",
-    "name": "THE 3RD PLANET 多摩センター",
+    "name": "アミューズメント＆ゲーム　マグレブ",
     "shopGroup": "2"
   },
   {
@@ -4770,15 +4761,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "564",
-    "prefId": 21,
-    "prefName": "岐阜県",
-    "area": "中部",
-    "address": "大垣市林町6-80-21 ｱｸｱｳｫｰｸ大垣2F",
-    "name": "GiGOアクアウォーク大垣",
-    "shopGroup": "2"
-  },
-  {
     "shopId": "565",
     "prefId": 27,
     "prefName": "大阪府",
@@ -5128,15 +5110,6 @@
     "address": "足立区竹の塚6丁目8番6号 ﾋﾟｰくんPlaza-B",
     "name": "GiGO竹の塚",
     "shopGroup": "1"
-  },
-  {
-    "shopId": "608",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "文京区後楽1-3-61",
-    "name": "GiGO東京ドームシティ",
-    "shopGroup": "2"
   },
   {
     "shopId": "609",
@@ -6054,15 +6027,6 @@
     "area": "九州・沖縄",
     "address": "福岡市博多区住吉1-2-22 ｷｬﾅﾙｼﾃｨ博多4F",
     "name": "タイトーステーション キャナルシティ博多",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "714",
-    "prefId": 40,
-    "prefName": "福岡県",
-    "area": "九州・沖縄",
-    "address": "北九州市小倉南区下曽根新町10-1",
-    "name": "タイトーステーション サニーサイドモール小倉",
     "shopGroup": "1"
   },
   {
@@ -9198,15 +9162,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1080",
-    "prefId": 7,
-    "prefName": "福島県",
-    "area": "北海道・東北",
-    "address": "郡山市日和田町字小原1 ｲｵﾝ郡山ﾌｪｽﾀ店1階",
-    "name": "モーリーファンタジー郡山フェスタ",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1081",
     "prefId": 26,
     "prefName": "京都分",
@@ -10653,15 +10608,6 @@
     "area": "関東",
     "address": "袖ケ浦市長浦駅前1-7 ｲｵﾝ長浦店2F",
     "name": "モーリーファンタジー長浦",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1244",
-    "prefId": 27,
-    "prefName": "大阪府",
-    "area": "近畿",
-    "address": "大阪市平野区長吉長原西1-1-10 ｲｵﾝ長吉店4F",
-    "name": "モーリーファンタジー長吉",
     "shopGroup": "1"
   },
   {
@@ -12510,15 +12456,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1455",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "さいたま市緑区美園5-50-1ｲｵﾝﾓｰﾙ浦和美園2F",
-    "name": "宝島浦和美園",
-    "shopGroup": "2"
-  },
-  {
     "shopId": "1456",
     "prefId": 10,
     "prefName": "群馬県",
@@ -13749,6 +13686,15 @@
     "area": "九州・沖縄",
     "address": "別府市楠町382-7ゆめタウン別府店３階",
     "name": "タイトーFステーションゆめタウン別府",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1614",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "西多摩郡瑞穂町武蔵382-1",
+    "name": "ドラマ瑞穂",
     "shopGroup": "1"
   }
 ]
