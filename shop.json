@@ -3987,15 +3987,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "470",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "多摩市永山1-4ｸﾞﾘﾅｰﾄﾞ永山3階",
-    "name": "キッズトレイン永山",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "471",
     "prefId": 14,
     "prefName": "神奈川県",
@@ -10359,15 +10350,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1216",
-    "prefId": 10,
-    "prefName": "群馬県",
-    "area": "関東",
-    "address": "太田市石原町81 ｲｵﾝ太田店2階",
-    "name": "モーリーファンタジー太田",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1217",
     "prefId": 22,
     "prefName": "静岡県",
@@ -11697,15 +11679,6 @@
     "area": "九州・沖縄",
     "address": "中津市蛭子町3丁目99番地ゆめﾀｳﾝ中津店3階ゆめｷｯｽﾞ",
     "name": "ゆめタウン中津店",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1369",
-    "prefId": 40,
-    "prefName": "福岡県",
-    "area": "九州・沖縄",
-    "address": "八女市大字蒲原988-28",
-    "name": "ゆめタウン八女店",
     "shopGroup": "1"
   },
   {
@@ -13695,6 +13668,51 @@
     "area": "関東",
     "address": "西多摩郡瑞穂町武蔵382-1",
     "name": "ドラマ瑞穂",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1615",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市中央区北4条西2-1 札幌東急内9階",
+    "name": "東急百貨店さっぽろアミューズパーク",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1616",
+    "prefId": 35,
+    "prefName": "山口県",
+    "area": "中国",
+    "address": "柳井市駅南1-14 ﾐｽﾀｰﾏｯｸｽ柳井ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ内",
+    "name": "テクモピア柳井",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1617",
+    "prefId": 11,
+    "prefName": "埼玉県",
+    "area": "関東",
+    "address": "さいたま市緑区美園5-50-1 ｲｵﾝﾓｰﾙ浦和美園2F ",
+    "name": "宝島浦和美園",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1618",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "文京区後楽1-3-61 ",
+    "name": "GiGO東京ドームシティ",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1619",
+    "prefId": 21,
+    "prefName": "岐阜県",
+    "area": "中部",
+    "address": "大垣市林町6-80-21 ｱｸｱｳｫｰｸ大垣2F",
+    "name": "GiGOアクアウォーク大垣",
     "shopGroup": "1"
   }
 ]
