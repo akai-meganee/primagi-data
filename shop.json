@@ -1318,7 +1318,7 @@
     "prefId": 13,
     "prefName": "東京都",
     "area": "関東",
-    "address": "大田区西蒲田7丁目69番1号東急ﾌﾟﾗｻﾞ蒲田7階",
+    "address": "大田区西蒲田7丁目69番1号 東急ﾌﾟﾗｻﾞ蒲田7階",
     "name": "namco東急プラザ蒲田店",
     "shopGroup": "2"
   },
@@ -4477,9 +4477,9 @@
     "prefId": 13,
     "prefName": "東京都",
     "area": "関東",
-    "address": "大田区西蒲田7-2-3第二醍醐ﾋﾞﾙ地下1階~2階",
+    "address": "大田区西蒲田7-2-3 第二醍醐ﾋﾞﾙ地下1階~2階",
     "name": "シルクハット蒲田西口",
-    "shopGroup": "1"
+    "shopGroup": "2"
   },
   {
     "shopId": "531",
@@ -9968,7 +9968,7 @@
     "prefName": "北海道",
     "area": "北海道・東北",
     "address": "札幌市厚別区厚別中央2条5-6-2 duo22Fｹﾞｰﾑｺｰﾅｰ",
-    "name": "モーリーファンタジー新さっぽろ",
+    "name": "ゲームコーナー新さっぽろ",
     "shopGroup": "1"
   },
   {
@@ -12141,15 +12141,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1421",
-    "prefId": 10,
-    "prefName": "群馬県",
-    "area": "関東",
-    "address": "太田市西矢島町1622",
-    "name": "レジャーランド太田",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1422",
     "prefId": 10,
     "prefName": "群馬県",
@@ -12807,15 +12798,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1505",
-    "prefId": 40,
-    "prefName": "福岡県",
-    "area": "九州・沖縄",
-    "address": "八女市蒲原988-28",
-    "name": "ゆめタウン八女",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1506",
     "prefId": 34,
     "prefName": "広島県",
@@ -13227,15 +13209,6 @@
     "area": "九州・沖縄",
     "address": "北九州市八幡東区東田3-2-102 ｲｵﾝﾓｰﾙ八幡東1F",
     "name": "トイザラス八幡",
-    "shopGroup": "1"
-  },
-  {
-    "shopId": "1562",
-    "prefId": 11,
-    "prefName": "埼玉県",
-    "area": "関東",
-    "address": "永田町10-27 ﾊﾟｼｵｽ秩父店",
-    "name": "パシオス秩父",
     "shopGroup": "1"
   },
   {
@@ -13714,5 +13687,14 @@
     "address": "大垣市林町6-80-21 ｱｸｱｳｫｰｸ大垣2F",
     "name": "GiGOアクアウォーク大垣",
     "shopGroup": "1"
+  },
+  {
+    "shopId": "1620",
+    "prefId": 13,
+    "prefName": "東京都",
+    "area": "関東",
+    "address": "豊島区東池袋1-13-6 ",
+    "name": "GiGO総本店",
+    "shopGroup": "2"
   }
 ]
