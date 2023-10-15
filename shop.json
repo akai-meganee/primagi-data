@@ -8217,15 +8217,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "974",
-    "prefId": 5,
-    "prefName": "秋田県",
-    "area": "北海道・東北",
-    "address": "大館市御成町3丁目7-58 いとく大館ｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ3階",
-    "name": "メルヘンランド大館",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "975",
     "prefId": 37,
     "prefName": "香川県",
@@ -9967,7 +9958,7 @@
     "prefId": 1,
     "prefName": "北海道",
     "area": "北海道・東北",
-    "address": "札幌市厚別区厚別中央2条5-6-2 duo22Fｹﾞｰﾑｺｰﾅｰ",
+    "address": "札幌市厚別区厚別中央2条5-6-2 duo2 2Fｹﾞｰﾑｺｰﾅｰ",
     "name": "ゲームコーナー新さっぽろ",
     "shopGroup": "1"
   },
@@ -12573,15 +12564,6 @@
     "shopGroup": "1"
   },
   {
-    "shopId": "1474",
-    "prefId": 5,
-    "prefName": "秋田県",
-    "area": "北海道・東北",
-    "address": "南秋田郡五城目町大字大川西野字田屋前138 イオンスーパーセンター五城目店内",
-    "name": "AN.KIN.TAN五城目店",
-    "shopGroup": "1"
-  },
-  {
     "shopId": "1477",
     "prefId": 14,
     "prefName": "神奈川県",
@@ -13345,15 +13327,6 @@
     "address": "由利本荘市石脇田中138番地",
     "name": "モーリーファンタジー本荘",
     "shopGroup": "1"
-  },
-  {
-    "shopId": "1581",
-    "prefId": 13,
-    "prefName": "東京都",
-    "area": "関東",
-    "address": "渋谷区神宮前1-8-2　SoLaDo竹下通り1階",
-    "name": "SoLaDo竹下通りプリマジスポット",
-    "shopGroup": "2"
   },
   {
     "shopId": "1582",
