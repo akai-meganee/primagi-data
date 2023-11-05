@@ -113,7 +113,7 @@
     "prefName": "群馬県",
     "area": "関東",
     "address": "高崎市栄町1-1",
-    "name": "LABI 1 LIFE SELECT高崎",
+    "name": "ヤマダデンキLABI１LIFESELECT高崎",
     "shopGroup": "1"
   },
   {
@@ -122,7 +122,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "豊中市新千里東町1-2-20",
-    "name": "LABI LIFE SELECT千里",
+    "name": "ヤマダデンキLABILIFESELECT千里",
     "shopGroup": "1"
   },
   {
@@ -149,7 +149,7 @@
     "prefName": "広島県",
     "area": "中国",
     "address": "広島市中区胡町5-22",
-    "name": "LABI広島",
+    "name": "ヤマダデンキLABI広島",
     "shopGroup": "1"
   },
   {
@@ -176,7 +176,7 @@
     "prefName": "宮城県",
     "area": "北海道・東北",
     "address": "仙台市青葉区中央3-6-1",
-    "name": "LABI仙台",
+    "name": "ヤマダデンキLABI仙台",
     "shopGroup": "1"
   },
   {
@@ -194,7 +194,7 @@
     "prefName": "愛知県",
     "area": "中部",
     "address": "名古屋市中村区名駅1-2-5",
-    "name": "LABI名古屋",
+    "name": "ヤマダデンキLABI名古屋",
     "shopGroup": "1"
   },
   {
@@ -203,7 +203,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "大阪市北区大深町4-8 LINKSUMEDA5F",
-    "name": "LINKS UMEDA",
+    "name": "モーリーファンタジーLINKSUMEDA",
     "shopGroup": "2"
   },
   {
@@ -1751,7 +1751,7 @@
     "prefName": "兵庫県",
     "area": "近畿",
     "address": "神戸市中央区三宮町1-5-8",
-    "name": "SD LABI 三宮",
+    "name": "ヤマダデンキLABI三宮",
     "shopGroup": "1"
   },
   {
@@ -1814,7 +1814,7 @@
     "prefName": "静岡県",
     "area": "中部",
     "address": "浜松市東区宮竹町322番地の1",
-    "name": "THE 3RD PLANET OZ浜松",
+    "name": "ｻｰﾌﾟﾗOZ浜松あそびﾀｳﾝ",
     "shopGroup": "1"
   },
   {
@@ -4757,7 +4757,7 @@
     "prefName": "大阪府",
     "area": "近畿",
     "address": "大阪市阿倍野区阿倍野筋1-5-31 ｱﾎﾟﾛﾋﾞﾙ3F",
-    "name": "GiGOあべのアポロ 3F/4F",
+    "name": "GiGOあべのアポロ3F",
     "shopGroup": "2"
   },
   {
@@ -12794,7 +12794,7 @@
     "prefName": "秋田県",
     "area": "北海道・東北",
     "address": "能代市鰄渕字古屋布１番 イオンタウン能代内",
-    "name": "SOYU Game Field能代",
+    "name": "ソユーゲームフィールド能代",
     "shopGroup": "1"
   },
   {
@@ -13280,7 +13280,7 @@
     "prefName": "神奈川県",
     "area": "関東",
     "address": "茅ヶ崎市新栄町１２?３",
-    "name": "LABI茅ヶ崎",
+    "name": "ヤマダデンキLABILIFESELECT茅ヶ崎",
     "shopGroup": "1"
   },
   {
@@ -13669,5 +13669,41 @@
     "address": "豊島区東池袋1-13-6 ",
     "name": "GiGO総本店",
     "shopGroup": "2"
+  },
+  {
+    "shopId": "1621",
+    "prefId": 10,
+    "prefName": "群馬県",
+    "area": "関東",
+    "address": "太田市石原町81 ｲｵﾝ太田店2階",
+    "name": "モーリーファンタジー太田",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1622",
+    "prefId": 1,
+    "prefName": "北海道",
+    "area": "北海道・東北",
+    "address": "札幌市北区北6条西6-1-1 WEST6",
+    "name": "GiGO札幌駅西口",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1623",
+    "prefId": 23,
+    "prefName": "愛知県",
+    "area": "中部",
+    "address": "小牧市東1-126 ｲｵﾝ小牧2F",
+    "name": "ﾋﾟｰﾀｰﾊﾟﾝと仲間たち 小牧店",
+    "shopGroup": "1"
+  },
+  {
+    "shopId": "1624",
+    "prefId": 27,
+    "prefName": "大阪府",
+    "area": "近畿",
+    "address": "門真市末広町41-2 ",
+    "name": "ﾓｰﾘｰﾌｧﾝﾀｼﾞｰそよら古川橋駅前店",
+    "shopGroup": "1"
   }
 ]
